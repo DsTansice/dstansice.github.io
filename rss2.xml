@@ -4,15 +4,15 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>零域</title>
-    <link>https://sky6.ml/</link>
+    <link>https://0skyu.cn/</link>
     
     <image>
-      <url>https://sky6.ml/icon.png</url>
+      <url>https://0skyu.cn/icon.png</url>
       <title>零域</title>
-      <link>https://sky6.ml/</link>
+      <link>https://0skyu.cn/</link>
     </image>
     
-    <atom:link href="https://sky6.ml/rss2.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://0skyu.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>零域，一个技术控博客</description>
     <pubDate>Sun, 28 Feb 2021 10:26:05 GMT</pubDate>
@@ -20,8 +20,8 @@
     
     <item>
       <title>实例</title>
-      <link>https://sky6.ml/2021/03/01/1/</link>
-      <guid>https://sky6.ml/2021/03/01/1/</guid>
+      <link>https://0skyu.cn/2021/03/01/1/</link>
+      <guid>https://0skyu.cn/2021/03/01/1/</guid>
       <pubDate>Sun, 28 Feb 2021 16:00:00 GMT</pubDate>
       
         
@@ -38,14 +38,14 @@
       
       
       
-      <comments>https://sky6.ml/2021/03/01/1/#disqus_thread</comments>
+      <comments>https://0skyu.cn/2021/03/01/1/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Hello World</title>
-      <link>https://sky6.ml/2021/02/28/hello-world/</link>
-      <guid>https://sky6.ml/2021/02/28/hello-world/</guid>
+      <link>https://0skyu.cn/2021/02/28/hello-world/</link>
+      <guid>https://0skyu.cn/2021/02/28/hello-world/</guid>
       <pubDate>Sun, 28 Feb 2021 07:50:42 GMT</pubDate>
       
         
@@ -61,14 +61,14 @@
       
       
       
-      <comments>https://sky6.ml/2021/02/28/hello-world/#disqus_thread</comments>
+      <comments>https://0skyu.cn/2021/02/28/hello-world/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>零域博客成功建立</title>
-      <link>https://sky6.ml/2021/02/28/%E9%9B%B6%E5%9F%9F-%E4%B8%80%E4%B8%AA%E6%8A%80%E6%9C%AF%E6%8E%A7%E5%8D%9A%E5%AE%A2/</link>
-      <guid>https://sky6.ml/2021/02/28/%E9%9B%B6%E5%9F%9F-%E4%B8%80%E4%B8%AA%E6%8A%80%E6%9C%AF%E6%8E%A7%E5%8D%9A%E5%AE%A2/</guid>
+      <link>https://0skyu.cn/2021/02/28/%E9%9B%B6%E5%9F%9F-%E4%B8%80%E4%B8%AA%E6%8A%80%E6%9C%AF%E6%8E%A7%E5%8D%9A%E5%AE%A2/</link>
+      <guid>https://0skyu.cn/2021/02/28/%E9%9B%B6%E5%9F%9F-%E4%B8%80%E4%B8%AA%E6%8A%80%E6%9C%AF%E6%8E%A7%E5%8D%9A%E5%AE%A2/</guid>
       <pubDate>Sat, 27 Feb 2021 16:00:00 GMT</pubDate>
       
         
@@ -85,7 +85,7 @@
       
       
       
-      <comments>https://sky6.ml/2021/02/28/%E9%9B%B6%E5%9F%9F-%E4%B8%80%E4%B8%AA%E6%8A%80%E6%9C%AF%E6%8E%A7%E5%8D%9A%E5%AE%A2/#disqus_thread</comments>
+      <comments>https://0skyu.cn/2021/02/28/%E9%9B%B6%E5%9F%9F-%E4%B8%80%E4%B8%AA%E6%8A%80%E6%9C%AF%E6%8E%A7%E5%8D%9A%E5%AE%A2/#disqus_thread</comments>
       
     </item>
     
