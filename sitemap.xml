@@ -2,6 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://0skyu.cn/weyu/index.html</loc>
+    
+    <lastmod>2021-03-02</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://0skyu.cn/archives/index.html</loc>
+    
+    <lastmod>2021-03-02</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://0skyu.cn/tags/index.html</loc>
+    
+    <lastmod>2021-03-02</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://0skyu.cn/link/index.html</loc>
+    
+    <lastmod>2021-03-02</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://0skyu.cn/GalleryGroup/index.html</loc>
+    
+    <lastmod>2021-03-02</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://0skyu.cn/categories/index.html</loc>
+    
+    <lastmod>2021-03-02</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://0skyu.cn/p/3481.html</loc>
     
     <lastmod>2021-03-01</lastmod>
@@ -65,20 +107,6 @@
   </url>
   
   <url>
-    <loc>https://0skyu.cn/baidu_verify_code-tgwTuKnojO.html</loc>
-    
-    <lastmod>2021-03-01</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://0skyu.cn/yandex_75da87505e3b28c8.html</loc>
-    
-    <lastmod>2021-03-01</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://0skyu.cn/pwa/manifest.json</loc>
     
     <lastmod>2021-02-28</lastmod>
@@ -86,42 +114,7 @@
   </url>
   
   <url>
-    <loc>https://0skyu.cn/weyu/index.html</loc>
-    
-    <lastmod>2021-02-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://0skyu.cn/GalleryGroup/index.html</loc>
-    
-    <lastmod>2021-02-28</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://0skyu.cn/GalleryGroup/photo/index.html</loc>
-    
-    <lastmod>2021-02-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://0skyu.cn/link/index.html</loc>
-    
-    <lastmod>2021-02-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://0skyu.cn/categories/index.html</loc>
-    
-    <lastmod>2021-02-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://0skyu.cn/tags/index.html</loc>
     
     <lastmod>2021-02-28</lastmod>
     
