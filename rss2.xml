@@ -15,14 +15,14 @@
     <atom:link href="https://0skyu.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>一个技术控，爱技术，爱分享</description>
-    <pubDate>Wed, 31 Mar 2021 04:41:15 GMT</pubDate>
+    <pubDate>Wed, 31 Mar 2021 04:54:31 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
       <title>Hello World</title>
       <link>https://0skyu.cn/p/16107.html</link>
       <guid>https://0skyu.cn/p/16107.html</guid>
-      <pubDate>Wed, 31 Mar 2021 04:41:15 GMT</pubDate>
+      <pubDate>Wed, 31 Mar 2021 04:54:31 GMT</pubDate>
       
         
         
@@ -38,6 +38,32 @@
       
       
       <comments>https://0skyu.cn/p/16107.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>actions的测试</title>
+      <link>https://0skyu.cn/p/a9a1.html</link>
+      <guid>https://0skyu.cn/p/a9a1.html</guid>
+      <pubDate>Wed, 31 Mar 2021 04:54:31 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;actions的测试&lt;br&gt;好&lt;br&gt;👌🏻&lt;/p&gt;
+&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align:</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/tags/%E6%B5%8B%E8%AF%95/">测试</category>
+      
+      
+      <comments>https://0skyu.cn/p/a9a1.html#disqus_thread</comments>
       
     </item>
     
@@ -320,13 +346,13 @@
       <category domain="https://0skyu.cn/categories/test/">test</category>
       
       
+      <category domain="https://0skyu.cn/tags/%E6%B5%8B%E8%AF%95/">测试</category>
+      
       <category domain="https://0skyu.cn/tags/%E5%8D%87%E7%BA%A7/">升级</category>
       
       <category domain="https://0skyu.cn/tags/%E5%9C%A8%E7%BA%BF/">在线</category>
       
       <category domain="https://0skyu.cn/tags/%E6%8A%80%E6%9C%AF/">技术</category>
-      
-      <category domain="https://0skyu.cn/tags/%E6%B5%8B%E8%AF%95/">测试</category>
       
       <category domain="https://0skyu.cn/tags/%E8%AF%AD%E6%B3%95/">语法</category>
       
