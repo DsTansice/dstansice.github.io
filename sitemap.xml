@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://0skyu.cn/tags/index.html</loc>
+    
+    <lastmod>2021-03-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://0skyu.cn/weyu/index.html</loc>
+    
+    <lastmod>2021-03-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://0skyu.cn/html_code.html</loc>
+    
+    <lastmod>2021-03-31</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://0skyu.cn/manifest.json</loc>
     
     <lastmod>2021-03-31</lastmod>
@@ -30,14 +51,14 @@
   </url>
   
   <url>
-    <loc>https://0skyu.cn/tags/index.html</loc>
+    <loc>https://0skyu.cn/p/b3eb.html</loc>
     
     <lastmod>2021-03-31</lastmod>
     
   </url>
   
   <url>
-    <loc>https://0skyu.cn/weyu/index.html</loc>
+    <loc>https://0skyu.cn/p/ebf1.html</loc>
     
     <lastmod>2021-03-31</lastmod>
     
@@ -58,6 +79,13 @@
   </url>
   
   <url>
+    <loc>https://0skyu.cn/p/ec85.html</loc>
+    
+    <lastmod>2021-03-31</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://0skyu.cn/p/d3e7.html</loc>
     
     <lastmod>2021-03-31</lastmod>
@@ -65,7 +93,7 @@
   </url>
   
   <url>
-    <loc>https://0skyu.cn/html_code.html</loc>
+    <loc>https://0skyu.cn/p/3481.html</loc>
     
     <lastmod>2021-03-31</lastmod>
     
@@ -87,27 +115,6 @@
   
   <url>
     <loc>https://0skyu.cn/categories/index.html</loc>
-    
-    <lastmod>2021-03-31</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://0skyu.cn/p/b3eb.html</loc>
-    
-    <lastmod>2021-03-31</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://0skyu.cn/p/ebf1.html</loc>
-    
-    <lastmod>2021-03-31</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://0skyu.cn/p/3481.html</loc>
     
     <lastmod>2021-03-31</lastmod>
     
@@ -313,6 +320,13 @@
   
   <url>
     <loc>https://0skyu.cn/tags/%E5%85%8D%E8%B4%B9/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://0skyu.cn/tags/%E8%BF%90%E8%90%A5/</loc>
     <lastmod>2021-03-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
