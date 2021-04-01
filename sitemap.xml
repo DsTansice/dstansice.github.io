@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://0skyu.cn/weyu/index.html</loc>
-    
-    <lastmod>2021-04-01</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://0skyu.cn/manifest.json</loc>
     
     <lastmod>2021-04-01</lastmod>
@@ -51,6 +44,34 @@
   </url>
   
   <url>
+    <loc>https://0skyu.cn/weyu/index.html</loc>
+    
+    <lastmod>2021-04-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://0skyu.cn/html_code.html</loc>
+    
+    <lastmod>2021-04-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://0skyu.cn/archives/index.html</loc>
+    
+    <lastmod>2021-04-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://0skyu.cn/categories/index.html</loc>
+    
+    <lastmod>2021-04-01</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://0skyu.cn/p/b3eb.html</loc>
     
     <lastmod>2021-04-01</lastmod>
@@ -79,7 +100,7 @@
   </url>
   
   <url>
-    <loc>https://0skyu.cn/p/ec85.html</loc>
+    <loc>https://0skyu.cn/p/5b99.html</loc>
     
     <lastmod>2021-04-01</lastmod>
     
@@ -100,28 +121,7 @@
   </url>
   
   <url>
-    <loc>https://0skyu.cn/html_code.html</loc>
-    
-    <lastmod>2021-04-01</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://0skyu.cn/app/index.html</loc>
-    
-    <lastmod>2021-04-01</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://0skyu.cn/archives/index.html</loc>
-    
-    <lastmod>2021-04-01</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://0skyu.cn/categories/index.html</loc>
     
     <lastmod>2021-04-01</lastmod>
     
