@@ -2,27 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://0skyu.cn/tags/index.html</loc>
-    
-    <lastmod>2021-04-01</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://0skyu.cn/video/index.html</loc>
-    
-    <lastmod>2021-04-01</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://0skyu.cn/weyu/index.html</loc>
-    
-    <lastmod>2021-04-01</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://0skyu.cn/manifest.json</loc>
     
     <lastmod>2021-04-01</lastmod>
@@ -45,6 +24,27 @@
   
   <url>
     <loc>https://0skyu.cn/pwa/manifest.json</loc>
+    
+    <lastmod>2021-04-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://0skyu.cn/tags/index.html</loc>
+    
+    <lastmod>2021-04-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://0skyu.cn/video/index.html</loc>
+    
+    <lastmod>2021-04-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://0skyu.cn/weyu/index.html</loc>
     
     <lastmod>2021-04-01</lastmod>
     
@@ -79,6 +79,13 @@
   </url>
   
   <url>
+    <loc>https://0skyu.cn/p/ec85.html</loc>
+    
+    <lastmod>2021-04-01</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://0skyu.cn/p/5b99.html</loc>
     
     <lastmod>2021-04-01</lastmod>
@@ -87,6 +94,13 @@
   
   <url>
     <loc>https://0skyu.cn/p/d3e7.html</loc>
+    
+    <lastmod>2021-04-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://0skyu.cn/p/3481.html</loc>
     
     <lastmod>2021-04-01</lastmod>
     
@@ -115,13 +129,6 @@
   
   <url>
     <loc>https://0skyu.cn/categories/index.html</loc>
-    
-    <lastmod>2021-04-01</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://0skyu.cn/p/3481.html</loc>
     
     <lastmod>2021-04-01</lastmod>
     
@@ -341,6 +348,13 @@
   
   <url>
     <loc>https://0skyu.cn/tags/%E5%85%8D%E8%B4%B9/</loc>
+    <lastmod>2021-04-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://0skyu.cn/tags/%E6%B0%B4%E6%96%87%E7%AB%A0/</loc>
     <lastmod>2021-04-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
