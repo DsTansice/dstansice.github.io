@@ -2,20 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://0skyu.cn/manifest.json</loc>
-    
-    <lastmod>2021-04-01</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://0skyu.cn/link/index.html</loc>
-    
-    <lastmod>2021-04-01</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://0skyu.cn/music/index.html</loc>
     
     <lastmod>2021-04-01</lastmod>
@@ -51,6 +37,41 @@
   </url>
   
   <url>
+    <loc>https://0skyu.cn/html_code.html</loc>
+    
+    <lastmod>2021-04-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://0skyu.cn/manifest.json</loc>
+    
+    <lastmod>2021-04-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://0skyu.cn/archives/index.html</loc>
+    
+    <lastmod>2021-04-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://0skyu.cn/categories/index.html</loc>
+    
+    <lastmod>2021-04-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://0skyu.cn/link/index.html</loc>
+    
+    <lastmod>2021-04-01</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://0skyu.cn/p/b3eb.html</loc>
     
     <lastmod>2021-04-01</lastmod>
@@ -79,7 +100,7 @@
   </url>
   
   <url>
-    <loc>https://0skyu.cn/p/ec85.html</loc>
+    <loc>https://0skyu.cn/p/ebf9.html</loc>
     
     <lastmod>2021-04-01</lastmod>
     
@@ -107,28 +128,7 @@
   </url>
   
   <url>
-    <loc>https://0skyu.cn/html_code.html</loc>
-    
-    <lastmod>2021-04-01</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://0skyu.cn/app/index.html</loc>
-    
-    <lastmod>2021-04-01</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://0skyu.cn/archives/index.html</loc>
-    
-    <lastmod>2021-04-01</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://0skyu.cn/categories/index.html</loc>
     
     <lastmod>2021-04-01</lastmod>
     
@@ -354,7 +354,7 @@
   </url>
   
   <url>
-    <loc>https://0skyu.cn/tags/%E6%B0%B4%E6%96%87%E7%AB%A0/</loc>
+    <loc>https://0skyu.cn/tags/%E9%A6%99%E9%A6%99/</loc>
     <lastmod>2021-04-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
