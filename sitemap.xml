@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://0skyu.cn/weyu/index.html</loc>
+    
+    <lastmod>2021-04-01</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://0skyu.cn/manifest.json</loc>
     
     <lastmod>2021-04-01</lastmod>
@@ -44,14 +51,14 @@
   </url>
   
   <url>
-    <loc>https://0skyu.cn/weyu/index.html</loc>
+    <loc>https://0skyu.cn/html_code.html</loc>
     
     <lastmod>2021-04-01</lastmod>
     
   </url>
   
   <url>
-    <loc>https://0skyu.cn/html_code.html</loc>
+    <loc>https://0skyu.cn/app/index.html</loc>
     
     <lastmod>2021-04-01</lastmod>
     
@@ -115,13 +122,6 @@
   
   <url>
     <loc>https://0skyu.cn/p/3481.html</loc>
-    
-    <lastmod>2021-04-01</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://0skyu.cn/app/index.html</loc>
     
     <lastmod>2021-04-01</lastmod>
     
