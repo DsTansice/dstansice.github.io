@@ -50,6 +50,19 @@
     
     
     <entry>
+      <title>哔哔一下</title>
+      <link href="p/57bd.html"/>
+      <url>p/57bd.html</url>
+      
+        <content type="html"><![CDATA[<!-- 存放哔哔的容器 --><p><div id="bbtalk"></div><br><!-- 引用 bbtalk --></p><script src="https://cdn.jsdelivr.net/npm/bbtalk@0.1.5/dist/bbtalk.min.js"></script><script>bbtalk.init({  appId: "5aV1Pr9ThmIq01tGyG7b28FN-MdYXbMMI",  appKey: "RnrsdfHcJk8z3bPQlnwukugr",  serverURLs: '5av1pr9t.api.lncldglobal.com'})</script>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>外挂标签实例</title>
       <link href="p/be04.html"/>
       <url>p/be04.html</url>
@@ -116,7 +129,7 @@
       <link href="p/5b99.html"/>
       <url>p/5b99.html</url>
       
-        <content type="html"><![CDATA[<p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/dstansice/img@main/1617179471000.png" alt></p><p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/[2233娘_吐魂].png" alt></p><p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/huaji/huaji(11" alt>.gif)</p><p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/huaji/huaji(12" alt>.jpg)</p><p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/huaji/huaji(17" alt>.gif)</p><p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/huaji/huaji(13" alt>.jpg)</p><p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/huaji/huaji(4" alt>.png)</p>]]></content>
+        <content type="html"><![CDATA[<p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/dstansice/img@main/1617179471000.png" alt></p>]]></content>
       
       
       

@@ -15,14 +15,14 @@
     <atom:link href="https://0skyu.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>一个技术控，爱技术，爱分享</description>
-    <pubDate>Sat, 03 Apr 2021 08:43:54 GMT</pubDate>
+    <pubDate>Sat, 03 Apr 2021 09:12:35 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
       <title>actions的测试</title>
       <link>https://0skyu.cn/p/a9a1.html</link>
       <guid>https://0skyu.cn/p/a9a1.html</guid>
-      <pubDate>Sat, 03 Apr 2021 08:43:54 GMT</pubDate>
+      <pubDate>Sat, 03 Apr 2021 09:12:35 GMT</pubDate>
       
         
         
@@ -64,6 +64,31 @@
       
       
       <comments>https://0skyu.cn/p/7d58.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>哔哔一下</title>
+      <link>https://0skyu.cn/p/57bd.html</link>
+      <guid>https://0skyu.cn/p/57bd.html</guid>
+      <pubDate>Fri, 02 Apr 2021 16:00:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;!-- 存放哔哔的容器 --&gt;
+&lt;p&gt;&lt;div id=&quot;bbtalk&quot;&gt;&lt;/div&gt;&lt;br&gt;&lt;!-- 引用 bbtalk --&gt;&lt;/p&gt;
+&lt;script</description>
+          
+        
+      
+      
+      
+      
+      
+      
+      <comments>https://0skyu.cn/p/57bd.html#disqus_thread</comments>
       
     </item>
     
@@ -142,8 +167,7 @@
         
           
           
-      <description>&lt;p&gt;&lt;img src= &quot;/img/loading.gif&quot; data-lazy-src=&quot;https://cdn.jsdelivr.net/gh/dstansice/img@main/1617179471000.png&quot; alt&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=</description>
+      <description>&lt;p&gt;&lt;img src= &quot;/img/loading.gif&quot; data-lazy-src=&quot;https://cdn.jsdelivr.net/gh/dstansice/img@main/1617179471000.png&quot;</description>
           
         
       
