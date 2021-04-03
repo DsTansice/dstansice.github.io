@@ -15,14 +15,14 @@
     <atom:link href="https://0skyu.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>一个技术控，爱技术，爱分享</description>
-    <pubDate>Sat, 03 Apr 2021 13:42:16 GMT</pubDate>
+    <pubDate>Sat, 03 Apr 2021 13:55:10 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
       <title>actions的测试</title>
       <link>https://0skyu.cn/p/a9a1.html</link>
       <guid>https://0skyu.cn/p/a9a1.html</guid>
-      <pubDate>Sat, 03 Apr 2021 13:42:16 GMT</pubDate>
+      <pubDate>Sat, 03 Apr 2021 13:55:10 GMT</pubDate>
       
         
         
@@ -132,32 +132,6 @@
     </item>
     
     <item>
-      <title>我可爱的香香</title>
-      <link>https://0skyu.cn/p/ebf9.html</link>
-      <guid>https://0skyu.cn/p/ebf9.html</guid>
-      <pubDate>Wed, 31 Mar 2021 16:00:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;这…夜间模式字体颜色正在修正&lt;/p&gt;
-&lt;p&gt;&lt;img src= &quot;/img/loading.gif&quot; data-lazy-src=&quot;https://cdn.jsdelivr.net/gh/dstansice/img@main/1617278704000.png&quot;</description>
-          
-        
-      
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/tags/%E9%A6%99%E9%A6%99/">香香</category>
-      
-      
-      <comments>https://0skyu.cn/p/ebf9.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
       <title>滑稽一下-博客快要投入运营哦</title>
       <link>https://0skyu.cn/p/5b99.html</link>
       <guid>https://0skyu.cn/p/5b99.html</guid>
@@ -180,6 +154,32 @@
       
       
       <comments>https://0skyu.cn/p/5b99.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>我可爱的香香</title>
+      <link>https://0skyu.cn/p/ebf9.html</link>
+      <guid>https://0skyu.cn/p/ebf9.html</guid>
+      <pubDate>Wed, 31 Mar 2021 16:00:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;这…夜间模式字体颜色正在修正&lt;/p&gt;
+&lt;p&gt;&lt;img src= &quot;/img/loading.gif&quot; data-lazy-src=&quot;https://cdn.jsdelivr.net/gh/dstansice/img@main/1617278704000.png&quot;</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/tags/%E9%A6%99%E9%A6%99/">香香</category>
+      
+      
+      <comments>https://0skyu.cn/p/ebf9.html#disqus_thread</comments>
       
     </item>
     
@@ -627,6 +627,34 @@
       
       
       <comments>https://0skyu.cn/p/16107.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>UWP经验 - 页面导航中的暗坑</title>
+      <link>https://0skyu.cn/p/4ae9.html</link>
+      <guid>https://0skyu.cn/p/4ae9.html</guid>
+      <pubDate>Thu, 10 Dec 2020 10:20:00 GMT</pubDate>
+      
+      <description>&lt;p&gt;有时候我们在开发时会遇到一种奇怪的现象。随着我们重复地导航页面，内存占用持续上涨，永无止境。在使用一些UWP应用时你也可能发现，伴随着你操作次数的增多，切换页面的频次增加，任务管理器中的内存占用将会膨胀到一个可怕的地步。&lt;/p&gt;
+&lt;p&gt;一个简单的40M的应用启动内存，可能会增加至800M这个地步（不是Chrome，对它来说这是正常现象）&lt;/p&gt;</description>
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/UWP/">UWP</category>
+      
+      
+      <category domain="https://0skyu.cn/tags/uwp/">uwp</category>
+      
+      <category domain="https://0skyu.cn/tags/memory/">memory</category>
+      
+      <category domain="https://0skyu.cn/tags/%E5%86%85%E5%AD%98/">内存</category>
+      
+      <category domain="https://0skyu.cn/tags/%E9%A1%B5%E9%9D%A2%E5%AE%9E%E4%BE%8B/">页面实例</category>
+      
+      
+      <comments>https://0skyu.cn/p/4ae9.html#disqus_thread</comments>
       
     </item>
     
