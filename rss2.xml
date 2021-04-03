@@ -15,8 +15,57 @@
     <atom:link href="https://0skyu.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>一个技术控，爱技术，爱分享</description>
-    <pubDate>Fri, 02 Apr 2021 15:27:50 GMT</pubDate>
+    <pubDate>Sat, 03 Apr 2021 04:00:36 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>actions的测试</title>
+      <link>https://0skyu.cn/p/a9a1.html</link>
+      <guid>https://0skyu.cn/p/a9a1.html</guid>
+      <pubDate>Sat, 03 Apr 2021 04:00:36 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;actions的测试&lt;br&gt;好&lt;br&gt;👌🏻&lt;/p&gt;
+&lt;p&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align:</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/tags/%E6%B5%8B%E8%AF%95/">测试</category>
+      
+      
+      <comments>https://0skyu.cn/p/a9a1.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>基于Butterfly的外挂标签引入</title>
+      <link>https://0skyu.cn/p/7d58.html</link>
+      <guid>https://0skyu.cn/p/7d58.html</guid>
+      <pubDate>Fri, 02 Apr 2021 21:55:44 GMT</pubDate>
+      
+      <description>添加大量外挂标签样式。</description>
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/%F0%9F%8D%A1Akilar%E3%81%AE%E7%B3%96%E8%91%AB%E8%8A%A6/">🍡Akilarの糖葫芦</category>
+      
+      
+      <category domain="https://0skyu.cn/tags/%F0%9F%93%81Hexo/">📁Hexo</category>
+      
+      <category domain="https://0skyu.cn/tags/%F0%9F%A6%8BButterfly/">🦋Butterfly</category>
+      
+      
+      <comments>https://0skyu.cn/p/7d58.html#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>外挂标签实例</title>
@@ -54,32 +103,6 @@
       
       
       <comments>https://0skyu.cn/p/be04.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>actions的测试</title>
-      <link>https://0skyu.cn/p/a9a1.html</link>
-      <guid>https://0skyu.cn/p/a9a1.html</guid>
-      <pubDate>Fri, 02 Apr 2021 15:27:50 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;actions的测试&lt;br&gt;好&lt;br&gt;👌🏻&lt;/p&gt;
-&lt;p&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align:</description>
-          
-        
-      
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/tags/%E6%B5%8B%E8%AF%95/">测试</category>
-      
-      
-      <comments>https://0skyu.cn/p/a9a1.html#disqus_thread</comments>
       
     </item>
     
