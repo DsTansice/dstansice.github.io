@@ -23,6 +23,49 @@
     
     
     <entry>
+      <title>照片动起来！</title>
+      <link href="p/726e.html"/>
+      <url>p/726e.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="大家好"><a href="#大家好" class="headerlink" title="大家好"></a>大家好</h1><p>让你的照片动起来吧！！！？网站搭建完成<br>网址：<a href="https://0skyu.cn/dql/">https://0skyu.cn/dql/</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 程序发布 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> PWA </tag>
+            
+            <tag> 网站 </tag>
+            
+            <tag> 系统 </tag>
+            
+            <tag> 升级 </tag>
+            
+            <tag> 在线 </tag>
+            
+            <tag> 技术 </tag>
+            
+            <tag> 更新 </tag>
+            
+            <tag> APP </tag>
+            
+            <tag> 升级app </tag>
+            
+            <tag> 更新日志 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>基于Butterfly的外挂标签引入</title>
       <link href="p/7d58.html"/>
       <url>p/7d58.html</url>
@@ -460,7 +503,7 @@
       <link href="p/1cc.html"/>
       <url>p/1cc.html</url>
       
-        <content type="html"><![CDATA[<h1 id="写作介绍"><a href="#写作介绍" class="headerlink" title="写作介绍"></a>写作介绍</h1><h2 id="1，字体介绍"><a href="#1，字体介绍" class="headerlink" title="1，字体介绍"></a>1，字体介绍</h2><p><em>这是斜体</em> 或 <em>这也是斜体</em><br><strong>这是粗体</strong><br><strong><em>这是加粗斜体</em></strong><br><del>这是删除线</del></p><h2 id="2，分级标题"><a href="#2，分级标题" class="headerlink" title="2，分级标题"></a>2，分级标题</h2><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><h2 id="3，超链接"><a href="#3，超链接" class="headerlink" title="3，超链接"></a>3，超链接</h2><p>写法：</p><p>行内形式：<a href="https://0skyu.cn/">我的博客</a><br>参考形式：<a href="https://0skyu.cn/">我的博客</a>，有一个很好的平台-<a href="https://sky6.ml/">简书</a></p><p>自动链接：我的博客地址<a href="https://0skyu.cn/">https://0skyu.cn/</a></p><h2 id="4-列表"><a href="#4-列表" class="headerlink" title="4,列表"></a>4,列表</h2><p>无序列表：<br>写法：</p><ul><li>无序列表项1</li></ul><ul><li>无序列表项2</li></ul><ul><li>无序列表项3</li></ul><p>有序列表：<br>写法：<br>1.有序列表项1<br>2.有序列表项2<br>3.有序列表项3</p><h2 id="5，插入图片"><a href="#5，插入图片" class="headerlink" title="5，插入图片"></a>5，插入图片</h2><p>在 Hexo 中插入图片，首先需要将图片放在 source/img/ 文件夹下，然后如下方式进行插入：</p><p><img src= "/img/loading.gif" data-lazy-src="/p/1cc/icon.png" alt></p><h2 id="6，表格"><a href="#6，表格" class="headerlink" title="6，表格"></a>6，表格</h2><div class="table-container"><table><thead><tr><th>表头1</th><th style="text-align:left">表头2</th><th style="text-align:center">表头3</th><th style="text-align:right">表头4</th></tr></thead><tbody><tr><td>默认左对齐</td><td style="text-align:left">左对齐</td><td style="text-align:center">居中对其</td><td style="text-align:right">右对齐</td></tr><tr><td>默认左对齐</td><td style="text-align:left">左对齐</td><td style="text-align:center">居中对其</td><td style="text-align:right">右对齐</td></tr><tr><td>默认左对齐</td><td style="text-align:left">左对齐</td><td style="text-align:center">居中对其</td><td style="text-align:right">右对齐</td></tr></tbody></table></div><h2 id="7，代码"><a href="#7，代码" class="headerlink" title="7，代码"></a>7，代码</h2><p>代码写法为</p><p>3个点（<code>）后是标题此处为代码$ hexo new &quot;My New Post&quot;这是第二行第三行3个点（</code>）结束</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new &quot;My New Post&quot;</span><br><span class="line">这是第二行</span><br><span class="line">第三行</span><br></pre></td></tr></table></figure><p>————————————————<br>原文链接：<a href="https://blog.csdn.net/weixin_42796909/article/details/81745271">https://blog.csdn.net/weixin_42796909/article/details/81745271</a><br>本文章对于原文增加代码写法</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="写作介绍"><a href="#写作介绍" class="headerlink" title="写作介绍"></a>写作介绍</h1><h2 id="1，字体介绍"><a href="#1，字体介绍" class="headerlink" title="1，字体介绍"></a>1，字体介绍</h2><p><em>这是斜体</em> 或 <em>这也是斜体</em><br><strong>这是粗体</strong><br><strong><em>这是加粗斜体</em></strong><br><del>这是删除线</del></p><h2 id="2，分级标题"><a href="#2，分级标题" class="headerlink" title="2，分级标题"></a>2，分级标题</h2><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><h2 id="3，超链接"><a href="#3，超链接" class="headerlink" title="3，超链接"></a>3，超链接</h2><p>写法：</p><p>行内形式：<a href="https://0skyu.cn/">我的博客</a><br>参考形式：<a href="https://0skyu.cn/">我的博客</a>，有一个很好的平台-<a href="https://sky6.ml/">简书</a></p><p>自动链接：我的博客地址<a href="https://0skyu.cn/">https://0skyu.cn/</a></p><h2 id="4-列表"><a href="#4-列表" class="headerlink" title="4,列表"></a>4,列表</h2><p>无序列表：<br>写法：</p><ul><li>无序列表项1</li></ul><ul><li>无序列表项2</li></ul><ul><li>无序列表项3</li></ul><p>有序列表：<br>写法：<br>1.有序列表项1<br>2.有序列表项2<br>3.有序列表项3</p><h2 id="5，插入图片"><a href="#5，插入图片" class="headerlink" title="5，插入图片"></a>5，插入图片</h2><p>在 Hexo 中插入图片，首先需要将图片放在 source/img/ 文件夹下，然后如下方式进行插入：</p><p><img src= "/img/loading.gif" data-lazy-src="https://0skyu.cn/img/video.jpg" alt></p><h2 id="6，表格"><a href="#6，表格" class="headerlink" title="6，表格"></a>6，表格</h2><div class="table-container"><table><thead><tr><th>表头1</th><th style="text-align:left">表头2</th><th style="text-align:center">表头3</th><th style="text-align:right">表头4</th></tr></thead><tbody><tr><td>默认左对齐</td><td style="text-align:left">左对齐</td><td style="text-align:center">居中对其</td><td style="text-align:right">右对齐</td></tr><tr><td>默认左对齐</td><td style="text-align:left">左对齐</td><td style="text-align:center">居中对其</td><td style="text-align:right">右对齐</td></tr><tr><td>默认左对齐</td><td style="text-align:left">左对齐</td><td style="text-align:center">居中对其</td><td style="text-align:right">右对齐</td></tr></tbody></table></div><h2 id="7，代码"><a href="#7，代码" class="headerlink" title="7，代码"></a>7，代码</h2><p>代码写法为</p><p>3个点（<code>）后是标题此处为代码$ hexo new &quot;My New Post&quot;这是第二行第三行3个点（</code>）结束</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new &quot;My New Post&quot;</span><br><span class="line">这是第二行</span><br><span class="line">第三行</span><br></pre></td></tr></table></figure><p>————————————————<br>原文链接：<a href="https://blog.csdn.net/weixin_42796909/article/details/81745271">https://blog.csdn.net/weixin_42796909/article/details/81745271</a><br>本文章对于原文增加代码写法</p>]]></content>
       
       
       <categories>

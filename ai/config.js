@@ -1,0 +1,1 @@
+"use strict";jsApiConfig(["https://jx.xiaolangyun.com/?url=","http://17kyun.com/api.php?url="]);

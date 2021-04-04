@@ -2,14 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://0skyu.cn/manifest.json</loc>
-    
-    <lastmod>2021-04-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://0skyu.cn/link/index.html</loc>
+    <loc>https://0skyu.cn/webmanifest.json</loc>
     
     <lastmod>2021-04-04</lastmod>
     
@@ -58,7 +51,7 @@
   </url>
   
   <url>
-    <loc>https://0skyu.cn/app/index.html</loc>
+    <loc>https://0skyu.cn/manifest.json</loc>
     
     <lastmod>2021-04-04</lastmod>
     
@@ -73,6 +66,13 @@
   
   <url>
     <loc>https://0skyu.cn/categories/index.html</loc>
+    
+    <lastmod>2021-04-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://0skyu.cn/link/index.html</loc>
     
     <lastmod>2021-04-04</lastmod>
     
@@ -233,42 +233,7 @@
   </url>
   
   <url>
-    <loc>https://0skyu.cn/p/9a90.html</loc>
-    
-    <lastmod>2021-04-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://0skyu.cn/p/bf18.html</loc>
-    
-    <lastmod>2021-04-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://0skyu.cn/p/1c41.html</loc>
-    
-    <lastmod>2021-04-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://0skyu.cn/p/1737.html</loc>
-    
-    <lastmod>2021-04-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://0skyu.cn/p/a9a1.html</loc>
-    
-    <lastmod>2021-04-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://0skyu.cn/p/2fb5.html</loc>
+    <loc>https://0skyu.cn/app/index.html</loc>
     
     <lastmod>2021-04-04</lastmod>
     
@@ -381,6 +346,13 @@
   
   <url>
     <loc>https://0skyu.cn/p/72e.html</loc>
+    
+    <lastmod>2021-04-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://0skyu.cn/p/726e.html</loc>
     
     <lastmod>2021-04-04</lastmod>
     
@@ -548,20 +520,6 @@
   </url>
   
   <url>
-    <loc>https://0skyu.cn/p/d67f.html</loc>
-    
-    <lastmod>2021-04-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://0skyu.cn/p/7d58.html</loc>
-    
-    <lastmod>2021-04-04</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://0skyu.cn/p/9ef8.html</loc>
     
     <lastmod>2021-04-04</lastmod>
@@ -590,7 +548,56 @@
   </url>
   
   <url>
+    <loc>https://0skyu.cn/p/9a90.html</loc>
+    
+    <lastmod>2021-04-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://0skyu.cn/p/bf18.html</loc>
+    
+    <lastmod>2021-04-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://0skyu.cn/p/1c41.html</loc>
+    
+    <lastmod>2021-04-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://0skyu.cn/p/1737.html</loc>
+    
+    <lastmod>2021-04-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://0skyu.cn/p/a9a1.html</loc>
+    
+    <lastmod>2021-04-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://0skyu.cn/p/2fb5.html</loc>
+    
+    <lastmod>2021-04-04</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://0skyu.cn/p/47c6.html</loc>
+    
+    <lastmod>2021-04-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://0skyu.cn/p/d67f.html</loc>
     
     <lastmod>2021-04-04</lastmod>
     
@@ -605,6 +612,13 @@
   
   <url>
     <loc>https://0skyu.cn/p/f2f7.html</loc>
+    
+    <lastmod>2021-04-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://0skyu.cn/p/7d58.html</loc>
     
     <lastmod>2021-04-04</lastmod>
     

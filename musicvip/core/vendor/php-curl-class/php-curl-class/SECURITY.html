@@ -1,0 +1,33 @@
+<h1 id="Security-Considerations"><a href="#Security-Considerations" class="headerlink" title="Security Considerations"></a>Security Considerations</h1><h3 id="Url-may-point-to-system-files"><a href="#Url-may-point-to-system-files" class="headerlink" title="Url may point to system files"></a>Url may point to system files</h3><ul><li>Don’t blindly accept urls from users as they may point to system files. Curl supports many protocols including <code>FILE</code>.<br>The following would show the contents of <code>file:///etc/passwd</code>.</li></ul><pre><code class="lang-bash"># Attacker.
+$ curl https://www.example.com/display_webpage.php?url=file%3A%2F%2F%2Fetc%2Fpasswd
+</code></pre><pre><code class="lang-php">// display_webpage.php
+$url = $_GET[&#39;url&#39;]; // DANGER!
+$curl = new Curl();
+$curl-&gt;get($url);
+echo $curl-&gt;response;
+</code></pre><p>Safer:</p><pre><code class="lang-php">function is_website_url($url, $allowed_schemes = array(&#39;http&#39;, &#39;https&#39;)) {
+    $validate_url = !(filter_var($url, FILTER_VALIDATE_URL) === false);
+    $scheme = parse_url($url, PHP_URL_SCHEME);
+    return $validate_url &amp;&amp; in_array($scheme, $allowed_schemes, true);
+}
+
+$url = $_GET[&#39;url&#39;];
+if (!is_website_url($url)) {
+    die(&#39;Unsafe url detected.&#39;);
+}
+</code></pre><h3 id="Url-may-point-to-internal-urls"><a href="#Url-may-point-to-internal-urls" class="headerlink" title="Url may point to internal urls"></a>Url may point to internal urls</h3><ul><li>Url may point to internal urls including those behind a firewall (e.g. <a href="http://192.168.0.1/">http://192.168.0.1/</a> or ftp://192.168.0.1/). Use<br>a whitelist to allow certain urls rather than a blacklist.</li></ul><h3 id="Request-data-may-refer-to-system-files"><a href="#Request-data-may-refer-to-system-files" class="headerlink" title="Request data may refer to system files"></a>Request data may refer to system files</h3><ul><li>Request data prefixed with the <code>@</code> character may have special interpretation and read from system files.</li></ul><pre><code class="lang-bash"># Attacker.
+$ curl https://www.example.com/upload_photo.php --data &quot;photo=@/etc/passwd&quot;
+</code></pre><pre><code class="lang-php">// upload_photo.php
+$curl = new Curl();
+$curl-&gt;post(&#39;http://www.anotherwebsite.com/&#39;, array(
+    &#39;photo&#39; =&gt; $_POST[&#39;photo&#39;], // DANGER!
+));
+</code></pre><h3 id="Unsafe-response-with-redirection-enabled"><a href="#Unsafe-response-with-redirection-enabled" class="headerlink" title="Unsafe response with redirection enabled"></a>Unsafe response with redirection enabled</h3><ul><li>Requests with redirection enabled may return responses from unexpected sources.<br>Downloading <a href="https://www.example.com/image.png">https://www.example.com/image.png</a> may redirect and download <a href="https://www.evil.com/virus.exe">https://www.evil.com/virus.exe</a></li></ul><pre><code class="lang-php">$curl = new Curl();
+$curl-&gt;setOpt(CURLOPT_FOLLOWLOCATION, true); // DANGER!
+$curl-&gt;download(&#39;https://www.example.com/image.png&#39;, &#39;my_image.png&#39;);
+</code></pre><pre><code class="lang-php">$curl = new Curl();
+$curl-&gt;setOpt(CURLOPT_FOLLOWLOCATION, true); // DANGER!
+$curl-&gt;get(&#39;https://www.example.com/image.png&#39;);
+</code></pre><h3 id="Keep-SSL-protections-enabled"><a href="#Keep-SSL-protections-enabled" class="headerlink" title="Keep SSL protections enabled"></a>Keep SSL protections enabled</h3><ul><li>Do not disable SSL protections.</li></ul><pre><code class="lang-php">curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false); // DANGER!
+curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false); // DANGER!
+</code></pre>

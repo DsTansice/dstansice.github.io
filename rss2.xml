@@ -15,14 +15,14 @@
     <atom:link href="https://0skyu.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>一个技术控，爱技术，爱分享</description>
-    <pubDate>Sun, 04 Apr 2021 13:32:11 GMT</pubDate>
+    <pubDate>Sun, 04 Apr 2021 13:58:21 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
       <title>actions的测试</title>
       <link>https://0skyu.cn/p/a9a1.html</link>
       <guid>https://0skyu.cn/p/a9a1.html</guid>
-      <pubDate>Sun, 04 Apr 2021 13:32:11 GMT</pubDate>
+      <pubDate>Sun, 04 Apr 2021 13:58:21 GMT</pubDate>
       
         
         
@@ -41,6 +41,45 @@
       
       
       <comments>https://0skyu.cn/p/a9a1.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>照片动起来！</title>
+      <link>https://0skyu.cn/p/726e.html</link>
+      <guid>https://0skyu.cn/p/726e.html</guid>
+      <pubDate>Sat, 03 Apr 2021 16:00:00 GMT</pubDate>
+      
+      <description>照片动起来！</description>
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/%E7%A8%8B%E5%BA%8F%E5%8F%91%E5%B8%83/">程序发布</category>
+      
+      
+      <category domain="https://0skyu.cn/tags/PWA/">PWA</category>
+      
+      <category domain="https://0skyu.cn/tags/%E7%BD%91%E7%AB%99/">网站</category>
+      
+      <category domain="https://0skyu.cn/tags/%E7%B3%BB%E7%BB%9F/">系统</category>
+      
+      <category domain="https://0skyu.cn/tags/%E5%8D%87%E7%BA%A7/">升级</category>
+      
+      <category domain="https://0skyu.cn/tags/%E5%9C%A8%E7%BA%BF/">在线</category>
+      
+      <category domain="https://0skyu.cn/tags/%E6%8A%80%E6%9C%AF/">技术</category>
+      
+      <category domain="https://0skyu.cn/tags/%E6%9B%B4%E6%96%B0/">更新</category>
+      
+      <category domain="https://0skyu.cn/tags/APP/">APP</category>
+      
+      <category domain="https://0skyu.cn/tags/%E5%8D%87%E7%BA%A7app/">升级app</category>
+      
+      <category domain="https://0skyu.cn/tags/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/">更新日志</category>
+      
+      
+      <comments>https://0skyu.cn/p/726e.html#disqus_thread</comments>
       
     </item>
     
@@ -627,33 +666,6 @@
       
       
       <comments>https://0skyu.cn/p/16107.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Butterfly 美化/優化/魔改 教程合集</title>
-      <link>https://0skyu.cn/p/e07e.html</link>
-      <guid>https://0skyu.cn/p/e07e.html</guid>
-      <pubDate>Sat, 02 Jan 2021 10:11:22 GMT</pubDate>
-      
-      <description>Butterfly 美化/優化/魔改 合集</description>
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/categories/%E5%90%88%E9%9B%86/">合集</category>
-      
-      
-      <category domain="https://0skyu.cn/tags/Butterfly/">Butterfly</category>
-      
-      <category domain="https://0skyu.cn/tags/%E7%BE%8E%E5%8C%96/">美化</category>
-      
-      <category domain="https://0skyu.cn/tags/%E5%84%AA%E5%8C%96/">優化</category>
-      
-      <category domain="https://0skyu.cn/tags/%E9%AD%94%E6%94%B9/">魔改</category>
-      
-      
-      <comments>https://0skyu.cn/p/e07e.html#disqus_thread</comments>
       
     </item>
     
