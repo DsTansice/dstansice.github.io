@@ -15,14 +15,14 @@
     <atom:link href="https://0skyu.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>一个技术控，爱技术，爱分享</description>
-    <pubDate>Sat, 03 Apr 2021 16:08:32 GMT</pubDate>
+    <pubDate>Sun, 04 Apr 2021 10:59:50 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
       <title>actions的测试</title>
       <link>https://0skyu.cn/p/a9a1.html</link>
       <guid>https://0skyu.cn/p/a9a1.html</guid>
-      <pubDate>Sat, 03 Apr 2021 16:08:32 GMT</pubDate>
+      <pubDate>Sun, 04 Apr 2021 10:59:50 GMT</pubDate>
       
         
         
@@ -631,30 +631,29 @@
     </item>
     
     <item>
-      <title>UWP经验 - 页面导航中的暗坑</title>
-      <link>https://0skyu.cn/p/4ae9.html</link>
-      <guid>https://0skyu.cn/p/4ae9.html</guid>
-      <pubDate>Thu, 10 Dec 2020 10:20:00 GMT</pubDate>
+      <title>Butterfly 美化/優化/魔改 教程合集</title>
+      <link>https://0skyu.cn/p/e07e.html</link>
+      <guid>https://0skyu.cn/p/e07e.html</guid>
+      <pubDate>Sat, 02 Jan 2021 10:11:22 GMT</pubDate>
       
-      <description>&lt;p&gt;有时候我们在开发时会遇到一种奇怪的现象。随着我们重复地导航页面，内存占用持续上涨，永无止境。在使用一些UWP应用时你也可能发现，伴随着你操作次数的增多，切换页面的频次增加，任务管理器中的内存占用将会膨胀到一个可怕的地步。&lt;/p&gt;
-&lt;p&gt;一个简单的40M的应用启动内存，可能会增加至800M这个地步（不是Chrome，对它来说这是正常现象）&lt;/p&gt;</description>
-      
+      <description>Butterfly 美化/優化/魔改 合集</description>
       
       
       
-      <category domain="https://0skyu.cn/categories/UWP/">UWP</category>
+      
+      <category domain="https://0skyu.cn/categories/%E5%90%88%E9%9B%86/">合集</category>
       
       
-      <category domain="https://0skyu.cn/tags/uwp/">uwp</category>
+      <category domain="https://0skyu.cn/tags/Butterfly/">Butterfly</category>
       
-      <category domain="https://0skyu.cn/tags/memory/">memory</category>
+      <category domain="https://0skyu.cn/tags/%E7%BE%8E%E5%8C%96/">美化</category>
       
-      <category domain="https://0skyu.cn/tags/%E5%86%85%E5%AD%98/">内存</category>
+      <category domain="https://0skyu.cn/tags/%E5%84%AA%E5%8C%96/">優化</category>
       
-      <category domain="https://0skyu.cn/tags/%E9%A1%B5%E9%9D%A2%E5%AE%9E%E4%BE%8B/">页面实例</category>
+      <category domain="https://0skyu.cn/tags/%E9%AD%94%E6%94%B9/">魔改</category>
       
       
-      <comments>https://0skyu.cn/p/4ae9.html#disqus_thread</comments>
+      <comments>https://0skyu.cn/p/e07e.html#disqus_thread</comments>
       
     </item>
     
