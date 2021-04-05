@@ -6,7 +6,7 @@
   <link href="https://0skyu.cn/atom.xml" rel="self"/>
   
   <link href="https://0skyu.cn/"/>
-  <updated>2021-04-05T09:36:57.848Z</updated>
+  <updated>2021-04-05T12:56:46.207Z</updated>
   <id>https://0skyu.cn/</id>
   
   <author>
@@ -20,8 +20,8 @@
     <title>actions的测试</title>
     <link href="https://0skyu.cn/p/a9a1.html"/>
     <id>https://0skyu.cn/p/a9a1.html</id>
-    <published>2021-04-05T09:36:57.848Z</published>
-    <updated>2021-04-05T09:36:57.848Z</updated>
+    <published>2021-04-05T12:56:46.207Z</published>
+    <updated>2021-04-05T12:56:46.207Z</updated>
     
     
       
@@ -45,7 +45,7 @@
     <link href="https://0skyu.cn/p/726e.html"/>
     <id>https://0skyu.cn/p/726e.html</id>
     <published>2021-04-03T16:00:00.000Z</published>
-    <updated>2021-04-05T09:36:57.848Z</updated>
+    <updated>2021-04-05T12:56:46.207Z</updated>
     
     
     <summary type="html">照片动起来！</summary>
@@ -78,11 +78,37 @@
   </entry>
   
   <entry>
+    <title>还是要说一下的</title>
+    <link href="https://0skyu.cn/p/3eed.html"/>
+    <id>https://0skyu.cn/p/3eed.html</id>
+    <published>2021-04-03T16:00:00.000Z</published>
+    <updated>2021-04-05T12:56:46.219Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;由于本网站的服务器不够稳定。&lt;/p&gt;
+&lt;p&gt;所以有条件的用户可以添加PWA到桌面来访问的网站。&lt;/p&gt;
+&lt;p&gt;主站 0skyu.cn&lt;/p&gt;
+&lt;p&gt;镜像站</summary>
+        
+      
+    
+    
+    
+    
+    <category term="用户须知" scheme="https://0skyu.cn/tags/%E7%94%A8%E6%88%B7%E9%A1%BB%E7%9F%A5/"/>
+    
+  </entry>
+  
+  <entry>
     <title>基于Butterfly的外挂标签引入</title>
     <link href="https://0skyu.cn/p/7d58.html"/>
     <id>https://0skyu.cn/p/7d58.html</id>
     <published>2021-04-02T21:55:44.000Z</published>
-    <updated>2021-04-05T09:36:57.848Z</updated>
+    <updated>2021-04-05T12:56:46.207Z</updated>
     
     
     <summary type="html">添加大量外挂标签样式。</summary>
@@ -103,7 +129,7 @@
     <link href="https://0skyu.cn/p/57bd.html"/>
     <id>https://0skyu.cn/p/57bd.html</id>
     <published>2021-04-02T16:00:00.000Z</published>
-    <updated>2021-04-05T09:36:57.848Z</updated>
+    <updated>2021-04-05T12:56:46.207Z</updated>
     
     
       
@@ -126,7 +152,7 @@
     <link href="https://0skyu.cn/p/be04.html"/>
     <id>https://0skyu.cn/p/be04.html</id>
     <published>2021-04-02T16:00:00.000Z</published>
-    <updated>2021-04-05T09:36:57.860Z</updated>
+    <updated>2021-04-05T12:56:46.219Z</updated>
     
     
     <summary type="html">外挂标签实例</summary>
@@ -163,7 +189,7 @@
     <link href="https://0skyu.cn/p/ebf9.html"/>
     <id>https://0skyu.cn/p/ebf9.html</id>
     <published>2021-03-31T16:00:00.000Z</published>
-    <updated>2021-04-05T09:36:57.860Z</updated>
+    <updated>2021-04-05T12:56:46.219Z</updated>
     
     
       
@@ -187,7 +213,7 @@
     <link href="https://0skyu.cn/p/5b99.html"/>
     <id>https://0skyu.cn/p/5b99.html</id>
     <published>2021-03-31T16:00:00.000Z</published>
-    <updated>2021-04-05T09:36:57.860Z</updated>
+    <updated>2021-04-05T12:56:46.219Z</updated>
     
     
       
@@ -211,7 +237,7 @@
     <link href="https://0skyu.cn/p/6721.html"/>
     <id>https://0skyu.cn/p/6721.html</id>
     <published>2021-03-30T16:00:00.000Z</published>
-    <updated>2021-04-05T09:36:57.848Z</updated>
+    <updated>2021-04-05T12:56:46.207Z</updated>
     
     
     <summary type="html">有东西被加密了, 请输入密码查看.</summary>
@@ -228,7 +254,7 @@
     <link href="https://0skyu.cn/p/8c9a.html"/>
     <id>https://0skyu.cn/p/8c9a.html</id>
     <published>2021-03-27T16:00:00.000Z</published>
-    <updated>2021-04-05T09:36:57.848Z</updated>
+    <updated>2021-04-05T12:56:46.207Z</updated>
     
     
     <summary type="html">今天吃什么？</summary>
@@ -265,7 +291,7 @@
     <link href="https://0skyu.cn/p/b3eb.html"/>
     <id>https://0skyu.cn/p/b3eb.html</id>
     <published>2021-03-26T16:00:00.000Z</published>
-    <updated>2021-04-05T09:36:57.860Z</updated>
+    <updated>2021-04-05T12:56:46.219Z</updated>
     
     
     <summary type="html">图片压缩网站搭建完成</summary>
@@ -302,7 +328,7 @@
     <link href="https://0skyu.cn/p/ebf1.html"/>
     <id>https://0skyu.cn/p/ebf1.html</id>
     <published>2021-03-26T16:00:00.000Z</published>
-    <updated>2021-04-05T09:36:57.860Z</updated>
+    <updated>2021-04-05T12:56:46.219Z</updated>
     
     
     <summary type="html">计算机三级考试完成了</summary>
@@ -339,7 +365,7 @@
     <link href="https://0skyu.cn/p/2fb5.html"/>
     <id>https://0skyu.cn/p/2fb5.html</id>
     <published>2021-03-06T16:00:00.000Z</published>
-    <updated>2021-04-05T09:36:57.848Z</updated>
+    <updated>2021-04-05T12:56:46.207Z</updated>
     
     
     <summary type="html">零域APP下载</summary>
@@ -376,7 +402,7 @@
     <link href="https://0skyu.cn/p/c76e.html"/>
     <id>https://0skyu.cn/p/c76e.html</id>
     <published>2021-03-06T16:00:00.000Z</published>
-    <updated>2021-04-05T09:36:57.860Z</updated>
+    <updated>2021-04-05T12:56:46.219Z</updated>
     
     
     <summary type="html">本站支持PWA啦</summary>
@@ -407,7 +433,7 @@
     <link href="https://0skyu.cn/p/d3e7.html"/>
     <id>https://0skyu.cn/p/d3e7.html</id>
     <published>2021-03-06T16:00:00.000Z</published>
-    <updated>2021-04-05T09:36:57.860Z</updated>
+    <updated>2021-04-05T12:56:46.219Z</updated>
     
     
     <summary type="html">零悟小程序发布</summary>
@@ -450,7 +476,7 @@
     <link href="https://0skyu.cn/p/31d0.html"/>
     <id>https://0skyu.cn/p/31d0.html</id>
     <published>2021-03-01T16:00:00.000Z</published>
-    <updated>2021-04-05T09:36:57.848Z</updated>
+    <updated>2021-04-05T12:56:46.211Z</updated>
     
     
     <summary type="html">win10隐藏的9种功能-效率提升10倍</summary>
@@ -479,7 +505,7 @@
     <link href="https://0skyu.cn/p/1cc.html"/>
     <id>https://0skyu.cn/p/1cc.html</id>
     <published>2021-02-28T16:00:00.000Z</published>
-    <updated>2021-04-05T09:36:57.848Z</updated>
+    <updated>2021-04-05T12:56:46.207Z</updated>
     
     
     <summary type="html">MD语法文章测试</summary>
@@ -508,7 +534,7 @@
     <link href="https://0skyu.cn/p/8425.html"/>
     <id>https://0skyu.cn/p/8425.html</id>
     <published>2021-02-28T16:00:00.000Z</published>
-    <updated>2021-04-05T09:36:57.860Z</updated>
+    <updated>2021-04-05T12:56:46.219Z</updated>
     
     
     <summary type="html">教你一招解决网页无法复制的字</summary>
@@ -537,7 +563,7 @@
     <link href="https://0skyu.cn/p/3481.html"/>
     <id>https://0skyu.cn/p/3481.html</id>
     <published>2021-02-28T16:00:00.000Z</published>
-    <updated>2021-04-05T09:36:57.860Z</updated>
+    <updated>2021-04-05T12:56:46.219Z</updated>
     
     
     <summary type="html">WP8.1升级Win 10 Mobile 教程</summary>
@@ -603,27 +629,6 @@
     <category term="软件" scheme="https://0skyu.cn/tags/%E8%BD%AF%E4%BB%B6/"/>
     
     <category term="编程" scheme="https://0skyu.cn/tags/%E7%BC%96%E7%A8%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://0skyu.cn/p/16107.html"/>
-    <id>https://0skyu.cn/p/16107.html</id>
-    <published>2021-02-07T16:00:00.000Z</published>
-    <updated>2021-04-05T09:36:57.848Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
-        
-      
-    
-    
-    
     
   </entry>
   
