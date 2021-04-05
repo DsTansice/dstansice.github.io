@@ -15,7 +15,7 @@
     <atom:link href="https://0skyu.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>一个技术控，爱技术，爱分享</description>
-    <pubDate>Mon, 05 Apr 2021 14:42:49 GMT</pubDate>
+    <pubDate>Mon, 05 Apr 2021 14:59:11 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -195,31 +195,12 @@
     </item>
     
     <item>
-      <title>林丹从国家队退役，带起一波回忆</title>
-      <link>https://0skyu.cn/p/6f8.html</link>
-      <guid>https://0skyu.cn/p/6f8.html</guid>
-      <pubDate>Mon, 05 Apr 2021 14:42:49 GMT</pubDate>
+      <title>Kloudsec 挂了，GitHub Pages 去 HTTPS 化</title>
+      <link>https://0skyu.cn/p/74e9.html</link>
+      <guid>https://0skyu.cn/p/74e9.html</guid>
+      <pubDate>Mon, 05 Apr 2021 14:59:11 GMT</pubDate>
       
-      <description>打羽毛球好几年了，中间也有好些故事，值得记录一下。</description>
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/categories/Blog/">Blog</category>
-      
-      
-      
-      <comments>https://0skyu.cn/p/6f8.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>使用 jsDelivr 免费加速 GitHub Pages 博客的静态资源（二）</title>
-      <link>https://0skyu.cn/p/4e5c.html</link>
-      <guid>https://0skyu.cn/p/4e5c.html</guid>
-      <pubDate>Mon, 05 Apr 2021 14:42:49 GMT</pubDate>
-      
-      <description>使用 jsDelivr 加速 GitHub Pages 博客的图片资源、站内搜索引用的 JSON 资源。</description>
+      <description>收到 Kloudsec 将停止服务的消息，决定将 GitHub Pages 去 HTTPS 化。</description>
       
       
       
@@ -228,193 +209,17 @@
       
       
       
-      <comments>https://0skyu.cn/p/4e5c.html#disqus_thread</comments>
+      <comments>https://0skyu.cn/p/74e9.html#disqus_thread</comments>
       
     </item>
     
     <item>
-      <title>给 Mac 添加右键菜单「使用 VSCode 打开」</title>
-      <link>https://0skyu.cn/p/f6f7.html</link>
-      <guid>https://0skyu.cn/p/f6f7.html</guid>
-      <pubDate>Mon, 05 Apr 2021 14:42:49 GMT</pubDate>
-      
-      <description>如何在 Mac 下右键文件或文件夹，直接通过菜单项「用 VSCode 打开」。</description>
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/categories/VSCode/">VSCode</category>
-      
-      
-      
-      <comments>https://0skyu.cn/p/f6f7.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>代码审查：从 ArrayList 说线程安全</title>
-      <link>https://0skyu.cn/p/3cc4.html</link>
-      <guid>https://0skyu.cn/p/3cc4.html</guid>
-      <pubDate>Mon, 05 Apr 2021 14:42:49 GMT</pubDate>
-      
-      <description>从一个代码 Review 中发现的 ArrayList 线程不安全的真实案例，顺便深入理解一下线程安全。</description>
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/categories/Java/">Java</category>
-      
-      
-      
-      <comments>https://0skyu.cn/p/3cc4.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>解决 IntelliJ IDEA 启动报 Unsupported Java Version 的问题</title>
-      <link>https://0skyu.cn/p/bcd9.html</link>
-      <guid>https://0skyu.cn/p/bcd9.html</guid>
-      <pubDate>Mon, 05 Apr 2021 14:42:49 GMT</pubDate>
-      
-      <description>解决 IntelliJ IDEA 启动报 Unsupported Java Version 的问题</description>
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/categories/Java/">Java</category>
-      
-      
-      
-      <comments>https://0skyu.cn/p/bcd9.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://0skyu.cn/p/3054.html</link>
-      <guid>https://0skyu.cn/p/3054.html</guid>
-      <pubDate>Mon, 05 Apr 2021 14:42:49 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;hr&gt;
-&lt;p&gt;layout:     post&lt;br&gt;title:      Objective-C Runtime 详解&lt;br&gt;subtitle:   Runtime 详解&lt;br&gt;date:       2017-02-04&lt;br&gt;author:    </description>
-          
-        
-      
-      
-      
-      
-      
-      
-      <comments>https://0skyu.cn/p/3054.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>定制 Fiddler 之按设备过滤请求</title>
-      <link>https://0skyu.cn/p/291c.html</link>
-      <guid>https://0skyu.cn/p/291c.html</guid>
-      <pubDate>Mon, 05 Apr 2021 14:42:49 GMT</pubDate>
-      
-      <description>当有多台设备时如何方便地从满屏纷飞的 Session 中筛选出你关心的内容？</description>
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/categories/Fiddler/">Fiddler</category>
-      
-      
-      
-      <comments>https://0skyu.cn/p/291c.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>你忙得踏实吗？</title>
-      <link>https://0skyu.cn/p/c02b.html</link>
-      <guid>https://0skyu.cn/p/c02b.html</guid>
-      <pubDate>Mon, 05 Apr 2021 14:42:49 GMT</pubDate>
-      
-      <description>忙分为「不知所谓的忙」和「有目的性高效踏实的忙」，如何忙得踏实？</description>
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/categories/Blog/">Blog</category>
-      
-      
-      
-      <comments>https://0skyu.cn/p/c02b.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>爱你就像爱生命</title>
-      <link>https://0skyu.cn/p/b50e.html</link>
-      <guid>https://0skyu.cn/p/b50e.html</guid>
-      <pubDate>Mon, 05 Apr 2021 14:42:49 GMT</pubDate>
-      
-      <description>关于爱情。</description>
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/categories/Blog/">Blog</category>
-      
-      
-      
-      <comments>https://0skyu.cn/p/b50e.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Mac 遇到问题集锦</title>
-      <link>https://0skyu.cn/p/cac9.html</link>
-      <guid>https://0skyu.cn/p/cac9.html</guid>
-      <pubDate>Mon, 05 Apr 2021 14:42:49 GMT</pubDate>
-      
-      <description>使用 MacBook Pro 的过程中遇到的一些问题，附上解决方案。</description>
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/categories/Mac/">Mac</category>
-      
-      
-      
-      <comments>https://0skyu.cn/p/cac9.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>断网之后</title>
-      <link>https://0skyu.cn/p/9c07.html</link>
-      <guid>https://0skyu.cn/p/9c07.html</guid>
-      <pubDate>Mon, 05 Apr 2021 14:42:49 GMT</pubDate>
-      
-      <description>Internet 极大地方便了我们的生活，也极大地吞噬了我们的生活。</description>
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/categories/Blog/">Blog</category>
-      
-      
-      
-      <comments>https://0skyu.cn/p/9c07.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Vimscript 中的坑</title>
-      <link>https://0skyu.cn/p/a62d.html</link>
-      <guid>https://0skyu.cn/p/a62d.html</guid>
-      <pubDate>Mon, 05 Apr 2021 14:42:49 GMT</pubDate>
-      
-      <description>Vimscript 的语法有些地方还是挺奇葩的，把一些容易写错的点记录下来备忘。</description>
+      <title>在 Vim 里为 Markdown 文档展示导航窗格</title>
+      <link>https://0skyu.cn/p/6c29.html</link>
+      <guid>https://0skyu.cn/p/6c29.html</guid>
+      <pubDate>Mon, 05 Apr 2021 14:59:11 GMT</pubDate>
+      
+      <description>在一个很长的 Markdown 文档里要准确跳转到某标题并不容易，如果像 Word 那样有个导航窗格就好了。</description>
       
       
       
@@ -423,26 +228,216 @@
       
       
       
-      <comments>https://0skyu.cn/p/a62d.html#disqus_thread</comments>
+      <comments>https://0skyu.cn/p/6c29.html#disqus_thread</comments>
       
     </item>
     
     <item>
-      <title>Excel 保留行号的去重</title>
-      <link>https://0skyu.cn/p/9a21.html</link>
-      <guid>https://0skyu.cn/p/9a21.html</guid>
-      <pubDate>Mon, 05 Apr 2021 14:42:49 GMT</pubDate>
+      <title>C++ 程序员的 Java 指南</title>
+      <link>https://0skyu.cn/p/6af2.html</link>
+      <guid>https://0skyu.cn/p/6af2.html</guid>
+      <pubDate>Mon, 05 Apr 2021 14:59:11 GMT</pubDate>
       
-      <description>使用简单的公式对 Excel 里的排序数据进行保留行号的去重。</description>
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/categories/Excel/">Excel</category>
+      <description>一个 C++ 程序员自己总结的 Java 学习中应该注意的点。</description>
       
       
       
-      <comments>https://0skyu.cn/p/9a21.html#disqus_thread</comments>
+      
+      <category domain="https://0skyu.cn/categories/Java/">Java</category>
+      
+      
+      
+      <comments>https://0skyu.cn/p/6af2.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>一道在知乎很火的 Java 题——如何输出 ab</title>
+      <link>https://0skyu.cn/p/5595.html</link>
+      <guid>https://0skyu.cn/p/5595.html</guid>
+      <pubDate>Mon, 05 Apr 2021 14:59:11 GMT</pubDate>
+      
+      <description>一道在知乎讨论得很火热的 Java 题，网友们的脑洞能给出一些什么样的答案呢？</description>
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/Java/">Java</category>
+      
+      
+      
+      <comments>https://0skyu.cn/p/5595.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>vim-markdown-toc 发布 v1.0 版</title>
+      <link>https://0skyu.cn/p/c289.html</link>
+      <guid>https://0skyu.cn/p/c289.html</guid>
+      <pubDate>Mon, 05 Apr 2021 14:59:11 GMT</pubDate>
+      
+      <description>我写的第一款 Vim 插件的 Release 版本。</description>
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/Vim/">Vim</category>
+      
+      
+      
+      <comments>https://0skyu.cn/p/c289.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>搭建大型源码阅读环境——使用 OpenGrok</title>
+      <link>https://0skyu.cn/p/2a96.html</link>
+      <guid>https://0skyu.cn/p/2a96.html</guid>
+      <pubDate>Mon, 05 Apr 2021 14:59:11 GMT</pubDate>
+      
+      <description>RTFSC 是程序员打怪升级路上避不开的功课，那营造一个舒适的环境来提升上课的体验就很有必要了。</description>
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/Tools/">Tools</category>
+      
+      
+      
+      <comments>https://0skyu.cn/p/2a96.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>我的 2016 盘点</title>
+      <link>https://0skyu.cn/p/e792.html</link>
+      <guid>https://0skyu.cn/p/e792.html</guid>
+      <pubDate>Mon, 05 Apr 2021 14:59:11 GMT</pubDate>
+      
+      <description>总结是为了更好地上路。</description>
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/Blog/">Blog</category>
+      
+      
+      
+      <comments>https://0skyu.cn/p/e792.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>读书：追风筝的人</title>
+      <link>https://0skyu.cn/p/4b6b.html</link>
+      <guid>https://0skyu.cn/p/4b6b.html</guid>
+      <pubDate>Mon, 05 Apr 2021 14:59:11 GMT</pubDate>
+      
+      <description>希望自己有输入必有输出，这是开篇。</description>
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/Blog/">Blog</category>
+      
+      
+      
+      <comments>https://0skyu.cn/p/4b6b.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>我做了一个有点艰难的决定</title>
+      <link>https://0skyu.cn/p/1fed.html</link>
+      <guid>https://0skyu.cn/p/1fed.html</guid>
+      <pubDate>Mon, 05 Apr 2021 14:59:11 GMT</pubDate>
+      
+      <description>我北漂之旅的终点，人生的新起点。</description>
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/Blog/">Blog</category>
+      
+      
+      
+      <comments>https://0skyu.cn/p/1fed.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>从一个 NullPointerException 探究 Java 的自动装箱拆箱机制</title>
+      <link>https://0skyu.cn/p/c4c0.html</link>
+      <guid>https://0skyu.cn/p/c4c0.html</guid>
+      <pubDate>Mon, 05 Apr 2021 14:59:11 GMT</pubDate>
+      
+      <description>因为遇到一个 NullPointerException，弄清了 Java 的自动装箱拆箱的原理。</description>
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/Java/">Java</category>
+      
+      
+      
+      <comments>https://0skyu.cn/p/c4c0.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>关于 Markdown 的一些奇技淫巧</title>
+      <link>https://0skyu.cn/p/2286.html</link>
+      <guid>https://0skyu.cn/p/2286.html</guid>
+      <pubDate>Mon, 05 Apr 2021 14:59:11 GMT</pubDate>
+      
+      <description>介绍 Markdown 的一些高级用法。</description>
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/Markdown/">Markdown</category>
+      
+      
+      
+      <comments>https://0skyu.cn/p/2286.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>图解 SQL 里的各种 JOIN</title>
+      <link>https://0skyu.cn/p/b25d.html</link>
+      <guid>https://0skyu.cn/p/b25d.html</guid>
+      <pubDate>Mon, 05 Apr 2021 14:59:11 GMT</pubDate>
+      
+      <description>用文氏图和示例来理解 SQL 里的各种 JOIN。</description>
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/Database/">Database</category>
+      
+      
+      
+      <comments>https://0skyu.cn/p/b25d.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Android 源码分析开篇</title>
+      <link>https://0skyu.cn/p/721c.html</link>
+      <guid>https://0skyu.cn/p/721c.html</guid>
+      <pubDate>Mon, 05 Apr 2021 14:59:11 GMT</pubDate>
+      
+      <description>开始 Android 源码和一些优秀的第三方类库的分析</description>
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/Android/">Android</category>
+      
+      
+      
+      <comments>https://0skyu.cn/p/721c.html#disqus_thread</comments>
       
     </item>
     
