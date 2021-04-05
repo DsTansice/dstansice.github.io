@@ -15,8 +15,34 @@
     <atom:link href="https://0skyu.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>一个技术控，爱技术，爱分享</description>
-    <pubDate>Mon, 05 Apr 2021 13:13:38 GMT</pubDate>
+    <pubDate>Mon, 05 Apr 2021 13:15:01 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>我喜欢的一个4张图片</title>
+      <link>https://0skyu.cn/p/7c7a.html</link>
+      <guid>https://0skyu.cn/p/7c7a.html</guid>
+      <pubDate>Mon, 05 Apr 2021 16:00:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;&lt;img src= &quot;/img/loading.gif&quot; data-lazy-src=&quot;https://cdn.jsdelivr.net/gh/dstansice/img@main/1617628447000.jpeg&quot; alt&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/tags/%E6%88%91%E5%96%9C%E6%AC%A2/">我喜欢</category>
+      
+      
+      <comments>https://0skyu.cn/p/7c7a.html#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>英雄兰-保卫者形态</title>
@@ -147,7 +173,7 @@
       <title>actions的测试</title>
       <link>https://0skyu.cn/p/a9a1.html</link>
       <guid>https://0skyu.cn/p/a9a1.html</guid>
-      <pubDate>Mon, 05 Apr 2021 13:13:38 GMT</pubDate>
+      <pubDate>Mon, 05 Apr 2021 13:15:01 GMT</pubDate>
       
         
         
@@ -580,51 +606,6 @@
       
       
       <comments>https://0skyu.cn/p/c76e.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>零悟小程序</title>
-      <link>https://0skyu.cn/p/d3e7.html</link>
-      <guid>https://0skyu.cn/p/d3e7.html</guid>
-      <pubDate>Sat, 06 Mar 2021 16:00:00 GMT</pubDate>
-      
-      <description>零悟小程序发布</description>
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/categories/%E7%A8%8B%E5%BA%8F%E5%8F%91%E5%B8%83/">程序发布</category>
-      
-      
-      <category domain="https://0skyu.cn/tags/PWA/">PWA</category>
-      
-      <category domain="https://0skyu.cn/tags/%E7%BD%91%E7%AB%99/">网站</category>
-      
-      <category domain="https://0skyu.cn/tags/%E7%B3%BB%E7%BB%9F/">系统</category>
-      
-      <category domain="https://0skyu.cn/tags/%E5%8D%87%E7%BA%A7/">升级</category>
-      
-      <category domain="https://0skyu.cn/tags/%E5%9C%A8%E7%BA%BF/">在线</category>
-      
-      <category domain="https://0skyu.cn/tags/%E6%8A%80%E6%9C%AF/">技术</category>
-      
-      <category domain="https://0skyu.cn/tags/%E6%9B%B4%E6%96%B0/">更新</category>
-      
-      <category domain="https://0skyu.cn/tags/APP/">APP</category>
-      
-      <category domain="https://0skyu.cn/tags/%E5%8D%87%E7%BA%A7app/">升级app</category>
-      
-      <category domain="https://0skyu.cn/tags/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/">更新日志</category>
-      
-      <category domain="https://0skyu.cn/tags/%E9%9B%B6%E5%9F%9F/">零域</category>
-      
-      <category domain="https://0skyu.cn/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/">小程序</category>
-      
-      <category domain="https://0skyu.cn/tags/%E9%9B%B6%E6%82%9F/">零悟</category>
-      
-      
-      <comments>https://0skyu.cn/p/d3e7.html#disqus_thread</comments>
       
     </item>
     
