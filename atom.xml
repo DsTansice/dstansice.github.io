@@ -6,7 +6,7 @@
   <link href="https://0skyu.cn/atom.xml" rel="self"/>
   
   <link href="https://0skyu.cn/"/>
-  <updated>2021-04-06T08:05:08.154Z</updated>
+  <updated>2021-04-06T08:16:56.056Z</updated>
   <id>https://0skyu.cn/</id>
   
   <author>
@@ -17,11 +17,104 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>我喜欢的一个4张动漫壁纸啊</title>
+    <link href="https://0skyu.cn/p/53d0.html"/>
+    <id>https://0skyu.cn/p/53d0.html</id>
+    <published>2021-04-06T16:00:00.000Z</published>
+    <updated>2021-04-06T08:16:56.056Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src= &quot;/img/loading.gif&quot; data-lazy-src=&quot;https://cdn.jsdelivr.net/gh/dstansice/img@main/1617628583000.png&quot; alt&gt;&lt;br&gt;&lt;img src=</summary>
+        
+      
+    
+    
+    
+    
+    <category term="动漫壁纸" scheme="https://0skyu.cn/tags/%E5%8A%A8%E6%BC%AB%E5%A3%81%E7%BA%B8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我喜欢的一个4张图片啊</title>
+    <link href="https://0skyu.cn/p/19fe.html"/>
+    <id>https://0skyu.cn/p/19fe.html</id>
+    <published>2021-04-06T16:00:00.000Z</published>
+    <updated>2021-04-06T08:16:56.056Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src= &quot;/img/loading.gif&quot; data-lazy-src=&quot;https://cdn.jsdelivr.net/gh/dstansice/img@main/1617628447000.jpeg&quot; alt&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=</summary>
+        
+      
+    
+    
+    
+    
+    <category term="我喜欢" scheme="https://0skyu.cn/tags/%E6%88%91%E5%96%9C%E6%AC%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>英雄兰-保卫者形态来了</title>
+    <link href="https://0skyu.cn/p/aad3.html"/>
+    <id>https://0skyu.cn/p/aad3.html</id>
+    <published>2021-04-06T16:00:00.000Z</published>
+    <updated>2021-04-06T08:16:56.056Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;!&lt;br&gt;&lt;img src= &quot;/img/loading.gif&quot; data-lazy-src=&quot;https://cdn.jsdelivr.net/gh/dstansice/img@main/1617628345000.png&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="兰" scheme="https://0skyu.cn/tags/%E5%85%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>英雄兰-灵魂舞者形态啊</title>
+    <link href="https://0skyu.cn/p/577b.html"/>
+    <id>https://0skyu.cn/p/577b.html</id>
+    <published>2021-04-06T16:00:00.000Z</published>
+    <updated>2021-04-06T08:16:56.056Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src= &quot;/img/loading.gif&quot; data-lazy-src=&quot;https://cdn.jsdelivr.net/gh/dstansice/img@main/1617628393000.png&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="兰" scheme="https://0skyu.cn/tags/%E5%85%B0/"/>
+    
+  </entry>
+  
+  <entry>
     <title>香香-保卫者形态来啦！</title>
     <link href="https://0skyu.cn/p/6962.html"/>
     <id>https://0skyu.cn/p/6962.html</id>
     <published>2021-04-06T16:00:00.000Z</published>
-    <updated>2021-04-06T08:05:08.154Z</updated>
+    <updated>2021-04-06T08:16:56.056Z</updated>
     
     
       
@@ -40,409 +133,48 @@
   </entry>
   
   <entry>
-    <title>「SF-LC」13 ImpParser</title>
-    <link href="https://0skyu.cn/p/dddf.html"/>
-    <id>https://0skyu.cn/p/dddf.html</id>
-    <published>2021-04-06T08:05:08.150Z</published>
-    <updated>2021-04-06T08:05:08.150Z</updated>
+    <title>香香-潜伏者形态来了</title>
+    <link href="https://0skyu.cn/p/1719.html"/>
+    <id>https://0skyu.cn/p/1719.html</id>
+    <published>2021-04-06T16:00:00.000Z</published>
+    <updated>2021-04-06T08:16:56.056Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;the parser relies on some “monadic” programming idioms&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;basically, &lt;em&gt;parser combinator&lt;/em&gt; (But 非常麻烦</summary>
+    <summary type="html">&lt;p&gt;&lt;img src= &quot;/img/loading.gif&quot; data-lazy-src=&quot;https://cdn.jsdelivr.net/gh/dstansice/img@main/1617628241000.png&quot;</summary>
         
       
     
     
     
     
-    <category term="LF (逻辑基础)" scheme="https://0skyu.cn/tags/LF-%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80/"/>
-    
-    <category term="SF (软件基础)" scheme="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/"/>
-    
-    <category term="Coq" scheme="https://0skyu.cn/tags/Coq/"/>
-    
-    <category term="笔记" scheme="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    <category term="香香" scheme="https://0skyu.cn/tags/%E9%A6%99%E9%A6%99/"/>
     
   </entry>
   
   <entry>
-    <title>「SF-LC」14 ImpCEvalFun</title>
-    <link href="https://0skyu.cn/p/9cea.html"/>
-    <id>https://0skyu.cn/p/9cea.html</id>
-    <published>2021-04-06T08:05:08.150Z</published>
-    <updated>2021-04-06T08:05:08.150Z</updated>
+    <title>香香-生化形态来了</title>
+    <link href="https://0skyu.cn/p/8fee.html"/>
+    <id>https://0skyu.cn/p/8fee.html</id>
+    <published>2021-04-06T16:00:00.000Z</published>
+    <updated>2021-04-06T08:16:56.056Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;Step-Indexed-Evaluator&quot;&gt;&lt;a href=&quot;#Step-Indexed-Evaluator&quot; class=&quot;headerlink&quot; title=&quot;Step-Indexed Evaluator&quot;&gt;&lt;/a&gt;Step-Indexed</summary>
+    <summary type="html">&lt;p&gt;&lt;img src= &quot;/img/loading.gif&quot; data-lazy-src=&quot;https://cdn.jsdelivr.net/gh/dstansice/img@main/1617628190000.png&quot;</summary>
         
       
     
     
     
     
-    <category term="LF (逻辑基础)" scheme="https://0skyu.cn/tags/LF-%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80/"/>
-    
-    <category term="SF (软件基础)" scheme="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/"/>
-    
-    <category term="Coq" scheme="https://0skyu.cn/tags/Coq/"/>
-    
-    <category term="笔记" scheme="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>「SF-LC」15 Extraction</title>
-    <link href="https://0skyu.cn/p/610.html"/>
-    <id>https://0skyu.cn/p/610.html</id>
-    <published>2021-04-06T08:05:08.150Z</published>
-    <updated>2021-04-06T08:05:08.150Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;Basic-Extraction&quot;&gt;&lt;a href=&quot;#Basic-Extraction&quot; class=&quot;headerlink&quot; title=&quot;Basic Extraction&quot;&gt;&lt;/a&gt;Basic Extraction&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;OCaml  </summary>
-        
-      
-    
-    
-    
-    
-    <category term="LF (逻辑基础)" scheme="https://0skyu.cn/tags/LF-%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80/"/>
-    
-    <category term="SF (软件基础)" scheme="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/"/>
-    
-    <category term="Coq" scheme="https://0skyu.cn/tags/Coq/"/>
-    
-    <category term="笔记" scheme="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>「SF-LC」16 Auto</title>
-    <link href="https://0skyu.cn/p/fd2b.html"/>
-    <id>https://0skyu.cn/p/fd2b.html</id>
-    <published>2021-04-06T08:05:08.150Z</published>
-    <updated>2021-04-06T08:05:08.150Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;auto&lt;/code&gt; - proof search&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Ltac&lt;/code&gt; - automated forward reasoning (hypothesis matching</summary>
-        
-      
-    
-    
-    
-    
-    <category term="LF (逻辑基础)" scheme="https://0skyu.cn/tags/LF-%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80/"/>
-    
-    <category term="SF (软件基础)" scheme="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/"/>
-    
-    <category term="Coq" scheme="https://0skyu.cn/tags/Coq/"/>
-    
-    <category term="笔记" scheme="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>我的 2018 盘点</title>
-    <link href="https://0skyu.cn/p/6b13.html"/>
-    <id>https://0skyu.cn/p/6b13.html</id>
-    <published>2021-04-06T08:05:08.150Z</published>
-    <updated>2021-04-06T08:05:08.150Z</updated>
-    
-    
-    <summary type="html">我的 2018 年全年盘点</summary>
-    
-    
-    
-    <category term="Blog" scheme="https://0skyu.cn/categories/Blog/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>「SF-PLF」1 Equiv</title>
-    <link href="https://0skyu.cn/p/2f60.html"/>
-    <id>https://0skyu.cn/p/2f60.html</id>
-    <published>2021-04-06T08:05:08.150Z</published>
-    <updated>2021-04-06T08:05:08.150Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h3 id=&quot;issues-on-coqc-module-linking&quot;&gt;&lt;a href=&quot;#issues-on-coqc-module-linking&quot; class=&quot;headerlink&quot; title=&quot;issues on coqc module</summary>
-        
-      
-    
-    
-    
-    
-    <category term="SF (软件基础)" scheme="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/"/>
-    
-    <category term="Coq" scheme="https://0skyu.cn/tags/Coq/"/>
-    
-    <category term="笔记" scheme="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/"/>
-    
-    <category term="PLF (编程语言基础)" scheme="https://0skyu.cn/tags/PLF-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>「SF-PLF」2 Hoare</title>
-    <link href="https://0skyu.cn/p/ff73.html"/>
-    <id>https://0skyu.cn/p/ff73.html</id>
-    <published>2021-04-06T08:05:08.150Z</published>
-    <updated>2021-04-06T08:05:08.150Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;TBD&lt;/p&gt;
-</summary>
-        
-      
-    
-    
-    
-    
-    <category term="SF (软件基础)" scheme="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/"/>
-    
-    <category term="Coq" scheme="https://0skyu.cn/tags/Coq/"/>
-    
-    <category term="笔记" scheme="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/"/>
-    
-    <category term="PLF (编程语言基础)" scheme="https://0skyu.cn/tags/PLF-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>「SF-PLF」3 Hoare2</title>
-    <link href="https://0skyu.cn/p/fcfe.html"/>
-    <id>https://0skyu.cn/p/fcfe.html</id>
-    <published>2021-04-06T08:05:08.150Z</published>
-    <updated>2021-04-06T08:05:08.150Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;TBD&lt;/p&gt;
-</summary>
-        
-      
-    
-    
-    
-    
-    <category term="SF (软件基础)" scheme="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/"/>
-    
-    <category term="Coq" scheme="https://0skyu.cn/tags/Coq/"/>
-    
-    <category term="笔记" scheme="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/"/>
-    
-    <category term="PLF (编程语言基础)" scheme="https://0skyu.cn/tags/PLF-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>「SF-PLF」4 HoareAsLogic</title>
-    <link href="https://0skyu.cn/p/b5d9.html"/>
-    <id>https://0skyu.cn/p/b5d9.html</id>
-    <published>2021-04-06T08:05:08.150Z</published>
-    <updated>2021-04-06T08:05:08.150Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;TBD&lt;/p&gt;
-</summary>
-        
-      
-    
-    
-    
-    
-    <category term="SF (软件基础)" scheme="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/"/>
-    
-    <category term="Coq" scheme="https://0skyu.cn/tags/Coq/"/>
-    
-    <category term="笔记" scheme="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/"/>
-    
-    <category term="PLF (编程语言基础)" scheme="https://0skyu.cn/tags/PLF-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>「SF-PLF」5 Smallstep</title>
-    <link href="https://0skyu.cn/p/7ca0.html"/>
-    <id>https://0skyu.cn/p/7ca0.html</id>
-    <published>2021-04-06T08:05:08.150Z</published>
-    <updated>2021-04-06T08:05:08.150Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;Recall-Big-step-Pros-amp-Cons&quot;&gt;&lt;a href=&quot;#Recall-Big-step-Pros-amp-Cons&quot; class=&quot;headerlink&quot; title=&quot;Recall Big-step Pros &amp;amp;</summary>
-        
-      
-    
-    
-    
-    
-    <category term="SF (软件基础)" scheme="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/"/>
-    
-    <category term="Coq" scheme="https://0skyu.cn/tags/Coq/"/>
-    
-    <category term="笔记" scheme="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/"/>
-    
-    <category term="PLF (编程语言基础)" scheme="https://0skyu.cn/tags/PLF-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/"/>
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="https://0skyu.cn/p/0.html"/>
-    <id>https://0skyu.cn/p/0.html</id>
-    <published>2021-04-06T08:05:08.150Z</published>
-    <updated>2021-04-06T08:05:08.150Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;《Java编程方法论-响应式之Rxjava篇》序&quot;&gt;&lt;a href=&quot;#《Java编程方法论-响应式之Rxjava篇》序&quot; class=&quot;headerlink&quot; title=&quot;《Java编程方法论 响应式之Rxjava篇》序&quot;&gt;&lt;/a&gt;《Java编程方法论</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>「SF-PLF」6 Types</title>
-    <link href="https://0skyu.cn/p/8e3d.html"/>
-    <id>https://0skyu.cn/p/8e3d.html</id>
-    <published>2021-04-06T08:05:08.150Z</published>
-    <updated>2021-04-06T08:05:08.150Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;This chapter:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;typing relation                                             — 定型关系&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;type preservation&lt;/code&gt;</summary>
-        
-      
-    
-    
-    
-    
-    <category term="SF (软件基础)" scheme="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/"/>
-    
-    <category term="Coq" scheme="https://0skyu.cn/tags/Coq/"/>
-    
-    <category term="笔记" scheme="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/"/>
-    
-    <category term="PLF (编程语言基础)" scheme="https://0skyu.cn/tags/PLF-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>「SF-PLF」7 Stlc</title>
-    <link href="https://0skyu.cn/p/5883.html"/>
-    <id>https://0skyu.cn/p/5883.html</id>
-    <published>2021-04-06T08:05:08.150Z</published>
-    <updated>2021-04-06T08:05:08.150Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;this chapter:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;(change to new syntax…)&lt;/li&gt;
-&lt;li&gt;function abstraction&lt;/li&gt;
-&lt;li&gt;variable binding  — 变量绑定&lt;/li&gt;
-&lt;li&gt;substitution</summary>
-        
-      
-    
-    
-    
-    
-    <category term="SF (软件基础)" scheme="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/"/>
-    
-    <category term="Coq" scheme="https://0skyu.cn/tags/Coq/"/>
-    
-    <category term="笔记" scheme="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/"/>
-    
-    <category term="PLF (编程语言基础)" scheme="https://0skyu.cn/tags/PLF-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>「SF-PLF」8 StlcProp</title>
-    <link href="https://0skyu.cn/p/6805.html"/>
-    <id>https://0skyu.cn/p/6805.html</id>
-    <published>2021-04-06T08:05:08.150Z</published>
-    <updated>2021-04-06T08:05:08.150Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;基本的定理依赖关系 top-down: &lt;/p&gt;
-&lt;p&gt;Type Safety&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Progress&lt;ul&gt;
-&lt;li&gt;Canonical Forms (one for each type of</summary>
-        
-      
-    
-    
-    
-    
-    <category term="SF (软件基础)" scheme="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/"/>
-    
-    <category term="Coq" scheme="https://0skyu.cn/tags/Coq/"/>
-    
-    <category term="笔记" scheme="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/"/>
-    
-    <category term="PLF (编程语言基础)" scheme="https://0skyu.cn/tags/PLF-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/"/>
+    <category term="香香" scheme="https://0skyu.cn/tags/%E9%A6%99%E9%A6%99/"/>
     
   </entry>
   
@@ -450,8 +182,8 @@
     <title>「SF-PLF」9 MoreStlc</title>
     <link href="https://0skyu.cn/p/ea55.html"/>
     <id>https://0skyu.cn/p/ea55.html</id>
-    <published>2021-04-06T08:05:08.150Z</published>
-    <updated>2021-04-06T08:05:08.150Z</updated>
+    <published>2021-04-06T08:16:56.052Z</published>
+    <updated>2021-04-06T08:16:56.052Z</updated>
     
     
       
@@ -482,8 +214,8 @@
     <title>「SF-PLF」10 Sub</title>
     <link href="https://0skyu.cn/p/2222.html"/>
     <id>https://0skyu.cn/p/2222.html</id>
-    <published>2021-04-06T08:05:08.150Z</published>
-    <updated>2021-04-06T08:05:08.150Z</updated>
+    <published>2021-04-06T08:16:56.052Z</published>
+    <updated>2021-04-06T08:16:56.052Z</updated>
     
     
       
@@ -511,8 +243,8 @@
     <title>「SF-PLF」11. TypeChecking</title>
     <link href="https://0skyu.cn/p/710d.html"/>
     <id>https://0skyu.cn/p/710d.html</id>
-    <published>2021-04-06T08:05:08.150Z</published>
-    <updated>2021-04-06T08:05:08.150Z</updated>
+    <published>2021-04-06T08:16:56.052Z</published>
+    <updated>2021-04-06T08:16:56.052Z</updated>
     
     
       
@@ -541,8 +273,8 @@
     <title>「SF-PLF」12 Records</title>
     <link href="https://0skyu.cn/p/a84a.html"/>
     <id>https://0skyu.cn/p/a84a.html</id>
-    <published>2021-04-06T08:05:08.150Z</published>
-    <updated>2021-04-06T08:05:08.150Z</updated>
+    <published>2021-04-06T08:16:56.052Z</published>
+    <updated>2021-04-06T08:16:56.052Z</updated>
     
     
       
@@ -570,8 +302,8 @@
     <title>「SF-PLF」13 References</title>
     <link href="https://0skyu.cn/p/ed68.html"/>
     <id>https://0skyu.cn/p/ed68.html</id>
-    <published>2021-04-06T08:05:08.150Z</published>
-    <updated>2021-04-06T08:05:08.150Z</updated>
+    <published>2021-04-06T08:16:56.052Z</published>
+    <updated>2021-04-06T08:16:56.052Z</updated>
     
     
       
@@ -593,6 +325,222 @@
     <category term="笔记" scheme="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/"/>
     
     <category term="PLF (编程语言基础)" scheme="https://0skyu.cn/tags/PLF-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「SF-PLF」14 RecordSub</title>
+    <link href="https://0skyu.cn/p/e58e.html"/>
+    <id>https://0skyu.cn/p/e58e.html</id>
+    <published>2021-04-06T08:16:56.052Z</published>
+    <updated>2021-04-06T08:16:56.052Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;figure class=&quot;highlight coq&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span</summary>
+        
+      
+    
+    
+    
+    
+    <category term="SF (软件基础)" scheme="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="Coq" scheme="https://0skyu.cn/tags/Coq/"/>
+    
+    <category term="笔记" scheme="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="PLF (编程语言基础)" scheme="https://0skyu.cn/tags/PLF-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「SF-PLF」15 Norm</title>
+    <link href="https://0skyu.cn/p/ca49.html"/>
+    <id>https://0skyu.cn/p/ca49.html</id>
+    <published>2021-04-06T08:16:56.052Z</published>
+    <updated>2021-04-06T08:16:56.052Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;TBD&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+    <category term="SF (软件基础)" scheme="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="Coq" scheme="https://0skyu.cn/tags/Coq/"/>
+    
+    <category term="笔记" scheme="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="PLF (编程语言基础)" scheme="https://0skyu.cn/tags/PLF-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「SF-PLF」16 LibTactics</title>
+    <link href="https://0skyu.cn/p/a8de.html"/>
+    <id>https://0skyu.cn/p/a8de.html</id>
+    <published>2021-04-06T08:16:56.052Z</published>
+    <updated>2021-04-06T08:16:56.052Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;TBD&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+    <category term="SF (软件基础)" scheme="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="Coq" scheme="https://0skyu.cn/tags/Coq/"/>
+    
+    <category term="笔记" scheme="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="PLF (编程语言基础)" scheme="https://0skyu.cn/tags/PLF-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「SF-PLF」17 UseTactics</title>
+    <link href="https://0skyu.cn/p/5700.html"/>
+    <id>https://0skyu.cn/p/5700.html</id>
+    <published>2021-04-06T08:16:56.052Z</published>
+    <updated>2021-04-06T08:16:56.052Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;figure class=&quot;highlight coq&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span</summary>
+        
+      
+    
+    
+    
+    
+    <category term="SF (软件基础)" scheme="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="Coq" scheme="https://0skyu.cn/tags/Coq/"/>
+    
+    <category term="笔记" scheme="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="PLF (编程语言基础)" scheme="https://0skyu.cn/tags/PLF-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「SF-PLF」18 UseAuto</title>
+    <link href="https://0skyu.cn/p/de7c.html"/>
+    <id>https://0skyu.cn/p/de7c.html</id>
+    <published>2021-04-06T08:16:56.052Z</published>
+    <updated>2021-04-06T08:16:56.052Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Basic-Features-of-Proof-Search&quot;&gt;&lt;a href=&quot;#Basic-Features-of-Proof-Search&quot; class=&quot;headerlink&quot; title=&quot;Basic Features of Proof</summary>
+        
+      
+    
+    
+    
+    
+    <category term="SF (软件基础)" scheme="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="Coq" scheme="https://0skyu.cn/tags/Coq/"/>
+    
+    <category term="笔记" scheme="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="PLF (编程语言基础)" scheme="https://0skyu.cn/tags/PLF-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「SF-PLF」19 PE</title>
+    <link href="https://0skyu.cn/p/5a19.html"/>
+    <id>https://0skyu.cn/p/5a19.html</id>
+    <published>2021-04-06T08:16:56.052Z</published>
+    <updated>2021-04-06T08:16:56.052Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;TBD&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+    <category term="SF (软件基础)" scheme="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="Coq" scheme="https://0skyu.cn/tags/Coq/"/>
+    
+    <category term="笔记" scheme="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="PLF (编程语言基础)" scheme="https://0skyu.cn/tags/PLF-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记一个折磨了我一天半的 Bug</title>
+    <link href="https://0skyu.cn/p/59d0.html"/>
+    <id>https://0skyu.cn/p/59d0.html</id>
+    <published>2021-04-06T08:16:56.052Z</published>
+    <updated>2021-04-06T08:16:56.052Z</updated>
+    
+    
+    <summary type="html">一杯茶，一根烟，一个 Bug 一天根本改不完。</summary>
+    
+    
+    
+    <category term="Java" scheme="https://0skyu.cn/categories/Java/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://0skyu.cn/p/0.html"/>
+    <id>https://0skyu.cn/p/0.html</id>
+    <published>2021-04-06T08:16:56.052Z</published>
+    <updated>2021-04-06T08:16:56.052Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;原文链接：&lt;a href=&quot;https://mp.weixin.qq.com/s/-p06WsPQK7EmFpmUABluRA&quot;&gt;Service Mesh 时代，Dubbo</summary>
+        
+      
+    
+    
+    
     
   </entry>
   
