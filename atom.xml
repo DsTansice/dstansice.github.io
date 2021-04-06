@@ -6,7 +6,7 @@
   <link href="https://0skyu.cn/atom.xml" rel="self"/>
   
   <link href="https://0skyu.cn/"/>
-  <updated>2021-04-06T07:34:58.096Z</updated>
+  <updated>2021-04-06T07:51:30.424Z</updated>
   <id>https://0skyu.cn/</id>
   
   <author>
@@ -17,31 +17,14 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>判断前台 Activity 是否属于本进程</title>
-    <link href="https://0skyu.cn/p/f218.html"/>
-    <id>https://0skyu.cn/p/f218.html</id>
-    <published>2021-04-06T07:34:58.096Z</published>
-    <updated>2021-04-06T07:34:58.096Z</updated>
+    <title>使用 jsDelivr 免费加速 GitHub Pages 博客的静态资源</title>
+    <link href="https://0skyu.cn/p/7eb0.html"/>
+    <id>https://0skyu.cn/p/7eb0.html</id>
+    <published>2021-04-06T07:51:30.424Z</published>
+    <updated>2021-04-06T07:51:30.424Z</updated>
     
     
-    <summary type="html">一种判断前台 Activity 是否属于本进程的方法。</summary>
-    
-    
-    
-    <category term="Android" scheme="https://0skyu.cn/categories/Android/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>为绑定域名的 GitHub Pages 启用 HTTPS</title>
-    <link href="https://0skyu.cn/p/a54d.html"/>
-    <id>https://0skyu.cn/p/a54d.html</id>
-    <published>2021-04-06T07:34:58.096Z</published>
-    <updated>2021-04-06T07:34:58.096Z</updated>
-    
-    
-    <summary type="html">为绑定域名的 GitHub Pages 添加免费、自动续期的 SSL 证书，简单几步开启 HTTPS，添加小绿锁。</summary>
+    <summary type="html">使用 jsdelivr CDN 加速 GitHub Pages 博客的静态资源。</summary>
     
     
     
@@ -51,31 +34,14 @@
   </entry>
   
   <entry>
-    <title>简化 kramdown 列表嵌套内容缩进的 Vim 插件</title>
-    <link href="https://0skyu.cn/p/23dc.html"/>
-    <id>https://0skyu.cn/p/23dc.html</id>
-    <published>2021-04-06T07:34:58.096Z</published>
-    <updated>2021-04-06T07:34:58.096Z</updated>
+    <title>本博客模板常见问题 Q &amp; A</title>
+    <link href="https://0skyu.cn/p/9d07.html"/>
+    <id>https://0skyu.cn/p/9d07.html</id>
+    <published>2021-04-06T07:51:30.424Z</published>
+    <updated>2021-04-06T07:51:30.424Z</updated>
     
     
-    <summary type="html">kramdown 的列表嵌套内容缩进不是使用 Tab，而是有更「严格」更「奇葩」的规定，这个插件就是来拯救为此苦恼的 Vimer。</summary>
-    
-    
-    
-    <category term="Vim" scheme="https://0skyu.cn/categories/Vim/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Kloudsec 挂了，GitHub Pages 去 HTTPS 化</title>
-    <link href="https://0skyu.cn/p/74e9.html"/>
-    <id>https://0skyu.cn/p/74e9.html</id>
-    <published>2021-04-06T07:34:58.096Z</published>
-    <updated>2021-04-06T07:34:58.096Z</updated>
-    
-    
-    <summary type="html">收到 Kloudsec 将停止服务的消息，决定将 GitHub Pages 去 HTTPS 化。</summary>
+    <summary type="html">使用这个博客模板的朋友们时不时会提出一些问题，我将它们的解决方案逐渐整理归纳，汇总到这一篇帖子里。</summary>
     
     
     
@@ -85,65 +51,14 @@
   </entry>
   
   <entry>
-    <title>在 Vim 里为 Markdown 文档展示导航窗格</title>
-    <link href="https://0skyu.cn/p/6c29.html"/>
-    <id>https://0skyu.cn/p/6c29.html</id>
-    <published>2021-04-06T07:34:58.096Z</published>
-    <updated>2021-04-06T07:34:58.096Z</updated>
+    <title>用 Vim 编辑 Markdown 时直接粘贴图片</title>
+    <link href="https://0skyu.cn/p/f79d.html"/>
+    <id>https://0skyu.cn/p/f79d.html</id>
+    <published>2021-04-06T07:51:30.424Z</published>
+    <updated>2021-04-06T07:51:30.424Z</updated>
     
     
-    <summary type="html">在一个很长的 Markdown 文档里要准确跳转到某标题并不容易，如果像 Word 那样有个导航窗格就好了。</summary>
-    
-    
-    
-    <category term="Vim" scheme="https://0skyu.cn/categories/Vim/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>C++ 程序员的 Java 指南</title>
-    <link href="https://0skyu.cn/p/6af2.html"/>
-    <id>https://0skyu.cn/p/6af2.html</id>
-    <published>2021-04-06T07:34:58.096Z</published>
-    <updated>2021-04-06T07:34:58.096Z</updated>
-    
-    
-    <summary type="html">一个 C++ 程序员自己总结的 Java 学习中应该注意的点。</summary>
-    
-    
-    
-    <category term="Java" scheme="https://0skyu.cn/categories/Java/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>一道在知乎很火的 Java 题——如何输出 ab</title>
-    <link href="https://0skyu.cn/p/5595.html"/>
-    <id>https://0skyu.cn/p/5595.html</id>
-    <published>2021-04-06T07:34:58.096Z</published>
-    <updated>2021-04-06T07:34:58.096Z</updated>
-    
-    
-    <summary type="html">一道在知乎讨论得很火热的 Java 题，网友们的脑洞能给出一些什么样的答案呢？</summary>
-    
-    
-    
-    <category term="Java" scheme="https://0skyu.cn/categories/Java/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>vim-markdown-toc 发布 v1.0 版</title>
-    <link href="https://0skyu.cn/p/c289.html"/>
-    <id>https://0skyu.cn/p/c289.html</id>
-    <published>2021-04-06T07:34:58.096Z</published>
-    <updated>2021-04-06T07:34:58.096Z</updated>
-    
-    
-    <summary type="html">我写的第一款 Vim 插件的 Release 版本。</summary>
+    <summary type="html">在使用 Vim 编辑 Markdown 时，粘贴图片很不方便，用插件 md-img-paste.vim 解决这个痛点。</summary>
     
     
     
@@ -153,31 +68,64 @@
   </entry>
   
   <entry>
-    <title>搭建大型源码阅读环境——使用 OpenGrok</title>
-    <link href="https://0skyu.cn/p/2a96.html"/>
-    <id>https://0skyu.cn/p/2a96.html</id>
-    <published>2021-04-06T07:34:58.096Z</published>
-    <updated>2021-04-06T07:34:58.096Z</updated>
+    <title>My Programming Languages Spectrum</title>
+    <link href="https://0skyu.cn/p/4702.html"/>
+    <id>https://0skyu.cn/p/4702.html</id>
+    <published>2021-04-06T07:51:30.424Z</published>
+    <updated>2021-04-06T07:51:30.424Z</updated>
     
     
-    <summary type="html">RTFSC 是程序员打怪升级路上避不开的功课，那营造一个舒适的环境来提升上课的体验就很有必要了。</summary>
+      
+      
+        
+        
+    <summary type="html">&lt;iframe id=&quot;chart&quot; src=&quot;https://huangxuan.me/PL-chart/&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;width:</summary>
+        
+      
     
     
-    
-    <category term="Tools" scheme="https://0skyu.cn/categories/Tools/"/>
     
     
   </entry>
   
   <entry>
-    <title>我的 2016 盘点</title>
-    <link href="https://0skyu.cn/p/e792.html"/>
-    <id>https://0skyu.cn/p/e792.html</id>
-    <published>2021-04-06T07:34:58.096Z</published>
-    <updated>2021-04-06T07:34:58.096Z</updated>
+    <title>React Hooks 系列之3 useContext</title>
+    <link href="https://0skyu.cn/p/5e4b.html"/>
+    <id>https://0skyu.cn/p/5e4b.html</id>
+    <published>2021-04-06T07:51:30.424Z</published>
+    <updated>2021-04-06T07:51:30.424Z</updated>
     
     
-    <summary type="html">总结是为了更好地上路。</summary>
+      
+      
+        
+        
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;content&lt;br&gt;{:toc}&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;掌握 React Hooks api 将更好的帮助你在工作中使用，对 React 的掌握更上一层楼。本系列将使用大量实例代码和效果展示，非常易于初学者和复习使用。&lt;/p&gt;
+&lt;p&gt;今天我们讲讲</summary>
+        
+      
+    
+    
+    
+    <category term="JavaScript" scheme="https://0skyu.cn/categories/JavaScript/"/>
+    
+    
+    <category term="React hooks" scheme="https://0skyu.cn/tags/React-hooks/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>更聪明地学习，而不是苦读——《如何高效学习》</title>
+    <link href="https://0skyu.cn/p/fecc.html"/>
+    <id>https://0skyu.cn/p/fecc.html</id>
+    <published>2021-04-06T07:51:30.424Z</published>
+    <updated>2021-04-06T07:51:30.424Z</updated>
+    
+    
+    <summary type="html">《如何高效学习》的吐槽与读书笔记。</summary>
     
     
     
@@ -187,14 +135,219 @@
   </entry>
   
   <entry>
-    <title>读书：追风筝的人</title>
-    <link href="https://0skyu.cn/p/4b6b.html"/>
-    <id>https://0skyu.cn/p/4b6b.html</id>
-    <published>2021-04-06T07:34:58.096Z</published>
-    <updated>2021-04-06T07:34:58.096Z</updated>
+    <title>React Hooks 系列之5 useCallback</title>
+    <link href="https://0skyu.cn/p/7d47.html"/>
+    <id>https://0skyu.cn/p/7d47.html</id>
+    <published>2021-04-06T07:51:30.424Z</published>
+    <updated>2021-04-06T07:51:30.424Z</updated>
     
     
-    <summary type="html">希望自己有输入必有输出，这是开篇。</summary>
+      
+      
+        
+        
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;content&lt;br&gt;{:toc}&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;掌握 React Hooks api 将更好的帮助你在工作中使用，对 React 的掌握更上一层楼。本系列将使用大量实例代码和效果展示，非常易于初学者和复习使用。&lt;/p&gt;
+&lt;p&gt;在我们开始深入学习</summary>
+        
+      
+    
+    
+    
+    <category term="JavaScript" scheme="https://0skyu.cn/categories/JavaScript/"/>
+    
+    
+    <category term="React hooks" scheme="https://0skyu.cn/tags/React-hooks/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>React Hooks 系列之6 useMemo</title>
+    <link href="https://0skyu.cn/p/a342.html"/>
+    <id>https://0skyu.cn/p/a342.html</id>
+    <published>2021-04-06T07:51:30.424Z</published>
+    <updated>2021-04-06T07:51:30.424Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;content&lt;br&gt;{:toc}&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;掌握 React Hooks api 将更好的帮助你在工作中使用，对 React 的掌握更上一层楼。本系列将使用大量实例代码和效果展示，非常易于初学者和复习使用。&lt;/p&gt;
+&lt;p&gt;上一章，我们学习了</summary>
+        
+      
+    
+    
+    
+    <category term="JavaScript" scheme="https://0skyu.cn/categories/JavaScript/"/>
+    
+    
+    <category term="React hooks" scheme="https://0skyu.cn/tags/React-hooks/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>React Hooks 系列之7 useRef</title>
+    <link href="https://0skyu.cn/p/4e5b.html"/>
+    <id>https://0skyu.cn/p/4e5b.html</id>
+    <published>2021-04-06T07:51:30.424Z</published>
+    <updated>2021-04-06T07:51:30.424Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;content&lt;br&gt;{:toc}&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;掌握 React Hooks api 将更好的帮助你在工作中使用，对 React</summary>
+        
+      
+    
+    
+    
+    <category term="JavaScript" scheme="https://0skyu.cn/categories/JavaScript/"/>
+    
+    
+    <category term="React hooks" scheme="https://0skyu.cn/tags/React-hooks/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>React Hooks 系列之8 custom Hook</title>
+    <link href="https://0skyu.cn/p/f1c9.html"/>
+    <id>https://0skyu.cn/p/f1c9.html</id>
+    <published>2021-04-06T07:51:30.424Z</published>
+    <updated>2021-04-06T07:51:30.424Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;content&lt;br&gt;{:toc}&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;掌握 React Hooks api 将更好的帮助你在工作中使用，对 React</summary>
+        
+      
+    
+    
+    
+    <category term="JavaScript" scheme="https://0skyu.cn/categories/JavaScript/"/>
+    
+    
+    <category term="React hooks" scheme="https://0skyu.cn/tags/React-hooks/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Data Representation - Integer</title>
+    <link href="https://0skyu.cn/p/b79.html"/>
+    <id>https://0skyu.cn/p/b79.html</id>
+    <published>2021-04-06T07:51:30.424Z</published>
+    <updated>2021-04-06T07:51:30.424Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Integers, or &lt;em&gt;whole number&lt;/em&gt; from elemental mathematics, are the most common and&lt;br&gt;fundamental numbers used in the computers.</summary>
+        
+      
+    
+    
+    
+    
+    <category term="笔记" scheme="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="基础" scheme="https://0skyu.cn/tags/%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="C" scheme="https://0skyu.cn/tags/C/"/>
+    
+    <category term="C++" scheme="https://0skyu.cn/tags/C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Data Representation - Floating Point Numbers</title>
+    <link href="https://0skyu.cn/p/5157.html"/>
+    <id>https://0skyu.cn/p/5157.html</id>
+    <published>2021-04-06T07:51:30.424Z</published>
+    <updated>2021-04-06T07:51:30.424Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;In the last episode we talked about the data representation of integer, a kind&lt;br&gt;of fixed-point numbers. Today we’re going to learn</summary>
+        
+      
+    
+    
+    
+    
+    <category term="笔记" scheme="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="基础" scheme="https://0skyu.cn/tags/%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="C" scheme="https://0skyu.cn/tags/C/"/>
+    
+    <category term="C++" scheme="https://0skyu.cn/tags/C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Data Representation - TODO</title>
+    <link href="https://0skyu.cn/p/8038.html"/>
+    <id>https://0skyu.cn/p/8038.html</id>
+    <published>2021-04-06T07:51:30.424Z</published>
+    <updated>2021-04-06T07:51:30.424Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;Endianness&lt;/li&gt;
+&lt;li&gt;String (Char Sequence e.g. NULL &lt;code&gt;0x00&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;Unicode / UTF8&lt;/li&gt;
+&lt;li&gt;Struct and</summary>
+        
+      
+    
+    
+    
+    
+    <category term="笔记" scheme="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="基础" scheme="https://0skyu.cn/tags/%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="C" scheme="https://0skyu.cn/tags/C/"/>
+    
+    <category term="C++" scheme="https://0skyu.cn/tags/C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>林丹从国家队退役，带起一波回忆</title>
+    <link href="https://0skyu.cn/p/6f8.html"/>
+    <id>https://0skyu.cn/p/6f8.html</id>
+    <published>2021-04-06T07:51:30.424Z</published>
+    <updated>2021-04-06T07:51:30.424Z</updated>
+    
+    
+    <summary type="html">打羽毛球好几年了，中间也有好些故事，值得记录一下。</summary>
     
     
     
@@ -204,31 +357,99 @@
   </entry>
   
   <entry>
-    <title>我做了一个有点艰难的决定</title>
-    <link href="https://0skyu.cn/p/1fed.html"/>
-    <id>https://0skyu.cn/p/1fed.html</id>
-    <published>2021-04-06T07:34:58.096Z</published>
-    <updated>2021-04-06T07:34:58.096Z</updated>
+    <title>使用 jsDelivr 免费加速 GitHub Pages 博客的静态资源（二）</title>
+    <link href="https://0skyu.cn/p/4e5c.html"/>
+    <id>https://0skyu.cn/p/4e5c.html</id>
+    <published>2021-04-06T07:51:30.424Z</published>
+    <updated>2021-04-06T07:51:30.424Z</updated>
     
     
-    <summary type="html">我北漂之旅的终点，人生的新起点。</summary>
+    <summary type="html">使用 jsDelivr 加速 GitHub Pages 博客的图片资源、站内搜索引用的 JSON 资源。</summary>
     
     
     
-    <category term="Blog" scheme="https://0skyu.cn/categories/Blog/"/>
+    <category term="GitHub" scheme="https://0skyu.cn/categories/GitHub/"/>
     
     
   </entry>
   
   <entry>
-    <title>从一个 NullPointerException 探究 Java 的自动装箱拆箱机制</title>
-    <link href="https://0skyu.cn/p/c4c0.html"/>
-    <id>https://0skyu.cn/p/c4c0.html</id>
-    <published>2021-04-06T07:34:58.096Z</published>
-    <updated>2021-04-06T07:34:58.096Z</updated>
+    <title>给 Mac 添加右键菜单「使用 VSCode 打开」</title>
+    <link href="https://0skyu.cn/p/f6f7.html"/>
+    <id>https://0skyu.cn/p/f6f7.html</id>
+    <published>2021-04-06T07:51:30.424Z</published>
+    <updated>2021-04-06T07:51:30.424Z</updated>
     
     
-    <summary type="html">因为遇到一个 NullPointerException，弄清了 Java 的自动装箱拆箱的原理。</summary>
+    <summary type="html">如何在 Mac 下右键文件或文件夹，直接通过菜单项「用 VSCode 打开」。</summary>
+    
+    
+    
+    <category term="VSCode" scheme="https://0skyu.cn/categories/VSCode/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://0skyu.cn/p/0.html"/>
+    <id>https://0skyu.cn/p/0.html</id>
+    <published>2021-04-06T07:51:30.424Z</published>
+    <updated>2021-04-06T07:51:30.424Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;《深入理解-Spring-Cloud-与实战》序&quot;&gt;&lt;a href=&quot;#《深入理解-Spring-Cloud-与实战》序&quot; class=&quot;headerlink&quot; title=&quot;《深入理解 Spring Cloud 与实战》序&quot;&gt;&lt;/a&gt;《深入理解 Spring</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>前端弹性动画与 framer-motion 动画库初探</title>
+    <link href="https://0skyu.cn/p/21c1.html"/>
+    <id>https://0skyu.cn/p/21c1.html</id>
+    <published>2021-04-06T07:51:30.424Z</published>
+    <updated>2021-04-06T07:51:30.424Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;content&lt;br&gt;{:toc}&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;前端动画的开发一直是我所热衷探索与研究的内容，本文将描述什么是拟真的动画效果，目前所流行的 React 动画库，以及一些基于 framer-motion 动画库的 demos。&lt;/p&gt;
+
+##</summary>
+        
+      
+    
+    
+    
+    <category term="JavaScript" scheme="https://0skyu.cn/categories/JavaScript/"/>
+    
+    
+    <category term="动画" scheme="https://0skyu.cn/tags/%E5%8A%A8%E7%94%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>代码审查：从 ArrayList 说线程安全</title>
+    <link href="https://0skyu.cn/p/3cc4.html"/>
+    <id>https://0skyu.cn/p/3cc4.html</id>
+    <published>2021-04-06T07:51:30.424Z</published>
+    <updated>2021-04-06T07:51:30.424Z</updated>
+    
+    
+    <summary type="html">从一个代码 Review 中发现的 ArrayList 线程不安全的真实案例，顺便深入理解一下线程安全。</summary>
     
     
     
@@ -238,120 +459,18 @@
   </entry>
   
   <entry>
-    <title>关于 Markdown 的一些奇技淫巧</title>
-    <link href="https://0skyu.cn/p/2286.html"/>
-    <id>https://0skyu.cn/p/2286.html</id>
-    <published>2021-04-06T07:34:58.096Z</published>
-    <updated>2021-04-06T07:34:58.096Z</updated>
+    <title>解决 IntelliJ IDEA 启动报 Unsupported Java Version 的问题</title>
+    <link href="https://0skyu.cn/p/bcd9.html"/>
+    <id>https://0skyu.cn/p/bcd9.html</id>
+    <published>2021-04-06T07:51:30.424Z</published>
+    <updated>2021-04-06T07:51:30.424Z</updated>
     
     
-    <summary type="html">介绍 Markdown 的一些高级用法。</summary>
-    
-    
-    
-    <category term="Markdown" scheme="https://0skyu.cn/categories/Markdown/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>图解 SQL 里的各种 JOIN</title>
-    <link href="https://0skyu.cn/p/b25d.html"/>
-    <id>https://0skyu.cn/p/b25d.html</id>
-    <published>2021-04-06T07:34:58.096Z</published>
-    <updated>2021-04-06T07:34:58.096Z</updated>
-    
-    
-    <summary type="html">用文氏图和示例来理解 SQL 里的各种 JOIN。</summary>
+    <summary type="html">解决 IntelliJ IDEA 启动报 Unsupported Java Version 的问题</summary>
     
     
     
-    <category term="Database" scheme="https://0skyu.cn/categories/Database/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Android 源码分析开篇</title>
-    <link href="https://0skyu.cn/p/721c.html"/>
-    <id>https://0skyu.cn/p/721c.html</id>
-    <published>2021-04-06T07:34:58.096Z</published>
-    <updated>2021-04-06T07:34:58.096Z</updated>
-    
-    
-    <summary type="html">开始 Android 源码和一些优秀的第三方类库的分析</summary>
-    
-    
-    
-    <category term="Android" scheme="https://0skyu.cn/categories/Android/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>阅读源码的意义与方法</title>
-    <link href="https://0skyu.cn/p/acea.html"/>
-    <id>https://0skyu.cn/p/acea.html</id>
-    <published>2021-04-06T07:34:58.096Z</published>
-    <updated>2021-04-06T07:34:58.096Z</updated>
-    
-    
-    <summary type="html">阅读源码不是唯一的学习方法，但是是很重要的学习方法。</summary>
-    
-    
-    
-    <category term="Android" scheme="https://0skyu.cn/categories/Android/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>发布一款光谷社区第三方 Android App</title>
-    <link href="https://0skyu.cn/p/9afe.html"/>
-    <id>https://0skyu.cn/p/9afe.html</id>
-    <published>2021-04-06T07:34:58.096Z</published>
-    <updated>2021-04-06T07:34:58.096Z</updated>
-    
-    
-    <summary type="html">光谷社区第三方 Android App。</summary>
-    
-    
-    
-    <category term="Android" scheme="https://0skyu.cn/categories/Android/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>程序员节的过节姿势大全</title>
-    <link href="https://0skyu.cn/p/9dab.html"/>
-    <id>https://0skyu.cn/p/9dab.html</id>
-    <published>2021-04-06T07:34:58.096Z</published>
-    <updated>2021-04-06T07:34:58.096Z</updated>
-    
-    
-    <summary type="html">今天是 1024，程序员节，这个并不特别的日子大家都是怎样度过呢？</summary>
-    
-    
-    
-    <category term="Blog" scheme="https://0skyu.cn/categories/Blog/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>解决两个 Android 模拟器之间无法网络通信的问题</title>
-    <link href="https://0skyu.cn/p/7224.html"/>
-    <id>https://0skyu.cn/p/7224.html</id>
-    <published>2021-04-06T07:34:58.096Z</published>
-    <updated>2021-04-06T07:34:58.096Z</updated>
-    
-    
-    <summary type="html">如何配置，让同一台 PC 上的两个 Android 模拟器之间能够使用 TCP 通信？</summary>
-    
-    
-    
-    <category term="Android" scheme="https://0skyu.cn/categories/Android/"/>
+    <category term="Java" scheme="https://0skyu.cn/categories/Java/"/>
     
     
   </entry>
