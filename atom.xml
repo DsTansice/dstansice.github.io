@@ -6,7 +6,7 @@
   <link href="https://0skyu.cn/atom.xml" rel="self"/>
   
   <link href="https://0skyu.cn/"/>
-  <updated>2021-04-06T07:51:30.424Z</updated>
+  <updated>2021-04-06T08:05:08.154Z</updated>
   <id>https://0skyu.cn/</id>
   
   <author>
@@ -17,83 +17,125 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>使用 jsDelivr 免费加速 GitHub Pages 博客的静态资源</title>
-    <link href="https://0skyu.cn/p/7eb0.html"/>
-    <id>https://0skyu.cn/p/7eb0.html</id>
-    <published>2021-04-06T07:51:30.424Z</published>
-    <updated>2021-04-06T07:51:30.424Z</updated>
-    
-    
-    <summary type="html">使用 jsdelivr CDN 加速 GitHub Pages 博客的静态资源。</summary>
-    
-    
-    
-    <category term="GitHub" scheme="https://0skyu.cn/categories/GitHub/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>本博客模板常见问题 Q &amp; A</title>
-    <link href="https://0skyu.cn/p/9d07.html"/>
-    <id>https://0skyu.cn/p/9d07.html</id>
-    <published>2021-04-06T07:51:30.424Z</published>
-    <updated>2021-04-06T07:51:30.424Z</updated>
-    
-    
-    <summary type="html">使用这个博客模板的朋友们时不时会提出一些问题，我将它们的解决方案逐渐整理归纳，汇总到这一篇帖子里。</summary>
-    
-    
-    
-    <category term="GitHub" scheme="https://0skyu.cn/categories/GitHub/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>用 Vim 编辑 Markdown 时直接粘贴图片</title>
-    <link href="https://0skyu.cn/p/f79d.html"/>
-    <id>https://0skyu.cn/p/f79d.html</id>
-    <published>2021-04-06T07:51:30.424Z</published>
-    <updated>2021-04-06T07:51:30.424Z</updated>
-    
-    
-    <summary type="html">在使用 Vim 编辑 Markdown 时，粘贴图片很不方便，用插件 md-img-paste.vim 解决这个痛点。</summary>
-    
-    
-    
-    <category term="Vim" scheme="https://0skyu.cn/categories/Vim/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>My Programming Languages Spectrum</title>
-    <link href="https://0skyu.cn/p/4702.html"/>
-    <id>https://0skyu.cn/p/4702.html</id>
-    <published>2021-04-06T07:51:30.424Z</published>
-    <updated>2021-04-06T07:51:30.424Z</updated>
+    <title>香香-保卫者形态来啦！</title>
+    <link href="https://0skyu.cn/p/6962.html"/>
+    <id>https://0skyu.cn/p/6962.html</id>
+    <published>2021-04-06T16:00:00.000Z</published>
+    <updated>2021-04-06T08:05:08.154Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;iframe id=&quot;chart&quot; src=&quot;https://huangxuan.me/PL-chart/&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;width:</summary>
+    <summary type="html">&lt;p&gt;&lt;img src= &quot;/img/loading.gif&quot; data-lazy-src=&quot;https://cdn.jsdelivr.net/gh/dstansice/img@main/1617628286000.png&quot;</summary>
         
       
     
     
     
     
+    <category term="香香" scheme="https://0skyu.cn/tags/%E9%A6%99%E9%A6%99/"/>
+    
   </entry>
   
   <entry>
-    <title>React Hooks 系列之3 useContext</title>
-    <link href="https://0skyu.cn/p/5e4b.html"/>
-    <id>https://0skyu.cn/p/5e4b.html</id>
-    <published>2021-04-06T07:51:30.424Z</published>
-    <updated>2021-04-06T07:51:30.424Z</updated>
+    <title>「SF-LC」13 ImpParser</title>
+    <link href="https://0skyu.cn/p/dddf.html"/>
+    <id>https://0skyu.cn/p/dddf.html</id>
+    <published>2021-04-06T08:05:08.150Z</published>
+    <updated>2021-04-06T08:05:08.150Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;the parser relies on some “monadic” programming idioms&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;basically, &lt;em&gt;parser combinator&lt;/em&gt; (But 非常麻烦</summary>
+        
+      
+    
+    
+    
+    
+    <category term="LF (逻辑基础)" scheme="https://0skyu.cn/tags/LF-%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="SF (软件基础)" scheme="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="Coq" scheme="https://0skyu.cn/tags/Coq/"/>
+    
+    <category term="笔记" scheme="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「SF-LC」14 ImpCEvalFun</title>
+    <link href="https://0skyu.cn/p/9cea.html"/>
+    <id>https://0skyu.cn/p/9cea.html</id>
+    <published>2021-04-06T08:05:08.150Z</published>
+    <updated>2021-04-06T08:05:08.150Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Step-Indexed-Evaluator&quot;&gt;&lt;a href=&quot;#Step-Indexed-Evaluator&quot; class=&quot;headerlink&quot; title=&quot;Step-Indexed Evaluator&quot;&gt;&lt;/a&gt;Step-Indexed</summary>
+        
+      
+    
+    
+    
+    
+    <category term="LF (逻辑基础)" scheme="https://0skyu.cn/tags/LF-%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="SF (软件基础)" scheme="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="Coq" scheme="https://0skyu.cn/tags/Coq/"/>
+    
+    <category term="笔记" scheme="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「SF-LC」15 Extraction</title>
+    <link href="https://0skyu.cn/p/610.html"/>
+    <id>https://0skyu.cn/p/610.html</id>
+    <published>2021-04-06T08:05:08.150Z</published>
+    <updated>2021-04-06T08:05:08.150Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Basic-Extraction&quot;&gt;&lt;a href=&quot;#Basic-Extraction&quot; class=&quot;headerlink&quot; title=&quot;Basic Extraction&quot;&gt;&lt;/a&gt;Basic Extraction&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;OCaml  </summary>
+        
+      
+    
+    
+    
+    
+    <category term="LF (逻辑基础)" scheme="https://0skyu.cn/tags/LF-%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="SF (软件基础)" scheme="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="Coq" scheme="https://0skyu.cn/tags/Coq/"/>
+    
+    <category term="笔记" scheme="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「SF-LC」16 Auto</title>
+    <link href="https://0skyu.cn/p/fd2b.html"/>
+    <id>https://0skyu.cn/p/fd2b.html</id>
+    <published>2021-04-06T08:05:08.150Z</published>
+    <updated>2021-04-06T08:05:08.150Z</updated>
     
     
       
@@ -101,31 +143,33 @@
         
         
     <summary type="html">&lt;ul&gt;
-&lt;li&gt;content&lt;br&gt;{:toc}&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;掌握 React Hooks api 将更好的帮助你在工作中使用，对 React 的掌握更上一层楼。本系列将使用大量实例代码和效果展示，非常易于初学者和复习使用。&lt;/p&gt;
-&lt;p&gt;今天我们讲讲</summary>
+&lt;li&gt;&lt;code&gt;auto&lt;/code&gt; - proof search&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Ltac&lt;/code&gt; - automated forward reasoning (hypothesis matching</summary>
         
       
     
     
     
-    <category term="JavaScript" scheme="https://0skyu.cn/categories/JavaScript/"/>
     
+    <category term="LF (逻辑基础)" scheme="https://0skyu.cn/tags/LF-%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80/"/>
     
-    <category term="React hooks" scheme="https://0skyu.cn/tags/React-hooks/"/>
+    <category term="SF (软件基础)" scheme="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="Coq" scheme="https://0skyu.cn/tags/Coq/"/>
+    
+    <category term="笔记" scheme="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
-    <title>更聪明地学习，而不是苦读——《如何高效学习》</title>
-    <link href="https://0skyu.cn/p/fecc.html"/>
-    <id>https://0skyu.cn/p/fecc.html</id>
-    <published>2021-04-06T07:51:30.424Z</published>
-    <updated>2021-04-06T07:51:30.424Z</updated>
+    <title>我的 2018 盘点</title>
+    <link href="https://0skyu.cn/p/6b13.html"/>
+    <id>https://0skyu.cn/p/6b13.html</id>
+    <published>2021-04-06T08:05:08.150Z</published>
+    <updated>2021-04-06T08:05:08.150Z</updated>
     
     
-    <summary type="html">《如何高效学习》的吐槽与读书笔记。</summary>
+    <summary type="html">我的 2018 年全年盘点</summary>
     
     
     
@@ -135,258 +179,150 @@
   </entry>
   
   <entry>
-    <title>React Hooks 系列之5 useCallback</title>
-    <link href="https://0skyu.cn/p/7d47.html"/>
-    <id>https://0skyu.cn/p/7d47.html</id>
-    <published>2021-04-06T07:51:30.424Z</published>
-    <updated>2021-04-06T07:51:30.424Z</updated>
+    <title>「SF-PLF」1 Equiv</title>
+    <link href="https://0skyu.cn/p/2f60.html"/>
+    <id>https://0skyu.cn/p/2f60.html</id>
+    <published>2021-04-06T08:05:08.150Z</published>
+    <updated>2021-04-06T08:05:08.150Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;ul&gt;
-&lt;li&gt;content&lt;br&gt;{:toc}&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;掌握 React Hooks api 将更好的帮助你在工作中使用，对 React 的掌握更上一层楼。本系列将使用大量实例代码和效果展示，非常易于初学者和复习使用。&lt;/p&gt;
-&lt;p&gt;在我们开始深入学习</summary>
+    <summary type="html">&lt;h3 id=&quot;issues-on-coqc-module-linking&quot;&gt;&lt;a href=&quot;#issues-on-coqc-module-linking&quot; class=&quot;headerlink&quot; title=&quot;issues on coqc module</summary>
         
       
     
     
     
-    <category term="JavaScript" scheme="https://0skyu.cn/categories/JavaScript/"/>
     
+    <category term="SF (软件基础)" scheme="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/"/>
     
-    <category term="React hooks" scheme="https://0skyu.cn/tags/React-hooks/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>React Hooks 系列之6 useMemo</title>
-    <link href="https://0skyu.cn/p/a342.html"/>
-    <id>https://0skyu.cn/p/a342.html</id>
-    <published>2021-04-06T07:51:30.424Z</published>
-    <updated>2021-04-06T07:51:30.424Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;ul&gt;
-&lt;li&gt;content&lt;br&gt;{:toc}&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;掌握 React Hooks api 将更好的帮助你在工作中使用，对 React 的掌握更上一层楼。本系列将使用大量实例代码和效果展示，非常易于初学者和复习使用。&lt;/p&gt;
-&lt;p&gt;上一章，我们学习了</summary>
-        
-      
-    
-    
-    
-    <category term="JavaScript" scheme="https://0skyu.cn/categories/JavaScript/"/>
-    
-    
-    <category term="React hooks" scheme="https://0skyu.cn/tags/React-hooks/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>React Hooks 系列之7 useRef</title>
-    <link href="https://0skyu.cn/p/4e5b.html"/>
-    <id>https://0skyu.cn/p/4e5b.html</id>
-    <published>2021-04-06T07:51:30.424Z</published>
-    <updated>2021-04-06T07:51:30.424Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;ul&gt;
-&lt;li&gt;content&lt;br&gt;{:toc}&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;掌握 React Hooks api 将更好的帮助你在工作中使用，对 React</summary>
-        
-      
-    
-    
-    
-    <category term="JavaScript" scheme="https://0skyu.cn/categories/JavaScript/"/>
-    
-    
-    <category term="React hooks" scheme="https://0skyu.cn/tags/React-hooks/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>React Hooks 系列之8 custom Hook</title>
-    <link href="https://0skyu.cn/p/f1c9.html"/>
-    <id>https://0skyu.cn/p/f1c9.html</id>
-    <published>2021-04-06T07:51:30.424Z</published>
-    <updated>2021-04-06T07:51:30.424Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;ul&gt;
-&lt;li&gt;content&lt;br&gt;{:toc}&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;掌握 React Hooks api 将更好的帮助你在工作中使用，对 React</summary>
-        
-      
-    
-    
-    
-    <category term="JavaScript" scheme="https://0skyu.cn/categories/JavaScript/"/>
-    
-    
-    <category term="React hooks" scheme="https://0skyu.cn/tags/React-hooks/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Data Representation - Integer</title>
-    <link href="https://0skyu.cn/p/b79.html"/>
-    <id>https://0skyu.cn/p/b79.html</id>
-    <published>2021-04-06T07:51:30.424Z</published>
-    <updated>2021-04-06T07:51:30.424Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Integers, or &lt;em&gt;whole number&lt;/em&gt; from elemental mathematics, are the most common and&lt;br&gt;fundamental numbers used in the computers.</summary>
-        
-      
-    
-    
-    
+    <category term="Coq" scheme="https://0skyu.cn/tags/Coq/"/>
     
     <category term="笔记" scheme="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/"/>
     
-    <category term="基础" scheme="https://0skyu.cn/tags/%E5%9F%BA%E7%A1%80/"/>
-    
-    <category term="C" scheme="https://0skyu.cn/tags/C/"/>
-    
-    <category term="C++" scheme="https://0skyu.cn/tags/C/"/>
+    <category term="PLF (编程语言基础)" scheme="https://0skyu.cn/tags/PLF-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
   <entry>
-    <title>Data Representation - Floating Point Numbers</title>
-    <link href="https://0skyu.cn/p/5157.html"/>
-    <id>https://0skyu.cn/p/5157.html</id>
-    <published>2021-04-06T07:51:30.424Z</published>
-    <updated>2021-04-06T07:51:30.424Z</updated>
+    <title>「SF-PLF」2 Hoare</title>
+    <link href="https://0skyu.cn/p/ff73.html"/>
+    <id>https://0skyu.cn/p/ff73.html</id>
+    <published>2021-04-06T08:05:08.150Z</published>
+    <updated>2021-04-06T08:05:08.150Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;In the last episode we talked about the data representation of integer, a kind&lt;br&gt;of fixed-point numbers. Today we’re going to learn</summary>
+    <summary type="html">&lt;p&gt;TBD&lt;/p&gt;
+</summary>
         
       
     
     
     
+    
+    <category term="SF (软件基础)" scheme="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="Coq" scheme="https://0skyu.cn/tags/Coq/"/>
     
     <category term="笔记" scheme="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/"/>
     
-    <category term="基础" scheme="https://0skyu.cn/tags/%E5%9F%BA%E7%A1%80/"/>
-    
-    <category term="C" scheme="https://0skyu.cn/tags/C/"/>
-    
-    <category term="C++" scheme="https://0skyu.cn/tags/C/"/>
+    <category term="PLF (编程语言基础)" scheme="https://0skyu.cn/tags/PLF-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
   <entry>
-    <title>Data Representation - TODO</title>
-    <link href="https://0skyu.cn/p/8038.html"/>
-    <id>https://0skyu.cn/p/8038.html</id>
-    <published>2021-04-06T07:51:30.424Z</published>
-    <updated>2021-04-06T07:51:30.424Z</updated>
+    <title>「SF-PLF」3 Hoare2</title>
+    <link href="https://0skyu.cn/p/fcfe.html"/>
+    <id>https://0skyu.cn/p/fcfe.html</id>
+    <published>2021-04-06T08:05:08.150Z</published>
+    <updated>2021-04-06T08:05:08.150Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;ul&gt;
-&lt;li&gt;Endianness&lt;/li&gt;
-&lt;li&gt;String (Char Sequence e.g. NULL &lt;code&gt;0x00&lt;/code&gt;)&lt;/li&gt;
-&lt;li&gt;Unicode / UTF8&lt;/li&gt;
-&lt;li&gt;Struct and</summary>
+    <summary type="html">&lt;p&gt;TBD&lt;/p&gt;
+</summary>
         
       
     
     
     
+    
+    <category term="SF (软件基础)" scheme="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="Coq" scheme="https://0skyu.cn/tags/Coq/"/>
     
     <category term="笔记" scheme="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/"/>
     
-    <category term="基础" scheme="https://0skyu.cn/tags/%E5%9F%BA%E7%A1%80/"/>
-    
-    <category term="C" scheme="https://0skyu.cn/tags/C/"/>
-    
-    <category term="C++" scheme="https://0skyu.cn/tags/C/"/>
+    <category term="PLF (编程语言基础)" scheme="https://0skyu.cn/tags/PLF-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
   <entry>
-    <title>林丹从国家队退役，带起一波回忆</title>
-    <link href="https://0skyu.cn/p/6f8.html"/>
-    <id>https://0skyu.cn/p/6f8.html</id>
-    <published>2021-04-06T07:51:30.424Z</published>
-    <updated>2021-04-06T07:51:30.424Z</updated>
+    <title>「SF-PLF」4 HoareAsLogic</title>
+    <link href="https://0skyu.cn/p/b5d9.html"/>
+    <id>https://0skyu.cn/p/b5d9.html</id>
+    <published>2021-04-06T08:05:08.150Z</published>
+    <updated>2021-04-06T08:05:08.150Z</updated>
     
     
-    <summary type="html">打羽毛球好几年了，中间也有好些故事，值得记录一下。</summary>
-    
-    
-    
-    <category term="Blog" scheme="https://0skyu.cn/categories/Blog/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>使用 jsDelivr 免费加速 GitHub Pages 博客的静态资源（二）</title>
-    <link href="https://0skyu.cn/p/4e5c.html"/>
-    <id>https://0skyu.cn/p/4e5c.html</id>
-    <published>2021-04-06T07:51:30.424Z</published>
-    <updated>2021-04-06T07:51:30.424Z</updated>
-    
-    
-    <summary type="html">使用 jsDelivr 加速 GitHub Pages 博客的图片资源、站内搜索引用的 JSON 资源。</summary>
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;TBD&lt;/p&gt;
+</summary>
+        
+      
     
     
     
-    <category term="GitHub" scheme="https://0skyu.cn/categories/GitHub/"/>
     
+    <category term="SF (软件基础)" scheme="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="Coq" scheme="https://0skyu.cn/tags/Coq/"/>
+    
+    <category term="笔记" scheme="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="PLF (编程语言基础)" scheme="https://0skyu.cn/tags/PLF-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
   <entry>
-    <title>给 Mac 添加右键菜单「使用 VSCode 打开」</title>
-    <link href="https://0skyu.cn/p/f6f7.html"/>
-    <id>https://0skyu.cn/p/f6f7.html</id>
-    <published>2021-04-06T07:51:30.424Z</published>
-    <updated>2021-04-06T07:51:30.424Z</updated>
+    <title>「SF-PLF」5 Smallstep</title>
+    <link href="https://0skyu.cn/p/7ca0.html"/>
+    <id>https://0skyu.cn/p/7ca0.html</id>
+    <published>2021-04-06T08:05:08.150Z</published>
+    <updated>2021-04-06T08:05:08.150Z</updated>
     
     
-    <summary type="html">如何在 Mac 下右键文件或文件夹，直接通过菜单项「用 VSCode 打开」。</summary>
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Recall-Big-step-Pros-amp-Cons&quot;&gt;&lt;a href=&quot;#Recall-Big-step-Pros-amp-Cons&quot; class=&quot;headerlink&quot; title=&quot;Recall Big-step Pros &amp;amp;</summary>
+        
+      
     
     
     
-    <category term="VSCode" scheme="https://0skyu.cn/categories/VSCode/"/>
     
+    <category term="SF (软件基础)" scheme="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="Coq" scheme="https://0skyu.cn/tags/Coq/"/>
+    
+    <category term="笔记" scheme="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="PLF (编程语言基础)" scheme="https://0skyu.cn/tags/PLF-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
@@ -394,15 +330,15 @@
     <title></title>
     <link href="https://0skyu.cn/p/0.html"/>
     <id>https://0skyu.cn/p/0.html</id>
-    <published>2021-04-06T07:51:30.424Z</published>
-    <updated>2021-04-06T07:51:30.424Z</updated>
+    <published>2021-04-06T08:05:08.150Z</published>
+    <updated>2021-04-06T08:05:08.150Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;《深入理解-Spring-Cloud-与实战》序&quot;&gt;&lt;a href=&quot;#《深入理解-Spring-Cloud-与实战》序&quot; class=&quot;headerlink&quot; title=&quot;《深入理解 Spring Cloud 与实战》序&quot;&gt;&lt;/a&gt;《深入理解 Spring</summary>
+    <summary type="html">&lt;h1 id=&quot;《Java编程方法论-响应式之Rxjava篇》序&quot;&gt;&lt;a href=&quot;#《Java编程方法论-响应式之Rxjava篇》序&quot; class=&quot;headerlink&quot; title=&quot;《Java编程方法论 响应式之Rxjava篇》序&quot;&gt;&lt;/a&gt;《Java编程方法论</summary>
         
       
     
@@ -412,66 +348,251 @@
   </entry>
   
   <entry>
-    <title>前端弹性动画与 framer-motion 动画库初探</title>
-    <link href="https://0skyu.cn/p/21c1.html"/>
-    <id>https://0skyu.cn/p/21c1.html</id>
-    <published>2021-04-06T07:51:30.424Z</published>
-    <updated>2021-04-06T07:51:30.424Z</updated>
+    <title>「SF-PLF」6 Types</title>
+    <link href="https://0skyu.cn/p/8e3d.html"/>
+    <id>https://0skyu.cn/p/8e3d.html</id>
+    <published>2021-04-06T08:05:08.150Z</published>
+    <updated>2021-04-06T08:05:08.150Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;ul&gt;
-&lt;li&gt;content&lt;br&gt;{:toc}&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;前端动画的开发一直是我所热衷探索与研究的内容，本文将描述什么是拟真的动画效果，目前所流行的 React 动画库，以及一些基于 framer-motion 动画库的 demos。&lt;/p&gt;
-
-##</summary>
+    <summary type="html">&lt;p&gt;This chapter:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;typing relation                                             — 定型关系&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;type preservation&lt;/code&gt;</summary>
         
       
     
     
     
-    <category term="JavaScript" scheme="https://0skyu.cn/categories/JavaScript/"/>
     
+    <category term="SF (软件基础)" scheme="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/"/>
     
-    <category term="动画" scheme="https://0skyu.cn/tags/%E5%8A%A8%E7%94%BB/"/>
+    <category term="Coq" scheme="https://0skyu.cn/tags/Coq/"/>
+    
+    <category term="笔记" scheme="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="PLF (编程语言基础)" scheme="https://0skyu.cn/tags/PLF-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
   <entry>
-    <title>代码审查：从 ArrayList 说线程安全</title>
-    <link href="https://0skyu.cn/p/3cc4.html"/>
-    <id>https://0skyu.cn/p/3cc4.html</id>
-    <published>2021-04-06T07:51:30.424Z</published>
-    <updated>2021-04-06T07:51:30.424Z</updated>
+    <title>「SF-PLF」7 Stlc</title>
+    <link href="https://0skyu.cn/p/5883.html"/>
+    <id>https://0skyu.cn/p/5883.html</id>
+    <published>2021-04-06T08:05:08.150Z</published>
+    <updated>2021-04-06T08:05:08.150Z</updated>
     
     
-    <summary type="html">从一个代码 Review 中发现的 ArrayList 线程不安全的真实案例，顺便深入理解一下线程安全。</summary>
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;this chapter:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;(change to new syntax…)&lt;/li&gt;
+&lt;li&gt;function abstraction&lt;/li&gt;
+&lt;li&gt;variable binding  — 变量绑定&lt;/li&gt;
+&lt;li&gt;substitution</summary>
+        
+      
     
     
     
-    <category term="Java" scheme="https://0skyu.cn/categories/Java/"/>
     
+    <category term="SF (软件基础)" scheme="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="Coq" scheme="https://0skyu.cn/tags/Coq/"/>
+    
+    <category term="笔记" scheme="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="PLF (编程语言基础)" scheme="https://0skyu.cn/tags/PLF-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
   <entry>
-    <title>解决 IntelliJ IDEA 启动报 Unsupported Java Version 的问题</title>
-    <link href="https://0skyu.cn/p/bcd9.html"/>
-    <id>https://0skyu.cn/p/bcd9.html</id>
-    <published>2021-04-06T07:51:30.424Z</published>
-    <updated>2021-04-06T07:51:30.424Z</updated>
+    <title>「SF-PLF」8 StlcProp</title>
+    <link href="https://0skyu.cn/p/6805.html"/>
+    <id>https://0skyu.cn/p/6805.html</id>
+    <published>2021-04-06T08:05:08.150Z</published>
+    <updated>2021-04-06T08:05:08.150Z</updated>
     
     
-    <summary type="html">解决 IntelliJ IDEA 启动报 Unsupported Java Version 的问题</summary>
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;基本的定理依赖关系 top-down: &lt;/p&gt;
+&lt;p&gt;Type Safety&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Progress&lt;ul&gt;
+&lt;li&gt;Canonical Forms (one for each type of</summary>
+        
+      
     
     
     
-    <category term="Java" scheme="https://0skyu.cn/categories/Java/"/>
     
+    <category term="SF (软件基础)" scheme="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="Coq" scheme="https://0skyu.cn/tags/Coq/"/>
+    
+    <category term="笔记" scheme="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="PLF (编程语言基础)" scheme="https://0skyu.cn/tags/PLF-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「SF-PLF」9 MoreStlc</title>
+    <link href="https://0skyu.cn/p/ea55.html"/>
+    <id>https://0skyu.cn/p/ea55.html</id>
+    <published>2021-04-06T08:05:08.150Z</published>
+    <updated>2021-04-06T08:05:08.150Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;make the STLC into a PL!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;Simple-Extensions-to-STLC&quot;&gt;&lt;a href=&quot;#Simple-Extensions-to-STLC&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="SF (软件基础)" scheme="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="Coq" scheme="https://0skyu.cn/tags/Coq/"/>
+    
+    <category term="笔记" scheme="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="PLF (编程语言基础)" scheme="https://0skyu.cn/tags/PLF-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「SF-PLF」10 Sub</title>
+    <link href="https://0skyu.cn/p/2222.html"/>
+    <id>https://0skyu.cn/p/2222.html</id>
+    <published>2021-04-06T08:05:08.150Z</published>
+    <updated>2021-04-06T08:05:08.150Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Concepts&quot;&gt;&lt;a href=&quot;#Concepts&quot; class=&quot;headerlink&quot; title=&quot;Concepts&quot;&gt;&lt;/a&gt;Concepts&lt;/h2&gt;&lt;h3 id=&quot;The-Subsumption-Rule&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="SF (软件基础)" scheme="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="Coq" scheme="https://0skyu.cn/tags/Coq/"/>
+    
+    <category term="笔记" scheme="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="PLF (编程语言基础)" scheme="https://0skyu.cn/tags/PLF-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「SF-PLF」11. TypeChecking</title>
+    <link href="https://0skyu.cn/p/710d.html"/>
+    <id>https://0skyu.cn/p/710d.html</id>
+    <published>2021-04-06T08:05:08.150Z</published>
+    <updated>2021-04-06T08:05:08.150Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;The &lt;code&gt;has_type&lt;/code&gt; relation is good but doesn’t give us a &lt;em&gt;executable algorithm&lt;/em&gt; — 不是一个算法&lt;br&gt;but it’s</summary>
+        
+      
+    
+    
+    
+    
+    <category term="SF (软件基础)" scheme="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="Coq" scheme="https://0skyu.cn/tags/Coq/"/>
+    
+    <category term="笔记" scheme="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="PLF (编程语言基础)" scheme="https://0skyu.cn/tags/PLF-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「SF-PLF」12 Records</title>
+    <link href="https://0skyu.cn/p/a84a.html"/>
+    <id>https://0skyu.cn/p/a84a.html</id>
+    <published>2021-04-06T08:05:08.150Z</published>
+    <updated>2021-04-06T08:05:08.150Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Adding-Records&quot;&gt;&lt;a href=&quot;#Adding-Records&quot; class=&quot;headerlink&quot; title=&quot;Adding Records&quot;&gt;&lt;/a&gt;Adding Records&lt;/h2&gt;&lt;figure class=&quot;highlight</summary>
+        
+      
+    
+    
+    
+    
+    <category term="SF (软件基础)" scheme="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="Coq" scheme="https://0skyu.cn/tags/Coq/"/>
+    
+    <category term="笔记" scheme="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="PLF (编程语言基础)" scheme="https://0skyu.cn/tags/PLF-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「SF-PLF」13 References</title>
+    <link href="https://0skyu.cn/p/ed68.html"/>
+    <id>https://0skyu.cn/p/ed68.html</id>
+    <published>2021-04-06T08:05:08.150Z</published>
+    <updated>2021-04-06T08:05:08.150Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;Hux: this chapter is very similar to TAPL - ch13 References&lt;br&gt;But under a “formal verification” concept, it’s more</summary>
+        
+      
+    
+    
+    
+    
+    <category term="SF (软件基础)" scheme="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="Coq" scheme="https://0skyu.cn/tags/Coq/"/>
+    
+    <category term="笔记" scheme="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="PLF (编程语言基础)" scheme="https://0skyu.cn/tags/PLF-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
