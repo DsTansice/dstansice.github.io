@@ -15,14 +15,318 @@
     <atom:link href="https://0skyu.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>一个技术控，爱技术，爱分享</description>
-    <pubDate>Tue, 06 Apr 2021 04:43:43 GMT</pubDate>
+    <pubDate>Tue, 06 Apr 2021 07:34:58 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>判断前台 Activity 是否属于本进程</title>
+      <link>https://0skyu.cn/p/f218.html</link>
+      <guid>https://0skyu.cn/p/f218.html</guid>
+      <pubDate>Tue, 06 Apr 2021 07:34:58 GMT</pubDate>
+      
+      <description>一种判断前台 Activity 是否属于本进程的方法。</description>
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/Android/">Android</category>
+      
+      
+      
+      <comments>https://0skyu.cn/p/f218.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>为绑定域名的 GitHub Pages 启用 HTTPS</title>
+      <link>https://0skyu.cn/p/a54d.html</link>
+      <guid>https://0skyu.cn/p/a54d.html</guid>
+      <pubDate>Tue, 06 Apr 2021 07:34:58 GMT</pubDate>
+      
+      <description>为绑定域名的 GitHub Pages 添加免费、自动续期的 SSL 证书，简单几步开启 HTTPS，添加小绿锁。</description>
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/GitHub/">GitHub</category>
+      
+      
+      
+      <comments>https://0skyu.cn/p/a54d.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>简化 kramdown 列表嵌套内容缩进的 Vim 插件</title>
+      <link>https://0skyu.cn/p/23dc.html</link>
+      <guid>https://0skyu.cn/p/23dc.html</guid>
+      <pubDate>Tue, 06 Apr 2021 07:34:58 GMT</pubDate>
+      
+      <description>kramdown 的列表嵌套内容缩进不是使用 Tab，而是有更「严格」更「奇葩」的规定，这个插件就是来拯救为此苦恼的 Vimer。</description>
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/Vim/">Vim</category>
+      
+      
+      
+      <comments>https://0skyu.cn/p/23dc.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Kloudsec 挂了，GitHub Pages 去 HTTPS 化</title>
+      <link>https://0skyu.cn/p/74e9.html</link>
+      <guid>https://0skyu.cn/p/74e9.html</guid>
+      <pubDate>Tue, 06 Apr 2021 07:34:58 GMT</pubDate>
+      
+      <description>收到 Kloudsec 将停止服务的消息，决定将 GitHub Pages 去 HTTPS 化。</description>
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/GitHub/">GitHub</category>
+      
+      
+      
+      <comments>https://0skyu.cn/p/74e9.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>在 Vim 里为 Markdown 文档展示导航窗格</title>
+      <link>https://0skyu.cn/p/6c29.html</link>
+      <guid>https://0skyu.cn/p/6c29.html</guid>
+      <pubDate>Tue, 06 Apr 2021 07:34:58 GMT</pubDate>
+      
+      <description>在一个很长的 Markdown 文档里要准确跳转到某标题并不容易，如果像 Word 那样有个导航窗格就好了。</description>
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/Vim/">Vim</category>
+      
+      
+      
+      <comments>https://0skyu.cn/p/6c29.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>C++ 程序员的 Java 指南</title>
+      <link>https://0skyu.cn/p/6af2.html</link>
+      <guid>https://0skyu.cn/p/6af2.html</guid>
+      <pubDate>Tue, 06 Apr 2021 07:34:58 GMT</pubDate>
+      
+      <description>一个 C++ 程序员自己总结的 Java 学习中应该注意的点。</description>
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/Java/">Java</category>
+      
+      
+      
+      <comments>https://0skyu.cn/p/6af2.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>一道在知乎很火的 Java 题——如何输出 ab</title>
+      <link>https://0skyu.cn/p/5595.html</link>
+      <guid>https://0skyu.cn/p/5595.html</guid>
+      <pubDate>Tue, 06 Apr 2021 07:34:58 GMT</pubDate>
+      
+      <description>一道在知乎讨论得很火热的 Java 题，网友们的脑洞能给出一些什么样的答案呢？</description>
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/Java/">Java</category>
+      
+      
+      
+      <comments>https://0skyu.cn/p/5595.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>vim-markdown-toc 发布 v1.0 版</title>
+      <link>https://0skyu.cn/p/c289.html</link>
+      <guid>https://0skyu.cn/p/c289.html</guid>
+      <pubDate>Tue, 06 Apr 2021 07:34:58 GMT</pubDate>
+      
+      <description>我写的第一款 Vim 插件的 Release 版本。</description>
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/Vim/">Vim</category>
+      
+      
+      
+      <comments>https://0skyu.cn/p/c289.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>搭建大型源码阅读环境——使用 OpenGrok</title>
+      <link>https://0skyu.cn/p/2a96.html</link>
+      <guid>https://0skyu.cn/p/2a96.html</guid>
+      <pubDate>Tue, 06 Apr 2021 07:34:58 GMT</pubDate>
+      
+      <description>RTFSC 是程序员打怪升级路上避不开的功课，那营造一个舒适的环境来提升上课的体验就很有必要了。</description>
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/Tools/">Tools</category>
+      
+      
+      
+      <comments>https://0skyu.cn/p/2a96.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>我的 2016 盘点</title>
+      <link>https://0skyu.cn/p/e792.html</link>
+      <guid>https://0skyu.cn/p/e792.html</guid>
+      <pubDate>Tue, 06 Apr 2021 07:34:58 GMT</pubDate>
+      
+      <description>总结是为了更好地上路。</description>
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/Blog/">Blog</category>
+      
+      
+      
+      <comments>https://0skyu.cn/p/e792.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>读书：追风筝的人</title>
+      <link>https://0skyu.cn/p/4b6b.html</link>
+      <guid>https://0skyu.cn/p/4b6b.html</guid>
+      <pubDate>Tue, 06 Apr 2021 07:34:58 GMT</pubDate>
+      
+      <description>希望自己有输入必有输出，这是开篇。</description>
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/Blog/">Blog</category>
+      
+      
+      
+      <comments>https://0skyu.cn/p/4b6b.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>我做了一个有点艰难的决定</title>
+      <link>https://0skyu.cn/p/1fed.html</link>
+      <guid>https://0skyu.cn/p/1fed.html</guid>
+      <pubDate>Tue, 06 Apr 2021 07:34:58 GMT</pubDate>
+      
+      <description>我北漂之旅的终点，人生的新起点。</description>
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/Blog/">Blog</category>
+      
+      
+      
+      <comments>https://0skyu.cn/p/1fed.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>从一个 NullPointerException 探究 Java 的自动装箱拆箱机制</title>
+      <link>https://0skyu.cn/p/c4c0.html</link>
+      <guid>https://0skyu.cn/p/c4c0.html</guid>
+      <pubDate>Tue, 06 Apr 2021 07:34:58 GMT</pubDate>
+      
+      <description>因为遇到一个 NullPointerException，弄清了 Java 的自动装箱拆箱的原理。</description>
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/Java/">Java</category>
+      
+      
+      
+      <comments>https://0skyu.cn/p/c4c0.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>关于 Markdown 的一些奇技淫巧</title>
+      <link>https://0skyu.cn/p/2286.html</link>
+      <guid>https://0skyu.cn/p/2286.html</guid>
+      <pubDate>Tue, 06 Apr 2021 07:34:58 GMT</pubDate>
+      
+      <description>介绍 Markdown 的一些高级用法。</description>
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/Markdown/">Markdown</category>
+      
+      
+      
+      <comments>https://0skyu.cn/p/2286.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>图解 SQL 里的各种 JOIN</title>
+      <link>https://0skyu.cn/p/b25d.html</link>
+      <guid>https://0skyu.cn/p/b25d.html</guid>
+      <pubDate>Tue, 06 Apr 2021 07:34:58 GMT</pubDate>
+      
+      <description>用文氏图和示例来理解 SQL 里的各种 JOIN。</description>
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/Database/">Database</category>
+      
+      
+      
+      <comments>https://0skyu.cn/p/b25d.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Android 源码分析开篇</title>
+      <link>https://0skyu.cn/p/721c.html</link>
+      <guid>https://0skyu.cn/p/721c.html</guid>
+      <pubDate>Tue, 06 Apr 2021 07:34:58 GMT</pubDate>
+      
+      <description>开始 Android 源码和一些优秀的第三方类库的分析</description>
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/Android/">Android</category>
+      
+      
+      
+      <comments>https://0skyu.cn/p/721c.html#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>阅读源码的意义与方法</title>
       <link>https://0skyu.cn/p/acea.html</link>
       <guid>https://0skyu.cn/p/acea.html</guid>
-      <pubDate>Tue, 06 Apr 2021 04:43:43 GMT</pubDate>
+      <pubDate>Tue, 06 Apr 2021 07:34:58 GMT</pubDate>
       
       <description>阅读源码不是唯一的学习方法，但是是很重要的学习方法。</description>
       
@@ -41,7 +345,7 @@
       <title>发布一款光谷社区第三方 Android App</title>
       <link>https://0skyu.cn/p/9afe.html</link>
       <guid>https://0skyu.cn/p/9afe.html</guid>
-      <pubDate>Tue, 06 Apr 2021 04:43:43 GMT</pubDate>
+      <pubDate>Tue, 06 Apr 2021 07:34:58 GMT</pubDate>
       
       <description>光谷社区第三方 Android App。</description>
       
@@ -60,7 +364,7 @@
       <title>程序员节的过节姿势大全</title>
       <link>https://0skyu.cn/p/9dab.html</link>
       <guid>https://0skyu.cn/p/9dab.html</guid>
-      <pubDate>Tue, 06 Apr 2021 04:43:43 GMT</pubDate>
+      <pubDate>Tue, 06 Apr 2021 07:34:58 GMT</pubDate>
       
       <description>今天是 1024，程序员节，这个并不特别的日子大家都是怎样度过呢？</description>
       
@@ -79,7 +383,7 @@
       <title>解决两个 Android 模拟器之间无法网络通信的问题</title>
       <link>https://0skyu.cn/p/7224.html</link>
       <guid>https://0skyu.cn/p/7224.html</guid>
-      <pubDate>Tue, 06 Apr 2021 04:43:43 GMT</pubDate>
+      <pubDate>Tue, 06 Apr 2021 07:34:58 GMT</pubDate>
       
       <description>如何配置，让同一台 PC 上的两个 Android 模拟器之间能够使用 TCP 通信？</description>
       
@@ -91,310 +395,6 @@
       
       
       <comments>https://0skyu.cn/p/7224.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>光谷社区第三方 Android 客户端 v2.0 发布</title>
-      <link>https://0skyu.cn/p/fe83.html</link>
-      <guid>https://0skyu.cn/p/fe83.html</guid>
-      <pubDate>Tue, 06 Apr 2021 04:43:43 GMT</pubDate>
-      
-      <description>光谷社区第三方 Android 客户端重大升级，全新界面与交互体验。</description>
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/categories/Android/">Android</category>
-      
-      
-      
-      <comments>https://0skyu.cn/p/fe83.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>一份简明的 Markdown 笔记与教程</title>
-      <link>https://0skyu.cn/p/1efc.html</link>
-      <guid>https://0skyu.cn/p/1efc.html</guid>
-      <pubDate>Tue, 06 Apr 2021 04:43:43 GMT</pubDate>
-      
-      <description>一份简明的 Markdown 笔记与教程</description>
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/categories/Markdown/">Markdown</category>
-      
-      
-      
-      <comments>https://0skyu.cn/p/1efc.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>我的 2018 盘点</title>
-      <link>https://0skyu.cn/p/6b13.html</link>
-      <guid>https://0skyu.cn/p/6b13.html</guid>
-      <pubDate>Tue, 06 Apr 2021 04:43:43 GMT</pubDate>
-      
-      <description>我的 2018 年全年盘点</description>
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/categories/Blog/">Blog</category>
-      
-      
-      
-      <comments>https://0skyu.cn/p/6b13.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>记一个折磨了我一天半的 Bug</title>
-      <link>https://0skyu.cn/p/59d0.html</link>
-      <guid>https://0skyu.cn/p/59d0.html</guid>
-      <pubDate>Tue, 06 Apr 2021 04:43:43 GMT</pubDate>
-      
-      <description>一杯茶，一根烟，一个 Bug 一天根本改不完。</description>
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/categories/Java/">Java</category>
-      
-      
-      
-      <comments>https://0skyu.cn/p/59d0.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>让 Tapd 的源码关联功能支持 Gitee 平台</title>
-      <link>https://0skyu.cn/p/bf04.html</link>
-      <guid>https://0skyu.cn/p/bf04.html</guid>
-      <pubDate>Tue, 06 Apr 2021 04:43:43 GMT</pubDate>
-      
-      <description>让 Tapd 的源码关联功能支持 Gitee 平台</description>
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/categories/Tools/">Tools</category>
-      
-      
-      
-      <comments>https://0skyu.cn/p/bf04.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>GitHub 用户专属福利，实际到账 3K+，Namebase Airdrop</title>
-      <link>https://0skyu.cn/p/184d.html</link>
-      <guid>https://0skyu.cn/p/184d.html</guid>
-      <pubDate>Tue, 06 Apr 2021 04:43:43 GMT</pubDate>
-      
-      <description>使用 GitHub 一年以上的用户可以关注一下。</description>
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/categories/GitHub/">GitHub</category>
-      
-      
-      
-      <comments>https://0skyu.cn/p/184d.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>记一个 Base64 有关的 Bug</title>
-      <link>https://0skyu.cn/p/c609.html</link>
-      <guid>https://0skyu.cn/p/c609.html</guid>
-      <pubDate>Tue, 06 Apr 2021 04:43:43 GMT</pubDate>
-      
-      <description>编码与解码使用 Base64 的不同实现有可能导致问题。</description>
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/categories/Java/">Java</category>
-      
-      
-      
-      <comments>https://0skyu.cn/p/c609.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>一份简明的 Base64 原理解析</title>
-      <link>https://0skyu.cn/p/c735.html</link>
-      <guid>https://0skyu.cn/p/c735.html</guid>
-      <pubDate>Tue, 06 Apr 2021 04:43:43 GMT</pubDate>
-      
-      <description>Base64 的原理其实很简单</description>
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/categories/Java/">Java</category>
-      
-      
-      
-      <comments>https://0skyu.cn/p/c735.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>使用 jsDelivr 免费加速 GitHub Pages 博客的静态资源</title>
-      <link>https://0skyu.cn/p/7eb0.html</link>
-      <guid>https://0skyu.cn/p/7eb0.html</guid>
-      <pubDate>Tue, 06 Apr 2021 04:43:43 GMT</pubDate>
-      
-      <description>使用 jsdelivr CDN 加速 GitHub Pages 博客的静态资源。</description>
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/categories/GitHub/">GitHub</category>
-      
-      
-      
-      <comments>https://0skyu.cn/p/7eb0.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>本博客模板常见问题 Q &amp; A</title>
-      <link>https://0skyu.cn/p/9d07.html</link>
-      <guid>https://0skyu.cn/p/9d07.html</guid>
-      <pubDate>Tue, 06 Apr 2021 04:43:43 GMT</pubDate>
-      
-      <description>使用这个博客模板的朋友们时不时会提出一些问题，我将它们的解决方案逐渐整理归纳，汇总到这一篇帖子里。</description>
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/categories/GitHub/">GitHub</category>
-      
-      
-      
-      <comments>https://0skyu.cn/p/9d07.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>用 Vim 编辑 Markdown 时直接粘贴图片</title>
-      <link>https://0skyu.cn/p/f79d.html</link>
-      <guid>https://0skyu.cn/p/f79d.html</guid>
-      <pubDate>Tue, 06 Apr 2021 04:43:43 GMT</pubDate>
-      
-      <description>在使用 Vim 编辑 Markdown 时，粘贴图片很不方便，用插件 md-img-paste.vim 解决这个痛点。</description>
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/categories/Vim/">Vim</category>
-      
-      
-      
-      <comments>https://0skyu.cn/p/f79d.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>更聪明地学习，而不是苦读——《如何高效学习》</title>
-      <link>https://0skyu.cn/p/fecc.html</link>
-      <guid>https://0skyu.cn/p/fecc.html</guid>
-      <pubDate>Tue, 06 Apr 2021 04:43:43 GMT</pubDate>
-      
-      <description>《如何高效学习》的吐槽与读书笔记。</description>
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/categories/Blog/">Blog</category>
-      
-      
-      
-      <comments>https://0skyu.cn/p/fecc.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>林丹从国家队退役，带起一波回忆</title>
-      <link>https://0skyu.cn/p/6f8.html</link>
-      <guid>https://0skyu.cn/p/6f8.html</guid>
-      <pubDate>Tue, 06 Apr 2021 04:43:43 GMT</pubDate>
-      
-      <description>打羽毛球好几年了，中间也有好些故事，值得记录一下。</description>
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/categories/Blog/">Blog</category>
-      
-      
-      
-      <comments>https://0skyu.cn/p/6f8.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>使用 jsDelivr 免费加速 GitHub Pages 博客的静态资源（二）</title>
-      <link>https://0skyu.cn/p/4e5c.html</link>
-      <guid>https://0skyu.cn/p/4e5c.html</guid>
-      <pubDate>Tue, 06 Apr 2021 04:43:43 GMT</pubDate>
-      
-      <description>使用 jsDelivr 加速 GitHub Pages 博客的图片资源、站内搜索引用的 JSON 资源。</description>
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/categories/GitHub/">GitHub</category>
-      
-      
-      
-      <comments>https://0skyu.cn/p/4e5c.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>给 Mac 添加右键菜单「使用 VSCode 打开」</title>
-      <link>https://0skyu.cn/p/f6f7.html</link>
-      <guid>https://0skyu.cn/p/f6f7.html</guid>
-      <pubDate>Tue, 06 Apr 2021 04:43:43 GMT</pubDate>
-      
-      <description>如何在 Mac 下右键文件或文件夹，直接通过菜单项「用 VSCode 打开」。</description>
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/categories/VSCode/">VSCode</category>
-      
-      
-      
-      <comments>https://0skyu.cn/p/f6f7.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>代码审查：从 ArrayList 说线程安全</title>
-      <link>https://0skyu.cn/p/3cc4.html</link>
-      <guid>https://0skyu.cn/p/3cc4.html</guid>
-      <pubDate>Tue, 06 Apr 2021 04:43:43 GMT</pubDate>
-      
-      <description>从一个代码 Review 中发现的 ArrayList 线程不安全的真实案例，顺便深入理解一下线程安全。</description>
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/categories/Java/">Java</category>
-      
-      
-      
-      <comments>https://0skyu.cn/p/3cc4.html#disqus_thread</comments>
       
     </item>
     
