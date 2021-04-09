@@ -15,309 +15,36 @@
     <atom:link href="https://0skyu.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>一个技术控，爱技术，爱分享</description>
-    <pubDate>Tue, 06 Apr 2021 08:31:52 GMT</pubDate>
+    <pubDate>Fri, 09 Apr 2021 06:25:54 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
-      <title>我喜欢的一个4张动漫壁纸啊</title>
-      <link>https://0skyu.cn/p/53d0.html</link>
-      <guid>https://0skyu.cn/p/53d0.html</guid>
-      <pubDate>Tue, 06 Apr 2021 16:00:00 GMT</pubDate>
+      <title>队列在前端弹窗中的应用</title>
+      <link>https://0skyu.cn/p/5411.html</link>
+      <guid>https://0skyu.cn/p/5411.html</guid>
+      <pubDate>Fri, 09 Apr 2021 06:25:54 GMT</pubDate>
       
         
         
           
           
-      <description>&lt;p&gt;&lt;img src= &quot;/img/loading.gif&quot; data-lazy-src=&quot;https://cdn.jsdelivr.net/gh/dstansice/img@main/1617628583000.png&quot; alt&gt;&lt;br&gt;&lt;img src=</description>
-          
-        
-      
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/tags/%E5%8A%A8%E6%BC%AB%E5%A3%81%E7%BA%B8/">动漫壁纸</category>
-      
-      
-      <comments>https://0skyu.cn/p/53d0.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>我喜欢的一个4张图片啊</title>
-      <link>https://0skyu.cn/p/19fe.html</link>
-      <guid>https://0skyu.cn/p/19fe.html</guid>
-      <pubDate>Tue, 06 Apr 2021 16:00:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;&lt;img src= &quot;/img/loading.gif&quot; data-lazy-src=&quot;https://cdn.jsdelivr.net/gh/dstansice/img@main/1617628447000.jpeg&quot; alt&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=</description>
+      <description>&lt;ul&gt;
+&lt;li&gt;content&lt;br&gt;{:toc}&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src= &quot;/img/loading.gif&quot;</description>
           
         
       
       
       
       
+      <category domain="https://0skyu.cn/categories/JavaScript/">JavaScript</category>
       
-      <category domain="https://0skyu.cn/tags/%E6%88%91%E5%96%9C%E6%AC%A2/">我喜欢</category>
       
+      <category domain="https://0skyu.cn/tags/dialog-queue/">dialog queue</category>
       
-      <comments>https://0skyu.cn/p/19fe.html#disqus_thread</comments>
       
-    </item>
-    
-    <item>
-      <title>英雄兰-保卫者形态来了</title>
-      <link>https://0skyu.cn/p/aad3.html</link>
-      <guid>https://0skyu.cn/p/aad3.html</guid>
-      <pubDate>Tue, 06 Apr 2021 16:00:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;!&lt;br&gt;&lt;img src= &quot;/img/loading.gif&quot; data-lazy-src=&quot;https://cdn.jsdelivr.net/gh/dstansice/img@main/1617628345000.png&quot;</description>
-          
-        
-      
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/tags/%E5%85%B0/">兰</category>
-      
-      
-      <comments>https://0skyu.cn/p/aad3.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>英雄兰-灵魂舞者形态啊</title>
-      <link>https://0skyu.cn/p/577b.html</link>
-      <guid>https://0skyu.cn/p/577b.html</guid>
-      <pubDate>Tue, 06 Apr 2021 16:00:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;&lt;img src= &quot;/img/loading.gif&quot; data-lazy-src=&quot;https://cdn.jsdelivr.net/gh/dstansice/img@main/1617628393000.png&quot;</description>
-          
-        
-      
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/tags/%E5%85%B0/">兰</category>
-      
-      
-      <comments>https://0skyu.cn/p/577b.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>香香-保卫者形态来啦！</title>
-      <link>https://0skyu.cn/p/6962.html</link>
-      <guid>https://0skyu.cn/p/6962.html</guid>
-      <pubDate>Tue, 06 Apr 2021 16:00:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;&lt;img src= &quot;/img/loading.gif&quot; data-lazy-src=&quot;https://cdn.jsdelivr.net/gh/dstansice/img@main/1617628286000.png&quot;</description>
-          
-        
-      
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/tags/%E9%A6%99%E9%A6%99/">香香</category>
-      
-      
-      <comments>https://0skyu.cn/p/6962.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>香香-潜伏者形态来了</title>
-      <link>https://0skyu.cn/p/1719.html</link>
-      <guid>https://0skyu.cn/p/1719.html</guid>
-      <pubDate>Tue, 06 Apr 2021 16:00:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;&lt;img src= &quot;/img/loading.gif&quot; data-lazy-src=&quot;https://cdn.jsdelivr.net/gh/dstansice/img@main/1617628241000.png&quot;</description>
-          
-        
-      
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/tags/%E9%A6%99%E9%A6%99/">香香</category>
-      
-      
-      <comments>https://0skyu.cn/p/1719.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>香香-生化形态来了</title>
-      <link>https://0skyu.cn/p/8fee.html</link>
-      <guid>https://0skyu.cn/p/8fee.html</guid>
-      <pubDate>Tue, 06 Apr 2021 16:00:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;&lt;img src= &quot;/img/loading.gif&quot; data-lazy-src=&quot;https://cdn.jsdelivr.net/gh/dstansice/img@main/1617628190000.png&quot;</description>
-          
-        
-      
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/tags/%E9%A6%99%E9%A6%99/">香香</category>
-      
-      
-      <comments>https://0skyu.cn/p/8fee.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>「SF-PLF」2 Hoare</title>
-      <link>https://0skyu.cn/p/ff73.html</link>
-      <guid>https://0skyu.cn/p/ff73.html</guid>
-      <pubDate>Tue, 06 Apr 2021 08:31:52 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;TBD&lt;/p&gt;
-</description>
-          
-        
-      
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/">SF (软件基础)</category>
-      
-      <category domain="https://0skyu.cn/tags/Coq/">Coq</category>
-      
-      <category domain="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/">笔记</category>
-      
-      <category domain="https://0skyu.cn/tags/PLF-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/">PLF (编程语言基础)</category>
-      
-      
-      <comments>https://0skyu.cn/p/ff73.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>「SF-PLF」3 Hoare2</title>
-      <link>https://0skyu.cn/p/fcfe.html</link>
-      <guid>https://0skyu.cn/p/fcfe.html</guid>
-      <pubDate>Tue, 06 Apr 2021 08:31:52 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;TBD&lt;/p&gt;
-</description>
-          
-        
-      
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/">SF (软件基础)</category>
-      
-      <category domain="https://0skyu.cn/tags/Coq/">Coq</category>
-      
-      <category domain="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/">笔记</category>
-      
-      <category domain="https://0skyu.cn/tags/PLF-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/">PLF (编程语言基础)</category>
-      
-      
-      <comments>https://0skyu.cn/p/fcfe.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>「SF-PLF」4 HoareAsLogic</title>
-      <link>https://0skyu.cn/p/b5d9.html</link>
-      <guid>https://0skyu.cn/p/b5d9.html</guid>
-      <pubDate>Tue, 06 Apr 2021 08:31:52 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;TBD&lt;/p&gt;
-</description>
-          
-        
-      
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/">SF (软件基础)</category>
-      
-      <category domain="https://0skyu.cn/tags/Coq/">Coq</category>
-      
-      <category domain="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/">笔记</category>
-      
-      <category domain="https://0skyu.cn/tags/PLF-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/">PLF (编程语言基础)</category>
-      
-      
-      <comments>https://0skyu.cn/p/b5d9.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>「SF-PLF」5 Smallstep</title>
-      <link>https://0skyu.cn/p/7ca0.html</link>
-      <guid>https://0skyu.cn/p/7ca0.html</guid>
-      <pubDate>Tue, 06 Apr 2021 08:31:52 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;h2 id=&quot;Recall-Big-step-Pros-amp-Cons&quot;&gt;&lt;a href=&quot;#Recall-Big-step-Pros-amp-Cons&quot; class=&quot;headerlink&quot; title=&quot;Recall Big-step Pros &amp;amp;</description>
-          
-        
-      
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/">SF (软件基础)</category>
-      
-      <category domain="https://0skyu.cn/tags/Coq/">Coq</category>
-      
-      <category domain="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/">笔记</category>
-      
-      <category domain="https://0skyu.cn/tags/PLF-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/">PLF (编程语言基础)</category>
-      
-      
-      <comments>https://0skyu.cn/p/7ca0.html#disqus_thread</comments>
+      <comments>https://0skyu.cn/p/5411.html#disqus_thread</comments>
       
     </item>
     
@@ -325,13 +52,13 @@
       <title></title>
       <link>https://0skyu.cn/p/0.html</link>
       <guid>https://0skyu.cn/p/0.html</guid>
-      <pubDate>Tue, 06 Apr 2021 08:31:52 GMT</pubDate>
+      <pubDate>Fri, 09 Apr 2021 06:25:54 GMT</pubDate>
       
         
         
           
           
-      <description>&lt;h1 id=&quot;《Java编程方法论-响应式之Rxjava篇》序&quot;&gt;&lt;a href=&quot;#《Java编程方法论-响应式之Rxjava篇》序&quot; class=&quot;headerlink&quot; title=&quot;《Java编程方法论 响应式之Rxjava篇》序&quot;&gt;&lt;/a&gt;《Java编程方法论</description>
+      <description>&lt;h3 id=&quot;趋势报告框架&quot;&gt;&lt;a href=&quot;#趋势报告框架&quot; class=&quot;headerlink&quot; title=&quot;趋势报告框架&quot;&gt;&lt;/a&gt;趋势报告框架&lt;/h3&gt;&lt;h4 id=&quot;第一部分：Java的技术采用生命周期&quot;&gt;&lt;a</description>
           
         
       
@@ -345,124 +72,19 @@
     </item>
     
     <item>
-      <title>「SF-PLF」6 Types</title>
-      <link>https://0skyu.cn/p/8e3d.html</link>
-      <guid>https://0skyu.cn/p/8e3d.html</guid>
-      <pubDate>Tue, 06 Apr 2021 08:31:52 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;This chapter:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;typing relation                                             — 定型关系&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;type preservation&lt;/code&gt;</description>
-          
-        
-      
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/">SF (软件基础)</category>
-      
-      <category domain="https://0skyu.cn/tags/Coq/">Coq</category>
-      
-      <category domain="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/">笔记</category>
-      
-      <category domain="https://0skyu.cn/tags/PLF-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/">PLF (编程语言基础)</category>
-      
-      
-      <comments>https://0skyu.cn/p/8e3d.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>「SF-PLF」7 Stlc</title>
-      <link>https://0skyu.cn/p/5883.html</link>
-      <guid>https://0skyu.cn/p/5883.html</guid>
-      <pubDate>Tue, 06 Apr 2021 08:31:52 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;this chapter:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;(change to new syntax…)&lt;/li&gt;
-&lt;li&gt;function abstraction&lt;/li&gt;
-&lt;li&gt;variable binding  — 变量绑定&lt;/li&gt;
-&lt;li&gt;substitution</description>
-          
-        
-      
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/">SF (软件基础)</category>
-      
-      <category domain="https://0skyu.cn/tags/Coq/">Coq</category>
-      
-      <category domain="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/">笔记</category>
-      
-      <category domain="https://0skyu.cn/tags/PLF-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/">PLF (编程语言基础)</category>
-      
-      
-      <comments>https://0skyu.cn/p/5883.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>「SF-PLF」8 StlcProp</title>
-      <link>https://0skyu.cn/p/6805.html</link>
-      <guid>https://0skyu.cn/p/6805.html</guid>
-      <pubDate>Tue, 06 Apr 2021 08:31:52 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;基本的定理依赖关系 top-down: &lt;/p&gt;
-&lt;p&gt;Type Safety&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Progress&lt;ul&gt;
-&lt;li&gt;Canonical Forms (one for each type of</description>
-          
-        
-      
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/">SF (软件基础)</category>
-      
-      <category domain="https://0skyu.cn/tags/Coq/">Coq</category>
-      
-      <category domain="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/">笔记</category>
-      
-      <category domain="https://0skyu.cn/tags/PLF-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/">PLF (编程语言基础)</category>
-      
-      
-      <comments>https://0skyu.cn/p/6805.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>「SF-PLF」9 MoreStlc</title>
-      <link>https://0skyu.cn/p/ea55.html</link>
-      <guid>https://0skyu.cn/p/ea55.html</guid>
-      <pubDate>Tue, 06 Apr 2021 08:31:52 GMT</pubDate>
+      <title>Peter John Landin</title>
+      <link>https://0skyu.cn/p/9990.html</link>
+      <guid>https://0skyu.cn/p/9990.html</guid>
+      <pubDate>Fri, 09 Apr 2021 06:25:54 GMT</pubDate>
       
         
         
           
           
       <description>&lt;blockquote&gt;
-&lt;p&gt;make the STLC into a PL!&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&quot;Simple-Extensions-to-STLC&quot;&gt;&lt;a href=&quot;#Simple-Extensions-to-STLC&quot;</description>
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Peter_Landin&quot;&gt;wiki&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a</description>
           
         
       
@@ -470,125 +92,189 @@
       
       
       
-      <category domain="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/">SF (软件基础)</category>
-      
-      <category domain="https://0skyu.cn/tags/Coq/">Coq</category>
-      
-      <category domain="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/">笔记</category>
-      
-      <category domain="https://0skyu.cn/tags/PLF-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/">PLF (编程语言基础)</category>
+      <category domain="https://0skyu.cn/tags/CS-Idols/">CS Idols</category>
       
       
-      <comments>https://0skyu.cn/p/ea55.html#disqus_thread</comments>
+      <comments>https://0skyu.cn/p/9990.html#disqus_thread</comments>
       
     </item>
     
     <item>
-      <title>「SF-PLF」10 Sub</title>
-      <link>https://0skyu.cn/p/2222.html</link>
-      <guid>https://0skyu.cn/p/2222.html</guid>
-      <pubDate>Tue, 06 Apr 2021 08:31:52 GMT</pubDate>
+      <title>让 Tapd 的源码关联功能支持 Gitee 平台</title>
+      <link>https://0skyu.cn/p/bf04.html</link>
+      <guid>https://0skyu.cn/p/bf04.html</guid>
+      <pubDate>Fri, 09 Apr 2021 06:25:54 GMT</pubDate>
       
-        
-        
-          
-          
-      <description>&lt;h2 id=&quot;Concepts&quot;&gt;&lt;a href=&quot;#Concepts&quot; class=&quot;headerlink&quot; title=&quot;Concepts&quot;&gt;&lt;/a&gt;Concepts&lt;/h2&gt;&lt;h3 id=&quot;The-Subsumption-Rule&quot;&gt;&lt;a</description>
-          
-        
+      <description>让 Tapd 的源码关联功能支持 Gitee 平台</description>
       
       
       
       
-      
-      <category domain="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/">SF (软件基础)</category>
-      
-      <category domain="https://0skyu.cn/tags/Coq/">Coq</category>
-      
-      <category domain="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/">笔记</category>
-      
-      <category domain="https://0skyu.cn/tags/PLF-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/">PLF (编程语言基础)</category>
+      <category domain="https://0skyu.cn/categories/Tools/">Tools</category>
       
       
-      <comments>https://0skyu.cn/p/2222.html#disqus_thread</comments>
+      
+      <comments>https://0skyu.cn/p/bf04.html#disqus_thread</comments>
       
     </item>
     
     <item>
-      <title>「SF-PLF」11. TypeChecking</title>
-      <link>https://0skyu.cn/p/710d.html</link>
-      <guid>https://0skyu.cn/p/710d.html</guid>
-      <pubDate>Tue, 06 Apr 2021 08:31:52 GMT</pubDate>
+      <title>GitHub 用户专属福利，实际到账 3K+，Namebase Airdrop</title>
+      <link>https://0skyu.cn/p/184d.html</link>
+      <guid>https://0skyu.cn/p/184d.html</guid>
+      <pubDate>Fri, 09 Apr 2021 06:25:54 GMT</pubDate>
       
-        
-        
-          
-          
-      <description>&lt;blockquote&gt;
-&lt;p&gt;The &lt;code&gt;has_type&lt;/code&gt; relation is good but doesn’t give us a &lt;em&gt;executable algorithm&lt;/em&gt; — 不是一个算法&lt;br&gt;but it’s</description>
-          
-        
+      <description>使用 GitHub 一年以上的用户可以关注一下。</description>
       
       
       
       
-      
-      <category domain="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/">SF (软件基础)</category>
-      
-      <category domain="https://0skyu.cn/tags/Coq/">Coq</category>
-      
-      <category domain="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/">笔记</category>
-      
-      <category domain="https://0skyu.cn/tags/PLF-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/">PLF (编程语言基础)</category>
+      <category domain="https://0skyu.cn/categories/GitHub/">GitHub</category>
       
       
-      <comments>https://0skyu.cn/p/710d.html#disqus_thread</comments>
+      
+      <comments>https://0skyu.cn/p/184d.html#disqus_thread</comments>
       
     </item>
     
     <item>
-      <title>「SF-PLF」12 Records</title>
-      <link>https://0skyu.cn/p/a84a.html</link>
-      <guid>https://0skyu.cn/p/a84a.html</guid>
-      <pubDate>Tue, 06 Apr 2021 08:31:52 GMT</pubDate>
+      <title>记一个 Base64 有关的 Bug</title>
+      <link>https://0skyu.cn/p/c609.html</link>
+      <guid>https://0skyu.cn/p/c609.html</guid>
+      <pubDate>Fri, 09 Apr 2021 06:25:54 GMT</pubDate>
       
-        
-        
-          
-          
-      <description>&lt;h2 id=&quot;Adding-Records&quot;&gt;&lt;a href=&quot;#Adding-Records&quot; class=&quot;headerlink&quot; title=&quot;Adding Records&quot;&gt;&lt;/a&gt;Adding Records&lt;/h2&gt;&lt;figure class=&quot;highlight</description>
-          
-        
+      <description>编码与解码使用 Base64 的不同实现有可能导致问题。</description>
       
       
       
       
-      
-      <category domain="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/">SF (软件基础)</category>
-      
-      <category domain="https://0skyu.cn/tags/Coq/">Coq</category>
-      
-      <category domain="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/">笔记</category>
-      
-      <category domain="https://0skyu.cn/tags/PLF-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/">PLF (编程语言基础)</category>
+      <category domain="https://0skyu.cn/categories/Java/">Java</category>
       
       
-      <comments>https://0skyu.cn/p/a84a.html#disqus_thread</comments>
+      
+      <comments>https://0skyu.cn/p/c609.html#disqus_thread</comments>
       
     </item>
     
     <item>
-      <title>「SF-PLF」13 References</title>
-      <link>https://0skyu.cn/p/ed68.html</link>
-      <guid>https://0skyu.cn/p/ed68.html</guid>
-      <pubDate>Tue, 06 Apr 2021 08:31:52 GMT</pubDate>
+      <title>React Hooks 系列之1 useState</title>
+      <link>https://0skyu.cn/p/d35.html</link>
+      <guid>https://0skyu.cn/p/d35.html</guid>
+      <pubDate>Fri, 09 Apr 2021 06:25:54 GMT</pubDate>
       
         
         
           
           
-      <description>&lt;blockquote&gt;
-&lt;p&gt;Hux: this chapter is very similar to TAPL - ch13 References&lt;br&gt;But under a “formal verification” concept, it’s more</description>
+      <description>&lt;ul&gt;
+&lt;li&gt;content&lt;br&gt;{:toc}&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;本系列将讲述 React Hooks 的使用方法，从 useState 开始，将包含如下内容：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/JavaScript/">JavaScript</category>
+      
+      
+      <category domain="https://0skyu.cn/tags/React-hooks/">React hooks</category>
+      
+      
+      <comments>https://0skyu.cn/p/d35.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>一份简明的 Base64 原理解析</title>
+      <link>https://0skyu.cn/p/c735.html</link>
+      <guid>https://0skyu.cn/p/c735.html</guid>
+      <pubDate>Fri, 09 Apr 2021 06:25:54 GMT</pubDate>
+      
+      <description>Base64 的原理其实很简单</description>
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/Java/">Java</category>
+      
+      
+      
+      <comments>https://0skyu.cn/p/c735.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>使用 jsDelivr 免费加速 GitHub Pages 博客的静态资源</title>
+      <link>https://0skyu.cn/p/7eb0.html</link>
+      <guid>https://0skyu.cn/p/7eb0.html</guid>
+      <pubDate>Fri, 09 Apr 2021 06:25:54 GMT</pubDate>
+      
+      <description>使用 jsdelivr CDN 加速 GitHub Pages 博客的静态资源。</description>
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/GitHub/">GitHub</category>
+      
+      
+      
+      <comments>https://0skyu.cn/p/7eb0.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>本博客模板常见问题 Q &amp; A</title>
+      <link>https://0skyu.cn/p/9d07.html</link>
+      <guid>https://0skyu.cn/p/9d07.html</guid>
+      <pubDate>Fri, 09 Apr 2021 06:25:54 GMT</pubDate>
+      
+      <description>使用这个博客模板的朋友们时不时会提出一些问题，我将它们的解决方案逐渐整理归纳，汇总到这一篇帖子里。</description>
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/GitHub/">GitHub</category>
+      
+      
+      
+      <comments>https://0skyu.cn/p/9d07.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>用 Vim 编辑 Markdown 时直接粘贴图片</title>
+      <link>https://0skyu.cn/p/f79d.html</link>
+      <guid>https://0skyu.cn/p/f79d.html</guid>
+      <pubDate>Fri, 09 Apr 2021 06:25:54 GMT</pubDate>
+      
+      <description>在使用 Vim 编辑 Markdown 时，粘贴图片很不方便，用插件 md-img-paste.vim 解决这个痛点。</description>
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/Vim/">Vim</category>
+      
+      
+      
+      <comments>https://0skyu.cn/p/f79d.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>My Programming Languages Spectrum</title>
+      <link>https://0skyu.cn/p/4702.html</link>
+      <guid>https://0skyu.cn/p/4702.html</guid>
+      <pubDate>Fri, 09 Apr 2021 06:25:54 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;iframe id=&quot;chart&quot; src=&quot;https://huangxuan.me/PL-chart/&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;width:</description>
           
         
       
@@ -596,16 +282,242 @@
       
       
       
-      <category domain="https://0skyu.cn/tags/SF-%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80/">SF (软件基础)</category>
       
-      <category domain="https://0skyu.cn/tags/Coq/">Coq</category>
+      <comments>https://0skyu.cn/p/4702.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>React Hooks 系列之3 useContext</title>
+      <link>https://0skyu.cn/p/5e4b.html</link>
+      <guid>https://0skyu.cn/p/5e4b.html</guid>
+      <pubDate>Fri, 09 Apr 2021 06:25:54 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;ul&gt;
+&lt;li&gt;content&lt;br&gt;{:toc}&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;掌握 React Hooks api 将更好的帮助你在工作中使用，对 React 的掌握更上一层楼。本系列将使用大量实例代码和效果展示，非常易于初学者和复习使用。&lt;/p&gt;
+&lt;p&gt;今天我们讲讲</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/JavaScript/">JavaScript</category>
+      
+      
+      <category domain="https://0skyu.cn/tags/React-hooks/">React hooks</category>
+      
+      
+      <comments>https://0skyu.cn/p/5e4b.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>更聪明地学习，而不是苦读——《如何高效学习》</title>
+      <link>https://0skyu.cn/p/fecc.html</link>
+      <guid>https://0skyu.cn/p/fecc.html</guid>
+      <pubDate>Fri, 09 Apr 2021 06:25:54 GMT</pubDate>
+      
+      <description>《如何高效学习》的吐槽与读书笔记。</description>
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/Blog/">Blog</category>
+      
+      
+      
+      <comments>https://0skyu.cn/p/fecc.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>React Hooks 系列之5 useCallback</title>
+      <link>https://0skyu.cn/p/7d47.html</link>
+      <guid>https://0skyu.cn/p/7d47.html</guid>
+      <pubDate>Fri, 09 Apr 2021 06:25:54 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;ul&gt;
+&lt;li&gt;content&lt;br&gt;{:toc}&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;掌握 React Hooks api 将更好的帮助你在工作中使用，对 React 的掌握更上一层楼。本系列将使用大量实例代码和效果展示，非常易于初学者和复习使用。&lt;/p&gt;
+&lt;p&gt;在我们开始深入学习</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/JavaScript/">JavaScript</category>
+      
+      
+      <category domain="https://0skyu.cn/tags/React-hooks/">React hooks</category>
+      
+      
+      <comments>https://0skyu.cn/p/7d47.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>React Hooks 系列之6 useMemo</title>
+      <link>https://0skyu.cn/p/a342.html</link>
+      <guid>https://0skyu.cn/p/a342.html</guid>
+      <pubDate>Fri, 09 Apr 2021 06:25:54 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;ul&gt;
+&lt;li&gt;content&lt;br&gt;{:toc}&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;掌握 React Hooks api 将更好的帮助你在工作中使用，对 React 的掌握更上一层楼。本系列将使用大量实例代码和效果展示，非常易于初学者和复习使用。&lt;/p&gt;
+&lt;p&gt;上一章，我们学习了</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/JavaScript/">JavaScript</category>
+      
+      
+      <category domain="https://0skyu.cn/tags/React-hooks/">React hooks</category>
+      
+      
+      <comments>https://0skyu.cn/p/a342.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>React Hooks 系列之7 useRef</title>
+      <link>https://0skyu.cn/p/4e5b.html</link>
+      <guid>https://0skyu.cn/p/4e5b.html</guid>
+      <pubDate>Fri, 09 Apr 2021 06:25:54 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;ul&gt;
+&lt;li&gt;content&lt;br&gt;{:toc}&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;掌握 React Hooks api 将更好的帮助你在工作中使用，对 React</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/JavaScript/">JavaScript</category>
+      
+      
+      <category domain="https://0skyu.cn/tags/React-hooks/">React hooks</category>
+      
+      
+      <comments>https://0skyu.cn/p/4e5b.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>React Hooks 系列之8 custom Hook</title>
+      <link>https://0skyu.cn/p/f1c9.html</link>
+      <guid>https://0skyu.cn/p/f1c9.html</guid>
+      <pubDate>Fri, 09 Apr 2021 06:25:54 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;ul&gt;
+&lt;li&gt;content&lt;br&gt;{:toc}&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;掌握 React Hooks api 将更好的帮助你在工作中使用，对 React</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/JavaScript/">JavaScript</category>
+      
+      
+      <category domain="https://0skyu.cn/tags/React-hooks/">React hooks</category>
+      
+      
+      <comments>https://0skyu.cn/p/f1c9.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Data Representation - Integer</title>
+      <link>https://0skyu.cn/p/b79.html</link>
+      <guid>https://0skyu.cn/p/b79.html</guid>
+      <pubDate>Fri, 09 Apr 2021 06:25:54 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;Integers, or &lt;em&gt;whole number&lt;/em&gt; from elemental mathematics, are the most common and&lt;br&gt;fundamental numbers used in the computers.</description>
+          
+        
+      
+      
+      
+      
       
       <category domain="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/">笔记</category>
       
-      <category domain="https://0skyu.cn/tags/PLF-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/">PLF (编程语言基础)</category>
+      <category domain="https://0skyu.cn/tags/%E5%9F%BA%E7%A1%80/">基础</category>
+      
+      <category domain="https://0skyu.cn/tags/C/">C</category>
+      
+      <category domain="https://0skyu.cn/tags/C/">C++</category>
       
       
-      <comments>https://0skyu.cn/p/ed68.html#disqus_thread</comments>
+      <comments>https://0skyu.cn/p/b79.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Data Representation - Floating Point Numbers</title>
+      <link>https://0skyu.cn/p/5157.html</link>
+      <guid>https://0skyu.cn/p/5157.html</guid>
+      <pubDate>Fri, 09 Apr 2021 06:25:54 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;In the last episode we talked about the data representation of integer, a kind&lt;br&gt;of fixed-point numbers. Today we’re going to learn</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/tags/%E7%AC%94%E8%AE%B0/">笔记</category>
+      
+      <category domain="https://0skyu.cn/tags/%E5%9F%BA%E7%A1%80/">基础</category>
+      
+      <category domain="https://0skyu.cn/tags/C/">C</category>
+      
+      <category domain="https://0skyu.cn/tags/C/">C++</category>
+      
+      
+      <comments>https://0skyu.cn/p/5157.html#disqus_thread</comments>
       
     </item>
     
