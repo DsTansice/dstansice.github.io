@@ -15,115 +15,8 @@
     <atom:link href="https://0skyu.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>一个技术控，爱技术，爱分享</description>
-    <pubDate>Fri, 09 Apr 2021 09:02:15 GMT</pubDate>
+    <pubDate>Fri, 09 Apr 2021 09:32:39 GMT</pubDate>
     <generator>http://hexo.io/</generator>
-    
-    <item>
-      <title>GFM 与 Redcarpet 的不同点</title>
-      <link>https://0skyu.cn/p/435.html</link>
-      <guid>https://0skyu.cn/p/435.html</guid>
-      <pubDate>Fri, 09 Apr 2021 09:02:15 GMT</pubDate>
-      
-      <description>GFM 与 Redcarpet 有些许不同，在 GitHub Repository 与 GitHub Pages 里写作时应该注意这些区别，避免解析出来不是自己想要的效果。</description>
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/categories/Markdown/">Markdown</category>
-      
-      
-      
-      <comments>https://0skyu.cn/p/435.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Java 对象释放与 finalize 方法</title>
-      <link>https://0skyu.cn/p/7dfb.html</link>
-      <guid>https://0skyu.cn/p/7dfb.html</guid>
-      <pubDate>Fri, 09 Apr 2021 09:02:15 GMT</pubDate>
-      
-      <description>关于 Java 对象释放的疑惑解答，以及 finalize 方法的相关知识。</description>
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/categories/Java/">Java</category>
-      
-      
-      
-      <comments>https://0skyu.cn/p/7dfb.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>为 Markdown 生成 TOC 的 Vim 插件</title>
-      <link>https://0skyu.cn/p/3c46.html</link>
-      <guid>https://0skyu.cn/p/3c46.html</guid>
-      <pubDate>Fri, 09 Apr 2021 09:02:15 GMT</pubDate>
-      
-      <description>为 Markdown 自动生成 Table of Contents 的 Vim 插件</description>
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/categories/Vim/">Vim</category>
-      
-      
-      
-      <comments>https://0skyu.cn/p/3c46.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://0skyu.cn/p/3054.html</link>
-      <guid>https://0skyu.cn/p/3054.html</guid>
-      <pubDate>Fri, 09 Apr 2021 09:02:15 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;hr&gt;
-&lt;p&gt;layout:     post&lt;br&gt;title:      Objective-C Runtime 详解&lt;br&gt;subtitle:   Runtime 详解&lt;br&gt;date:       2017-02-04&lt;br&gt;author:    </description>
-          
-        
-      
-      
-      
-      
-      
-      
-      <comments>https://0skyu.cn/p/3054.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>actions的测试</title>
-      <link>https://0skyu.cn/p/a9a1.html</link>
-      <guid>https://0skyu.cn/p/a9a1.html</guid>
-      <pubDate>Fri, 09 Apr 2021 09:02:15 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;actions的测试&lt;br&gt;好&lt;br&gt;👌🏻&lt;/p&gt;
-&lt;p&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align:</description>
-          
-        
-      
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/tags/%E6%B5%8B%E8%AF%95/">测试</category>
-      
-      
-      <comments>https://0skyu.cn/p/a9a1.html#disqus_thread</comments>
-      
-    </item>
     
     <item>
       <title>VS2019使用教程（使用VS2019编写C语言程序）</title>
@@ -500,6 +393,160 @@
       
       
       <comments>https://0skyu.cn/p/acf4.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>照片动起来！</title>
+      <link>https://0skyu.cn/p/726e.html</link>
+      <guid>https://0skyu.cn/p/726e.html</guid>
+      <pubDate>Sat, 03 Apr 2021 16:00:00 GMT</pubDate>
+      
+      <description>照片动起来！</description>
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/%E7%A8%8B%E5%BA%8F%E5%8F%91%E5%B8%83/">程序发布</category>
+      
+      
+      <category domain="https://0skyu.cn/tags/PWA/">PWA</category>
+      
+      <category domain="https://0skyu.cn/tags/%E7%BD%91%E7%AB%99/">网站</category>
+      
+      <category domain="https://0skyu.cn/tags/%E7%B3%BB%E7%BB%9F/">系统</category>
+      
+      <category domain="https://0skyu.cn/tags/%E5%8D%87%E7%BA%A7/">升级</category>
+      
+      <category domain="https://0skyu.cn/tags/%E5%9C%A8%E7%BA%BF/">在线</category>
+      
+      <category domain="https://0skyu.cn/tags/%E6%8A%80%E6%9C%AF/">技术</category>
+      
+      <category domain="https://0skyu.cn/tags/%E6%9B%B4%E6%96%B0/">更新</category>
+      
+      <category domain="https://0skyu.cn/tags/APP/">APP</category>
+      
+      <category domain="https://0skyu.cn/tags/%E5%8D%87%E7%BA%A7app/">升级app</category>
+      
+      <category domain="https://0skyu.cn/tags/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/">更新日志</category>
+      
+      
+      <comments>https://0skyu.cn/p/726e.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>还是要说一下的</title>
+      <link>https://0skyu.cn/p/3eed.html</link>
+      <guid>https://0skyu.cn/p/3eed.html</guid>
+      <pubDate>Sat, 03 Apr 2021 16:00:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;由于本网站的服务器不够稳定。&lt;/p&gt;
+&lt;p&gt;所以有条件的用户可以添加PWA到桌面来访问的网站。&lt;/p&gt;
+&lt;p&gt;主站 0skyu.cn&lt;/p&gt;
+&lt;p&gt;镜像站</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/tags/%E7%94%A8%E6%88%B7%E9%A1%BB%E7%9F%A5/">用户须知</category>
+      
+      
+      <comments>https://0skyu.cn/p/3eed.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>基于Butterfly的外挂标签引入</title>
+      <link>https://0skyu.cn/p/7d58.html</link>
+      <guid>https://0skyu.cn/p/7d58.html</guid>
+      <pubDate>Fri, 02 Apr 2021 21:55:44 GMT</pubDate>
+      
+      <description>添加大量外挂标签样式。</description>
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/%F0%9F%8D%A1Akilar%E3%81%AE%E7%B3%96%E8%91%AB%E8%8A%A6/">🍡Akilarの糖葫芦</category>
+      
+      
+      <category domain="https://0skyu.cn/tags/%F0%9F%93%81Hexo/">📁Hexo</category>
+      
+      <category domain="https://0skyu.cn/tags/%F0%9F%A6%8BButterfly/">🦋Butterfly</category>
+      
+      
+      <comments>https://0skyu.cn/p/7d58.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>哔哔一下</title>
+      <link>https://0skyu.cn/p/57bd.html</link>
+      <guid>https://0skyu.cn/p/57bd.html</guid>
+      <pubDate>Fri, 02 Apr 2021 16:00:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;!-- 存放哔哔的容器 --&gt;
+&lt;p&gt;&lt;div id=&quot;bbtalk&quot;&gt;&lt;/div&gt;&lt;br&gt;&lt;!-- 引用 bbtalk --&gt;&lt;/p&gt;
+&lt;script</description>
+          
+        
+      
+      
+      
+      
+      
+      
+      <comments>https://0skyu.cn/p/57bd.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>外挂标签实例</title>
+      <link>https://0skyu.cn/p/be04.html</link>
+      <guid>https://0skyu.cn/p/be04.html</guid>
+      <pubDate>Fri, 02 Apr 2021 16:00:00 GMT</pubDate>
+      
+      <description>外挂标签实例</description>
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/categories/%E7%A8%8B%E5%BA%8F%E5%8F%91%E5%B8%83/">程序发布</category>
+      
+      
+      <category domain="https://0skyu.cn/tags/PWA/">PWA</category>
+      
+      <category domain="https://0skyu.cn/tags/%E7%BD%91%E7%AB%99/">网站</category>
+      
+      <category domain="https://0skyu.cn/tags/%E7%B3%BB%E7%BB%9F/">系统</category>
+      
+      <category domain="https://0skyu.cn/tags/%E5%8D%87%E7%BA%A7/">升级</category>
+      
+      <category domain="https://0skyu.cn/tags/%E5%9C%A8%E7%BA%BF/">在线</category>
+      
+      <category domain="https://0skyu.cn/tags/%E6%8A%80%E6%9C%AF/">技术</category>
+      
+      <category domain="https://0skyu.cn/tags/%E6%9B%B4%E6%96%B0/">更新</category>
+      
+      <category domain="https://0skyu.cn/tags/APP/">APP</category>
+      
+      <category domain="https://0skyu.cn/tags/%E5%8D%87%E7%BA%A7app/">升级app</category>
+      
+      <category domain="https://0skyu.cn/tags/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/">更新日志</category>
+      
+      
+      <comments>https://0skyu.cn/p/be04.html#disqus_thread</comments>
       
     </item>
     

@@ -6,7 +6,7 @@
   <link href="https://0skyu.cn/atom.xml" rel="self"/>
   
   <link href="https://0skyu.cn/"/>
-  <updated>2021-04-09T09:02:15.927Z</updated>
+  <updated>2021-04-09T09:32:39.051Z</updated>
   <id>https://0skyu.cn/</id>
   
   <author>
@@ -17,108 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>GFM 与 Redcarpet 的不同点</title>
-    <link href="https://0skyu.cn/p/435.html"/>
-    <id>https://0skyu.cn/p/435.html</id>
-    <published>2021-04-09T09:02:15.927Z</published>
-    <updated>2021-04-09T09:02:15.927Z</updated>
-    
-    
-    <summary type="html">GFM 与 Redcarpet 有些许不同，在 GitHub Repository 与 GitHub Pages 里写作时应该注意这些区别，避免解析出来不是自己想要的效果。</summary>
-    
-    
-    
-    <category term="Markdown" scheme="https://0skyu.cn/categories/Markdown/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Java 对象释放与 finalize 方法</title>
-    <link href="https://0skyu.cn/p/7dfb.html"/>
-    <id>https://0skyu.cn/p/7dfb.html</id>
-    <published>2021-04-09T09:02:15.927Z</published>
-    <updated>2021-04-09T09:02:15.927Z</updated>
-    
-    
-    <summary type="html">关于 Java 对象释放的疑惑解答，以及 finalize 方法的相关知识。</summary>
-    
-    
-    
-    <category term="Java" scheme="https://0skyu.cn/categories/Java/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>为 Markdown 生成 TOC 的 Vim 插件</title>
-    <link href="https://0skyu.cn/p/3c46.html"/>
-    <id>https://0skyu.cn/p/3c46.html</id>
-    <published>2021-04-09T09:02:15.927Z</published>
-    <updated>2021-04-09T09:02:15.927Z</updated>
-    
-    
-    <summary type="html">为 Markdown 自动生成 Table of Contents 的 Vim 插件</summary>
-    
-    
-    
-    <category term="Vim" scheme="https://0skyu.cn/categories/Vim/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="https://0skyu.cn/p/3054.html"/>
-    <id>https://0skyu.cn/p/3054.html</id>
-    <published>2021-04-09T09:02:15.927Z</published>
-    <updated>2021-04-09T09:02:15.927Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;hr&gt;
-&lt;p&gt;layout:     post&lt;br&gt;title:      Objective-C Runtime 详解&lt;br&gt;subtitle:   Runtime 详解&lt;br&gt;date:       2017-02-04&lt;br&gt;author:    </summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>actions的测试</title>
-    <link href="https://0skyu.cn/p/a9a1.html"/>
-    <id>https://0skyu.cn/p/a9a1.html</id>
-    <published>2021-04-09T09:02:15.903Z</published>
-    <updated>2021-04-09T09:02:15.903Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;actions的测试&lt;br&gt;好&lt;br&gt;👌🏻&lt;/p&gt;
-&lt;p&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align:</summary>
-        
-      
-    
-    
-    
-    
-    <category term="测试" scheme="https://0skyu.cn/tags/%E6%B5%8B%E8%AF%95/"/>
-    
-  </entry>
-  
-  <entry>
     <title>VS2019使用教程（使用VS2019编写C语言程序）</title>
     <link href="https://0skyu.cn/p/e0b0.html"/>
     <id>https://0skyu.cn/p/e0b0.html</id>
     <published>2021-04-08T16:00:00.000Z</published>
-    <updated>2021-04-09T09:02:15.943Z</updated>
+    <updated>2021-04-09T09:32:39.051Z</updated>
     
     
       
@@ -142,7 +45,7 @@
     <link href="https://0skyu.cn/p/53d0.html"/>
     <id>https://0skyu.cn/p/53d0.html</id>
     <published>2021-04-06T16:00:00.000Z</published>
-    <updated>2021-04-09T09:02:15.943Z</updated>
+    <updated>2021-04-09T09:32:39.051Z</updated>
     
     
       
@@ -165,7 +68,7 @@
     <link href="https://0skyu.cn/p/19fe.html"/>
     <id>https://0skyu.cn/p/19fe.html</id>
     <published>2021-04-06T16:00:00.000Z</published>
-    <updated>2021-04-09T09:02:15.943Z</updated>
+    <updated>2021-04-09T09:32:39.051Z</updated>
     
     
       
@@ -189,7 +92,7 @@
     <link href="https://0skyu.cn/p/aad3.html"/>
     <id>https://0skyu.cn/p/aad3.html</id>
     <published>2021-04-06T16:00:00.000Z</published>
-    <updated>2021-04-09T09:02:15.943Z</updated>
+    <updated>2021-04-09T09:32:39.051Z</updated>
     
     
       
@@ -212,7 +115,7 @@
     <link href="https://0skyu.cn/p/577b.html"/>
     <id>https://0skyu.cn/p/577b.html</id>
     <published>2021-04-06T16:00:00.000Z</published>
-    <updated>2021-04-09T09:02:15.943Z</updated>
+    <updated>2021-04-09T09:32:39.051Z</updated>
     
     
       
@@ -235,7 +138,7 @@
     <link href="https://0skyu.cn/p/6962.html"/>
     <id>https://0skyu.cn/p/6962.html</id>
     <published>2021-04-06T16:00:00.000Z</published>
-    <updated>2021-04-09T09:02:15.943Z</updated>
+    <updated>2021-04-09T09:32:39.051Z</updated>
     
     
       
@@ -258,7 +161,7 @@
     <link href="https://0skyu.cn/p/1719.html"/>
     <id>https://0skyu.cn/p/1719.html</id>
     <published>2021-04-06T16:00:00.000Z</published>
-    <updated>2021-04-09T09:02:15.943Z</updated>
+    <updated>2021-04-09T09:32:39.051Z</updated>
     
     
       
@@ -281,7 +184,7 @@
     <link href="https://0skyu.cn/p/8fee.html"/>
     <id>https://0skyu.cn/p/8fee.html</id>
     <published>2021-04-06T16:00:00.000Z</published>
-    <updated>2021-04-09T09:02:15.943Z</updated>
+    <updated>2021-04-09T09:32:39.051Z</updated>
     
     
       
@@ -304,7 +207,7 @@
     <link href="https://0skyu.cn/p/aaf1.html"/>
     <id>https://0skyu.cn/p/aaf1.html</id>
     <published>2021-04-05T16:00:00.000Z</published>
-    <updated>2021-04-09T09:02:15.919Z</updated>
+    <updated>2021-04-09T09:32:39.027Z</updated>
     
     
       
@@ -327,7 +230,7 @@
     <link href="https://0skyu.cn/p/7c7a.html"/>
     <id>https://0skyu.cn/p/7c7a.html</id>
     <published>2021-04-05T16:00:00.000Z</published>
-    <updated>2021-04-09T09:02:15.919Z</updated>
+    <updated>2021-04-09T09:32:39.027Z</updated>
     
     
       
@@ -351,7 +254,7 @@
     <link href="https://0skyu.cn/p/7462.html"/>
     <id>https://0skyu.cn/p/7462.html</id>
     <published>2021-04-05T16:00:00.000Z</published>
-    <updated>2021-04-09T09:02:15.919Z</updated>
+    <updated>2021-04-09T09:32:39.027Z</updated>
     
     
       
@@ -374,7 +277,7 @@
     <link href="https://0skyu.cn/p/8ee6.html"/>
     <id>https://0skyu.cn/p/8ee6.html</id>
     <published>2021-04-05T16:00:00.000Z</published>
-    <updated>2021-04-09T09:02:15.919Z</updated>
+    <updated>2021-04-09T09:32:39.027Z</updated>
     
     
       
@@ -397,7 +300,7 @@
     <link href="https://0skyu.cn/p/592d.html"/>
     <id>https://0skyu.cn/p/592d.html</id>
     <published>2021-04-05T16:00:00.000Z</published>
-    <updated>2021-04-09T09:02:15.919Z</updated>
+    <updated>2021-04-09T09:32:39.027Z</updated>
     
     
       
@@ -420,7 +323,7 @@
     <link href="https://0skyu.cn/p/9be8.html"/>
     <id>https://0skyu.cn/p/9be8.html</id>
     <published>2021-04-05T16:00:00.000Z</published>
-    <updated>2021-04-09T09:02:15.919Z</updated>
+    <updated>2021-04-09T09:32:39.027Z</updated>
     
     
       
@@ -443,7 +346,7 @@
     <link href="https://0skyu.cn/p/acf4.html"/>
     <id>https://0skyu.cn/p/acf4.html</id>
     <published>2021-04-05T16:00:00.000Z</published>
-    <updated>2021-04-09T09:02:15.919Z</updated>
+    <updated>2021-04-09T09:32:39.027Z</updated>
     
     
       
@@ -458,6 +361,150 @@
     
     
     <category term="香香" scheme="https://0skyu.cn/tags/%E9%A6%99%E9%A6%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>照片动起来！</title>
+    <link href="https://0skyu.cn/p/726e.html"/>
+    <id>https://0skyu.cn/p/726e.html</id>
+    <published>2021-04-03T16:00:00.000Z</published>
+    <updated>2021-04-09T09:32:39.011Z</updated>
+    
+    
+    <summary type="html">照片动起来！</summary>
+    
+    
+    
+    <category term="程序发布" scheme="https://0skyu.cn/categories/%E7%A8%8B%E5%BA%8F%E5%8F%91%E5%B8%83/"/>
+    
+    
+    <category term="PWA" scheme="https://0skyu.cn/tags/PWA/"/>
+    
+    <category term="网站" scheme="https://0skyu.cn/tags/%E7%BD%91%E7%AB%99/"/>
+    
+    <category term="系统" scheme="https://0skyu.cn/tags/%E7%B3%BB%E7%BB%9F/"/>
+    
+    <category term="升级" scheme="https://0skyu.cn/tags/%E5%8D%87%E7%BA%A7/"/>
+    
+    <category term="在线" scheme="https://0skyu.cn/tags/%E5%9C%A8%E7%BA%BF/"/>
+    
+    <category term="技术" scheme="https://0skyu.cn/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="更新" scheme="https://0skyu.cn/tags/%E6%9B%B4%E6%96%B0/"/>
+    
+    <category term="APP" scheme="https://0skyu.cn/tags/APP/"/>
+    
+    <category term="升级app" scheme="https://0skyu.cn/tags/%E5%8D%87%E7%BA%A7app/"/>
+    
+    <category term="更新日志" scheme="https://0skyu.cn/tags/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>还是要说一下的</title>
+    <link href="https://0skyu.cn/p/3eed.html"/>
+    <id>https://0skyu.cn/p/3eed.html</id>
+    <published>2021-04-03T16:00:00.000Z</published>
+    <updated>2021-04-09T09:32:39.027Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;由于本网站的服务器不够稳定。&lt;/p&gt;
+&lt;p&gt;所以有条件的用户可以添加PWA到桌面来访问的网站。&lt;/p&gt;
+&lt;p&gt;主站 0skyu.cn&lt;/p&gt;
+&lt;p&gt;镜像站</summary>
+        
+      
+    
+    
+    
+    
+    <category term="用户须知" scheme="https://0skyu.cn/tags/%E7%94%A8%E6%88%B7%E9%A1%BB%E7%9F%A5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>基于Butterfly的外挂标签引入</title>
+    <link href="https://0skyu.cn/p/7d58.html"/>
+    <id>https://0skyu.cn/p/7d58.html</id>
+    <published>2021-04-02T21:55:44.000Z</published>
+    <updated>2021-04-09T09:32:39.011Z</updated>
+    
+    
+    <summary type="html">添加大量外挂标签样式。</summary>
+    
+    
+    
+    <category term="🍡Akilarの糖葫芦" scheme="https://0skyu.cn/categories/%F0%9F%8D%A1Akilar%E3%81%AE%E7%B3%96%E8%91%AB%E8%8A%A6/"/>
+    
+    
+    <category term="📁Hexo" scheme="https://0skyu.cn/tags/%F0%9F%93%81Hexo/"/>
+    
+    <category term="🦋Butterfly" scheme="https://0skyu.cn/tags/%F0%9F%A6%8BButterfly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>哔哔一下</title>
+    <link href="https://0skyu.cn/p/57bd.html"/>
+    <id>https://0skyu.cn/p/57bd.html</id>
+    <published>2021-04-02T16:00:00.000Z</published>
+    <updated>2021-04-09T09:32:39.011Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;!-- 存放哔哔的容器 --&gt;
+&lt;p&gt;&lt;div id=&quot;bbtalk&quot;&gt;&lt;/div&gt;&lt;br&gt;&lt;!-- 引用 bbtalk --&gt;&lt;/p&gt;
+&lt;script</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>外挂标签实例</title>
+    <link href="https://0skyu.cn/p/be04.html"/>
+    <id>https://0skyu.cn/p/be04.html</id>
+    <published>2021-04-02T16:00:00.000Z</published>
+    <updated>2021-04-09T09:32:39.027Z</updated>
+    
+    
+    <summary type="html">外挂标签实例</summary>
+    
+    
+    
+    <category term="程序发布" scheme="https://0skyu.cn/categories/%E7%A8%8B%E5%BA%8F%E5%8F%91%E5%B8%83/"/>
+    
+    
+    <category term="PWA" scheme="https://0skyu.cn/tags/PWA/"/>
+    
+    <category term="网站" scheme="https://0skyu.cn/tags/%E7%BD%91%E7%AB%99/"/>
+    
+    <category term="系统" scheme="https://0skyu.cn/tags/%E7%B3%BB%E7%BB%9F/"/>
+    
+    <category term="升级" scheme="https://0skyu.cn/tags/%E5%8D%87%E7%BA%A7/"/>
+    
+    <category term="在线" scheme="https://0skyu.cn/tags/%E5%9C%A8%E7%BA%BF/"/>
+    
+    <category term="技术" scheme="https://0skyu.cn/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="更新" scheme="https://0skyu.cn/tags/%E6%9B%B4%E6%96%B0/"/>
+    
+    <category term="APP" scheme="https://0skyu.cn/tags/APP/"/>
+    
+    <category term="升级app" scheme="https://0skyu.cn/tags/%E5%8D%87%E7%BA%A7app/"/>
+    
+    <category term="更新日志" scheme="https://0skyu.cn/tags/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
     
   </entry>
   
