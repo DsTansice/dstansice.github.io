@@ -15,7 +15,7 @@
     <atom:link href="https://0skyu.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>一个技术控，爱技术，爱分享</description>
-    <pubDate>Thu, 15 Apr 2021 03:48:55 GMT</pubDate>
+    <pubDate>Thu, 15 Apr 2021 10:12:21 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -238,6 +238,32 @@
       
       
       <comments>https://0skyu.cn/p/8fee.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>actions的测试</title>
+      <link>https://0skyu.cn/p/a9a1.html</link>
+      <guid>https://0skyu.cn/p/a9a1.html</guid>
+      <pubDate>Mon, 05 Apr 2021 16:00:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;actions的测试&lt;br&gt;好&lt;br&gt;👌🏻&lt;/p&gt;
+&lt;p&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align:</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/tags/%E6%B5%8B%E8%AF%95/">测试</category>
+      
+      
+      <comments>https://0skyu.cn/p/a9a1.html#disqus_thread</comments>
       
     </item>
     
@@ -504,31 +530,6 @@
       
       
       <comments>https://0skyu.cn/p/7d58.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>哔哔一下</title>
-      <link>https://0skyu.cn/p/57bd.html</link>
-      <guid>https://0skyu.cn/p/57bd.html</guid>
-      <pubDate>Fri, 02 Apr 2021 16:00:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;!-- 存放哔哔的容器 --&gt;
-&lt;p&gt;&lt;div id=&quot;bbtalk&quot;&gt;&lt;/div&gt;&lt;br&gt;&lt;!-- 引用 bbtalk --&gt;&lt;/p&gt;
-&lt;script</description>
-          
-        
-      
-      
-      
-      
-      
-      
-      <comments>https://0skyu.cn/p/57bd.html#disqus_thread</comments>
       
     </item>
     
