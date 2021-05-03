@@ -15,8 +15,34 @@
     <atom:link href="https://0skyu.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>一个技术控，爱技术，爱分享</description>
-    <pubDate>Sun, 25 Apr 2021 10:19:34 GMT</pubDate>
+    <pubDate>Mon, 03 May 2021 11:46:34 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>五一假期</title>
+      <link>https://0skyu.cn/p/9df9.html</link>
+      <guid>https://0skyu.cn/p/9df9.html</guid>
+      <pubDate>Sun, 02 May 2021 16:00:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;也没啥&quot;&gt;&lt;a href=&quot;#也没啥&quot; class=&quot;headerlink&quot; title=&quot;也没啥&quot;&gt;&lt;/a&gt;也没啥&lt;/h1&gt;&lt;p&gt;反正休息完就是看单片机&lt;br&gt;（╯‵□′）╯︵┴─┴&lt;/p&gt;
+&lt;h1 id=&quot;诶😩&quot;&gt;&lt;a href=&quot;#诶😩&quot;</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://0skyu.cn/tags/%E7%94%9F%E6%B4%BB%E5%88%86%E4%BA%AB/">生活分享</category>
+      
+      
+      <comments>https://0skyu.cn/p/9df9.html#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>最近505创新实践基地开例会。</title>
@@ -504,34 +530,6 @@
       
       
       <comments>https://0skyu.cn/p/726e.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>还是要说一下的</title>
-      <link>https://0skyu.cn/p/3eed.html</link>
-      <guid>https://0skyu.cn/p/3eed.html</guid>
-      <pubDate>Sat, 03 Apr 2021 16:00:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;由于本网站的服务器不够稳定。&lt;/p&gt;
-&lt;p&gt;所以有条件的用户可以添加PWA到桌面来访问的网站。&lt;/p&gt;
-&lt;p&gt;主站 0skyu.cn&lt;/p&gt;
-&lt;p&gt;镜像站</description>
-          
-        
-      
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/tags/%E7%94%A8%E6%88%B7%E9%A1%BB%E7%9F%A5/">用户须知</category>
-      
-      
-      <comments>https://0skyu.cn/p/3eed.html#disqus_thread</comments>
       
     </item>
     
