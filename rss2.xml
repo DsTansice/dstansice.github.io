@@ -15,7 +15,7 @@
     <atom:link href="https://0skyu.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>一个技术控，爱技术，爱分享，爱音乐</description>
-    <pubDate>Thu, 17 Jun 2021 08:38:27 GMT</pubDate>
+    <pubDate>Thu, 17 Jun 2021 09:48:46 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -12803,29 +12803,6 @@
     </item>
     
     <item>
-      <title>FreeVpnToShare</title>
-      <link>https://0skyu.cn/p/2eac.html</link>
-      <guid>https://0skyu.cn/p/2eac.html</guid>
-      <pubDate>Mon, 22 Apr 2019 00:40:39 GMT</pubDate>
-      
-      <description>&lt;h1 id=&quot;1-写在前面&quot;&gt;&lt;a href=&quot;#1-写在前面&quot; class=&quot;headerlink&quot; title=&quot;1 写在前面&quot;&gt;&lt;/a&gt;1 写在前面&lt;/h1&gt;&lt;p&gt;如果有能力，可以尝试自己搭建VPN&lt;/p&gt;</description>
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/categories/ToolBox/">ToolBox</category>
-      
-      
-      <category domain="https://0skyu.cn/tags/ToolBox/">ToolBox</category>
-      
-      <category domain="https://0skyu.cn/tags/FreeVPN/">FreeVPN</category>
-      
-      
-      <comments>https://0skyu.cn/p/2eac.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
       <title>测试自定义文章底部版权声明</title>
       <link>https://0skyu.cn/p/60b9.html</link>
       <guid>https://0skyu.cn/p/60b9.html</guid>
@@ -17107,35 +17084,6 @@
     </item>
     
     <item>
-      <title>proxychains-ng简单配置与使用</title>
-      <link>https://0skyu.cn/p/c3d6.html</link>
-      <guid>https://0skyu.cn/p/c3d6.html</guid>
-      <pubDate>Thu, 15 Jun 2017 07:33:33 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;通过配置ss可以实现游览器翻墙，但</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/categories/%E7%AC%94%E8%AE%B0/">笔记</category>
-      
-      
-      <category domain="https://0skyu.cn/tags/Linux/">Linux</category>
-      
-      <category domain="https://0skyu.cn/tags/%E7%BF%BB%E5%A2%99/">翻墙</category>
-      
-      
-      <comments>https://0skyu.cn/p/c3d6.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
       <title>其他服务器访问windows7的虚拟机vm中ubuntu系统的方法</title>
       <link>https://0skyu.cn/p/74c9.html</link>
       <guid>https://0skyu.cn/p/74c9.html</guid>
@@ -20977,44 +20925,12 @@
       
       <category domain="https://0skyu.cn/tags/shadowsocks/">shadowsocks</category>
       
-      <category domain="https://0skyu.cn/tags/%E7%BF%BB%E5%A2%99/">翻墙</category>
-      
       <category domain="https://0skyu.cn/tags/windows/">windows</category>
+      
+      <category domain="https://0skyu.cn/tags/%E7%BF%BB%E5%A2%99/">翻墙</category>
       
       
       <comments>https://0skyu.cn/p/dc9e.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>站在 Shadowsocks 的肩膀上发现精彩的世界</title>
-      <link>https://0skyu.cn/p/b409.html</link>
-      <guid>https://0skyu.cn/p/b409.html</guid>
-      <pubDate>Thu, 26 May 2016 05:51:29 GMT</pubDate>
-      
-      <description>&lt;hr&gt;
-&lt;p&gt;国内的网络环境我不说相信大家都懂。虽然墙内的世界很丰富，但是墙外的世界还有着更加精彩的内容。这不得不让我想起了曾经看过的一部漫画——进击的巨人。大部分人都在墙内过着安逸的生活，但是总有那么一帮人，想要去墙外探索未知的世界。我就是这样的人！【然后收到了女票的好人卡一张😃】之前因为想要体验 Google 搜索、体验 Youtube、查阅学习资料，还有玩的部分游戏需要翻墙，找了很多免费的代理和 VPN，效果都不好，断断续续的。后来经过舍友的推荐，入了 Shadowsocks 的坑。体验了有两个月左右，效果很棒，访问速度也很快，强烈推荐给大家使用！！！(●’◡’●)&lt;/p&gt;</description>
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/categories/Shadowsocks/">Shadowsocks</category>
-      
-      
-      <category domain="https://0skyu.cn/tags/android/">android</category>
-      
-      <category domain="https://0skyu.cn/tags/linux/">linux</category>
-      
-      <category domain="https://0skyu.cn/tags/ubuntu/">ubuntu</category>
-      
-      <category domain="https://0skyu.cn/tags/shadowsocks/">shadowsocks</category>
-      
-      <category domain="https://0skyu.cn/tags/%E7%BF%BB%E5%A2%99/">翻墙</category>
-      
-      <category domain="https://0skyu.cn/tags/windows/">windows</category>
-      
-      
-      <comments>https://0skyu.cn/p/b409.html#disqus_thread</comments>
       
     </item>
     
@@ -24630,33 +24546,6 @@
     </item>
     
     <item>
-      <title>开眼看世界之路</title>
-      <link>https://0skyu.cn/p/7fd5.html</link>
-      <guid>https://0skyu.cn/p/7fd5.html</guid>
-      <pubDate>Thu, 26 Dec 2013 16:00:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;h1 id=&quot;开眼看世界&quot;&gt;&lt;a</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/categories/web/">web</category>
-      
-      
-      <category domain="https://0skyu.cn/tags/gfw/">gfw</category>
-      
-      
-      <comments>https://0skyu.cn/p/7fd5.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
       <title>深入SSH</title>
       <link>https://0skyu.cn/p/d3c.html</link>
       <guid>https://0skyu.cn/p/d3c.html</guid>
@@ -24774,27 +24663,6 @@
       
       
       <comments>https://0skyu.cn/p/b957.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>卓有成效</title>
-      <link>https://0skyu.cn/p/a34c.html</link>
-      <guid>https://0skyu.cn/p/a34c.html</guid>
-      <pubDate>Mon, 26 Aug 2013 16:32:50 GMT</pubDate>
-      
-      <description>&lt;blockquote&gt;
-&lt;p&gt;很多时候我们可以通过优化一些习惯性的常规做法来提高我们的效率&lt;/p&gt;
-&lt;/blockquote&gt;</description>
-      
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/tags/GTD/">GTD</category>
-      
-      
-      <comments>https://0skyu.cn/p/a34c.html#disqus_thread</comments>
       
     </item>
     
@@ -26878,33 +26746,6 @@
       
       
       <comments>https://0skyu.cn/p/2e28.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Proxy Switchy! 可以打开https，打不开http的解决方法</title>
-      <link>https://0skyu.cn/p/65b0.html</link>
-      <guid>https://0skyu.cn/p/65b0.html</guid>
-      <pubDate>Mon, 25 Apr 2011 16:00:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;之前的我Proxy</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://0skyu.cn/categories/web/">web</category>
-      
-      
-      <category domain="https://0skyu.cn/tags/proxy/">proxy</category>
-      
-      
-      <comments>https://0skyu.cn/p/65b0.html#disqus_thread</comments>
       
     </item>
     
