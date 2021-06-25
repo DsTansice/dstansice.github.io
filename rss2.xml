@@ -3,19 +3,19 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>空中有零</title>
+    <title>零域</title>
     <link>https://0skyu.cn/</link>
     
     <image>
       <url>https://0skyu.cn/icon.png</url>
-      <title>空中有零</title>
+      <title>零域</title>
       <link>https://0skyu.cn/</link>
     </image>
     
     <atom:link href="https://0skyu.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
-    <description>一个技术控，爱技术，爱分享，爱音乐</description>
-    <pubDate>Tue, 22 Jun 2021 09:11:50 GMT</pubDate>
+    <description>一个技术控，爱生活，爱技术，爱分享，爱音乐</description>
+    <pubDate>Fri, 25 Jun 2021 05:41:46 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
