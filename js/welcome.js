@@ -1,0 +1,1 @@
+function welcome(){let e="Welcome to pingo~";if(""!==document.referrer){let o=document.referrer.split("/")[2];if(e="Welcome，From"+o.toUpperCase()+"'User！",o.toUpperCase()==document.domain.toUpperCase())return}swal({title:"PinGo！",text:e+"\nI hope my story can benefit you！",imageUrl:"/pingo/ava.jpeg",timer:3e3,showConfirmButton:!1})}$(document).ready((()=>{welcome()}));
